@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-12-30
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -23,8 +23,8 @@ Version Consolidée au 1975-07-13
       - [Section 1 : Définitions (art. 45 à 47)](#20)
   - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 48 à 123)](#21)
     - [Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance (art. 48 à 76)](#22)
-      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 48 à 53)](#23)
-        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 48 à 53)](#24)
+      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 48 à 53-1)](#23)
+        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 48 à 53-1)](#24)
       - [Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance (art. 67 à 76)](#25)
     - [Chapitre III : Dispositions financières (art. 89 à 92)](#26)
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 100 à 123)](#27)
@@ -1965,6 +1965,39 @@ _Abrogé par_:
 _Cite_:
 
   - Loi n°1889-07-24
+
+
+###### Article 53-1
+
+Lorsque l'intervention d'une travailleuse familiale est de nature à éviter le placement d'un enfant au sens de l'article 48
+du présent code, le service d'aide sociale à l'enfance assume en tout ou partie les frais de cette intervention sur demande
+du père, de la mère ou de la personne qui a effectivement l'enfant en charge et selon des modalités fixées par voie
+réglementaire.
+
+Le recours au service d'une aide ménagère pourra être envisagé pour prolonger l'intervention de la travailleuse familiale
+dans le cas prévu à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°77-613 du 10 juin 1977
+  - Décret n°77-613 du 10 juin 1977 - art. 1 (Ab)
+  - Décret n°77-613 du 10 juin 1977 - art. 2 (Ab)
+  - Décret n°77-613 du 10 juin 1977 - art. 4 (Ab)
+  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+
+_Abrogé par_:
+
+  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 48 (Ab)
 
 
 ### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance<a id=25></a>
