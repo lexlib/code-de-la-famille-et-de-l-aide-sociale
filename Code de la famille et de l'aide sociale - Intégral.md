@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1974-11-20
+Version Consolidée au 1974-12-05
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -5944,6 +5944,36 @@ publique.*]
 _Anciens textes_:
 
   - Décret n°53-1186 1953-11-29 ART. 50
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Abrogé par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+
+
+###### Article 181-1
+
+L'aide médicale peut être également obtenue pour les médicaments, produits et objets contraceptifs, ainsi que les analyses et
+examens de laboratoire ordonnés en vue de prescriptions contraceptives, selon une procédure particulière fixée par décret.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale art. 183 :
+
+l'article 179 est applicable aux malades mentaux et aux personnes visées aux articles 214 et suivants du code de la santé
+publique.*]
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 45-1 (M)
+  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 125 (M)
 
 _Codifié par_:
 
