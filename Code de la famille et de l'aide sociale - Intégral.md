@@ -1,70 +1,65 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1986-01-08
+Version Consolidée au 1986-01-18
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
       - [Section 1 : Les associations familiales et les unions d'associations familiales (art. 1 à 16)](#3)
-      - [Section 1 : Les associations familiales et lse unions d'associations familiales (art. 13)](#4)
-      - [Section 2 : Fête des mères (art. 17 à 19)](#5)
-    - [Chapitre II : Protection matérielle de la famille (art. 20 à 37)](#6)
-      - [Section 1 : Formes générales de compensation des charges familiales (art. 20)](#7)
-      - [Section 2 : Carte nationale de priorité des mères de famille (art. 22 à 31)](#8)
-      - [Section 3 : Défense du patrimoine familial (art. 32 à 33)](#9)
-      - [Section 4 : Questions professionnelles et logement familial (art. 34 à 37)](#10)
-        - [Paragraphe 1 : Questions professionnelles (art. 34 à 36)](#11)
-        - [Paragraphe 2 : Logement familial (art. 37)](#12)
-    - [Chapitre III : Education familiale (art. 38 à 39)](#13)
-      - [Section 1 : Enseignement des problèmes démographiques (art. 38)](#14)
-      - [Section 2 : Formation ménagère et familiale (art. 39)](#15)
-  - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 40 à 100-3)](#16)
-    - [Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance (art. 40 à 72)](#17)
-      - [Section 1 : Missions du service de l'aide sociale à l'enfance (art. 40)](#18)
-      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 41 à 47)](#19)
-        - [Sous-section 1 : Aide à domicile (art. 42 à 44)](#20)
-        - [Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse (art. 45)](#21)
-        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 46 à 47)](#22)
-      - [Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance (art. 55 à 59-1)](#23)
-      - [Section 4 : Statut des pupilles de l'Etat (art. 60 à 65)](#24)
-      - [Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance (art. 66 à 72)](#25)
-    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#26)
-    - [Chapitre III : Dispositions financières (art. 83 à 88)](#27)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 95 à 123-8)](#28)
-      - [Section 1 : Protection générale des mineurs (art. 95 à 99)](#29)
-      - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-1 à 100-2)](#30)
-      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#31)
-      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#32)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile parental (art. 93 à 100-3)](#33)
-      - [Section 1 : Protection générale des mineurs (art. 93 à 94)](#34)
-      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3)](#35)
-  - [Titre II : Protection sociale de l'enfance (art. 78 à 80)](#36)
-    - [Chapitre II : Aide sociale à l'enfance (art. 78 à 80)](#37)
-      - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 78 à 80)](#38)
-  - [Titre III : Aide sociale (art. 124 à 186)](#39)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#40)
-    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale (art. 136 à 140)](#41)
-    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#42)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#43)
-      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#44)
-      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#45)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
-      - [Section 1 : Aide à domicile (art. 158 à 163)](#47)
-      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#48)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#49)
-      - [Section 1 : Dispositions communes (art. 166 à 168)](#50)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#51)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#52)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#53)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#54)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#55)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#56)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#57)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#58)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#59)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#60)
-  - [Titre VI : Le service social (art. 218 à 241)](#61)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#62)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#63)
-      - [Section 1 : Dispositions finales (art. 241)](#64)
+      - [Section 2 : Fête des mères (art. 17 à 19)](#4)
+    - [Chapitre II : Protection matérielle de la famille (art. 20 à 37)](#5)
+      - [Section 1 : Formes générales de compensation des charges familiales (art. 20)](#6)
+      - [Section 2 : Carte nationale de priorité des mères de famille (art. 22 à 31)](#7)
+      - [Section 3 : Défense du patrimoine familial (art. 32 à 33)](#8)
+      - [Section 4 : Questions professionnelles et logement familial (art. 34 à 37)](#9)
+        - [Paragraphe 1 : Questions professionnelles (art. 34 à 36)](#10)
+        - [Paragraphe 2 : Logement familial (art. 37)](#11)
+    - [Chapitre III : Education familiale (art. 38 à 39)](#12)
+      - [Section 1 : Enseignement des problèmes démographiques (art. 38)](#13)
+      - [Section 2 : Formation ménagère et familiale (art. 39)](#14)
+  - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 40 à 94)](#15)
+    - [Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance (art. 40 à 65)](#16)
+      - [Section 1 : Missions du service de l'aide sociale à l'enfance (art. 40)](#17)
+      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 41 à 47)](#18)
+        - [Sous-section 1 : Aide à domicile (art. 42 à 44)](#19)
+        - [Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse (art. 45)](#20)
+        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 46 à 47)](#21)
+      - [Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance (art. 55 à 59-1)](#22)
+      - [Section 4 : Statut des pupilles de l'Etat (art. 60 à 65)](#23)
+    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#24)
+    - [Chapitre III : Dispositions financières (art. 83 à 88)](#25)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 95 à 123-8)](#26)
+      - [Section 1 : Protection générale des mineurs (art. 95 à 99)](#27)
+      - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-1 à 100-2)](#28)
+      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3)](#29)
+      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#30)
+      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#31)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile parental (art. 93 à 94)](#32)
+      - [Section 1 : Protection générale des mineurs (art. 93 à 94)](#33)
+  - [Titre III : Aide sociale (art. 124 à 186)](#34)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#35)
+    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale (art. 136 à 140)](#36)
+    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#37)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#38)
+      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#39)
+      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#40)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#41)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#42)
+      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#43)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#44)
+      - [Section 1 : Dispositions communes (art. 166 à 168)](#45)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#46)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#47)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#48)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#49)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#50)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#51)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#52)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#53)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#54)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#55)
+  - [Titre VI : Le service social (art. 218 à 241)](#56)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#57)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#58)
+      - [Section 1 : Dispositions finales (art. 241)](#59)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -587,7 +582,46 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R211-7 (V)
 
 
-###### Article 14
+###### Article 12
+
+Les actes, pièces et écrits de toute nature passés ou rédigés en exécution de la présente section sont dispensés de tout
+droit de greffe. Les honoraires des notaires et des greffiers et les salaires des conservateurs des hypothèques sont réduits
+de moitié.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 :
+
+les dispositions du présent article du code sont applicables à l'union territoriale des associations familiales de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 883 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L211-11 (V)
+
+_Anciens textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 13 (T)
+
+
+###### Article 13
 
 Sous réserve des dispositions prévues par le deuxième alinéa du présent article, les contestations nées de la création ou du
 fonctionnement des unions départementales ou locales sont tranchées en dernier ressort par l'union nationale des associations
@@ -600,46 +634,113 @@ fédération ou confédération d'associations, ou d'une section d'association n
 antérieurement au 3 mars 1945 sont et demeurent placées sous le régime et bénéficient du statut défini par la présente
 section.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-323 1945-03-03 art. 17, alinéa final
-  - Code de la famille et de l'aide sociale. - art. 15 (T)
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Nouveaux textes_:
 
-  - Code de la famille et de l'aide sociale. - art. 13 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 13 (T)
+  - Code de l'action sociale et des familles - art. L211-12 (V)
+  - Code de l'action sociale et des familles - art. L232-24 (T)
+  - Code de la famille et de l'aide sociale. - art. 12 (Ab)
+
+_Anciens textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 14 (T)
 
 
-###### Article 15
+###### Article 14
 
 Les associations de famille créées antérieurement au 3 mars 1945 [*date limite*] sont et demeurent placées sous le régime et
 bénéficient du statut défini par la présente section.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de la famille et de l'aide sociale. - art. 13 (Ab)
+
 _Anciens textes_:
 
-  - Ordonnance 45-323 1945-03-03 art. 3
-  - Code de la famille et de l'aide sociale. - art. 16 (T)
+  - Code de la famille et de l'aide sociale. - art. 15 (T)
+
+
+###### Article 15
+
+Un décret en Conseil d'Etat fixe les conditions d'application de la présente section. Il précise notamment les modalités des
+élections des conseils d'administration de l'union nationale et des unions départementales.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 230 : les dispositions du présent article du code sont applicables à l'union
+territoriale des associations familiales de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L211-14 (V)
   - Code de la famille et de l'aide sociale. - art. 14 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 14 (T)
+  - Code de l'action sociale et des familles - art. L211-13 (V)
 
-_Cite_:
+_Anciens textes_:
 
   - Code de la famille et de l'aide sociale. - art. 16 (T)
 
@@ -650,66 +751,81 @@ _Cité par_:
 
 ###### Article 16
 
-Un décret en Conseil d'Etat fixe les conditions d'application de la présente section. Il précise notamment les modalités des
-élections des conseils d'administration de l'union nationale et des unions départementales.
+Lorsqu'un salarié est désigné pour assurer la représentation d'associations familiales par application de dispositions
+législatives ou réglementaires, son employeur est tenu de lui laisser le temps nécessaire pour se rendre et participer aux
+réunions où il doit assurer cette représentation.
+
+Cette autorisation d'absence ne peut être refusée par l'employeur que dans le cas où il estime, après avis conforme du comité
+d'entreprise ou, s'il n'en existe pas, des délégués du personnel, que cette absence pourrait avoir des conséquences
+préjudiciables à la production et à la marche de l'entreprise. La durée maximale annuelle d'absence par salarié est fixée par
+voie réglementaire.
+
+Le refus de cette autorisation d'absence par l'employeur est motivé. En cas de différend, l'inspecteur du travail peut être
+saisi par l'une des parties et pris pour arbitre.
+
+La participation de ces salariés aux réunions des organismes dont la liste est fixée par arrêté du ministre chargé de la
+famille n'entraîne aucune diminution de leur rémunération.
+
+Le temps passé hors de l'entreprise pendant les heures de travail des salariés participant aux réunions ci-dessus mentionnées
+pour l'exercice de leurs fonctions est assimilé à une durée de travail effectif pour la détermination de la durée des congés
+payés, du droit aux prestations d'assurances sociales et aux prestations familiales ainsi qu'au regard de tous les droits que
+le salarié tient du fait de son ancienneté dans l'entreprise.
+
+Les dépenses supportées par l'employeur en ce qui concerne le maintien du salaire lui sont remboursées, selon le cas, par
+l'union nationale des associations familiales ou par l'union départementale concernée sur les ressources du fonds spécial
+prévu au 1° de l'article 11 du présent code. Le budget du fonds est abondé en conséquence.
+
+**Nota:**
+
+[*Nota : Arrêté du 30 octobre 1986 : L'autorisation d'absence prévue au présent article ne peut excéder 40 heures par an -
+disposition applicable à titre transitoire pour une période de deux ans.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-323 1945-03-03 ART. 18
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 9 () JORF 18 janvier 1986
 
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 11 juin 1990
   - TXT_SOURCE: Arrêté du 11 juin 1990 - art. 1 (V)
 
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cité par_:
 
   - Arrêté du 30 octobre 1986 - art. 1 (M)
   - Code de la famille et de l'aide sociale. - art. 15 (T)
+  - Code de la famille et de l'aide sociale. - art. 16 (T)
   - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 11 (Ab)
 
 _Nouveaux textes_:
 
   - Code de la famille et de l'aide sociale. - art. 15 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 15 (T)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 16 (T)
+  - Code de l'action sociale et des familles - art. L211-13 (V)
 
 
-### Section 1 : Les associations familiales et lse unions d'associations familiales<a id=4></a>
-
-###### Article 13
-
-Ces actes, pièces et écrits sont également dispensés de tout droit de greffe [*exemption*]. Les honoraires des notaires et
-des greffiers et les salaires des conservateurs des hypothèques sont réduits de moitié.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-323 1945-03-03 art. 16
-  - Code de la famille et de l'aide sociale. - art. 14 (T)
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L211-12 (V)
-  - Code de l'action sociale et des familles - art. L232-24 (T)
-  - Code de la famille et de l'aide sociale. - art. 12 (Ab)
-
-
-### Section 2 : Fête des mères<a id=5></a>
+### Section 2 : Fête des mères<a id=4></a>
 
 ###### Article 17
 
@@ -792,9 +908,9 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-## Chapitre II : Protection matérielle de la famille<a id=6></a>
+## Chapitre II : Protection matérielle de la famille<a id=5></a>
 
-### Section 1 : Formes générales de compensation des charges familiales<a id=7></a>
+### Section 1 : Formes générales de compensation des charges familiales<a id=6></a>
 
 ###### Article 20
 
@@ -837,27 +953,28 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-### Section 2 : Carte nationale de priorité des mères de famille<a id=8></a>
+### Section 2 : Carte nationale de priorité des mères de famille<a id=7></a>
 
 ###### Article 22
 
-Une carte de priorité est attribuée aux mères de famille remplissant l'une des conditions suivantes :
+Une carte de priorité est délivrée par les organismes chargés du versement des prestations familiales aux personnes
+remplissant l'une des conditions suivantes [*bénéficiaires*] :
 
-a) mères de famille ayant au moins trois enfants [*nombre*] de moins de seize ans ou deux enfants de moins de quatre ans, à
-la condition que ces enfants soient légitimes, reconnus ou adoptés ;
+a) Femmes enceintes ;
 
-b) femmes enceintes ;
+b) Ménages ou personnes ayant la charge effective et permanente, au sens de l'article L. 519 du code de la sécurité sociale,
+d'un enfant de moins de trois ans ;
 
-c) mères allaitant leur enfant au sein ;
+c) Ménages ou personnes ayant la charge effective ou permanente, au sens du même article, d'au moins trois enfants de moins
+de seize ans ou de deux enfants de moins de quatre ans.
 
-d) mères décorées de la médaille de la famille française.
+Cette carte est délivrée par l'autorité administrative de l'Etat aux personnes qui, décorées de la médaille de la famille
+française, n'en sont pas moins titulaires par application de l'alinéa premier du présent article.
 
-Elle peut être délivrée à un autre membre de la famille au lieu et place des mères visées au a, lorsque celles-ci sont
-décédées ou se trouvent dans l'incapacité physique d'utiliser personnellement la carte.
+La carte est valable pour toute la durée de la grossesse.
 
-Elle n'est pas délivrée [*non*] aux mères qui, par suite de divorce, de séparation ou d'abandon de famille, ne vivent pas
-avec leurs enfants ; elle peut, dans ce cas, être délivrée à un autre membre de la famille. Il ne peut être délivré plus
-d'une carte par foyer [*nombre*].
+Dans les autres cas, la durée de validité de la carte est de trois ans, avec renouvellement pour la même période si les
+conditions fixées à l'alinéa premier ci-dessus continuent d'être remplies.
 
 **Liens relatifs à cet article**
 
@@ -867,42 +984,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°80-545 1980-07-17 art. 15 II JORF 18 juillet 1980
+  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
 
 _Cité par_:
 
   - Code de la famille et de l'aide sociale. - art. 21 (Ab)
   - Code de la famille et de l'aide sociale. - art. 23 (Ab)
 
-
-###### Article 23
-
-La carte est renouvelable tous les ans, après vérification des droits du demandeur : toutefois, dans le cas prévu au b de
-l'article 22, la carte n'est valable que pour le temps de la grossesse ; sa validité est prolongée, si l'enfant naît vivant,
-pour une durée de six mois à partir de la naissance ; dans le cas prévu au c de l'article 22 [*allaitement au sein*] la carte
-est valable pendant une année à partir de la naissance.
-
-Sauf lorsqu'elle est retirée à titre de sanction, la carte reste valable jusqu'aux époques fixées par le présent article,
-quelles que soient les modifications survenues dans la famille.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
 _Cite_:
 
-  - Code de la famille et de l'aide sociale. - art. 22 (M)
-
-_Anciens textes_:
-
-  - Loi n°1940-08-14 ART. 4
-  - Loi n°1941-06-18
-
-_Abrogé par_:
-
-  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
+  - Code de la sécurité sociale L519
 
 
 ###### Article 24
@@ -937,48 +1028,6 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. R215-5 (V)
-
-
-###### Article 25
-
-En cas de perte ou de vol, le remplacement de la carte n'est pas obligatoire ; il est en tout cas soumis aux résultats d'une
-enquête.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Anciens textes_:
-
-  - Loi n°1940-08-14 ART. 6
-  - Loi n°1941-06-18
-
-_Abrogé par_:
-
-  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
-
-
-###### Article 26
-
-Tout usage abusif de la carte entraîne son retrait qui est prononcé par le préfet, sur proposition du directeur départemental
-de la population et de l'aide sociale, soit pour un temps, soit définitivement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Anciens textes_:
-
-  - Loi n°1940-08-14 ART. 7
-  - Loi n°1941-06-18
-
-_Abrogé par_:
-
-  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
 
 
 ###### Article 27
@@ -1080,7 +1129,7 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-### Section 3 : Défense du patrimoine familial<a id=9></a>
+### Section 3 : Défense du patrimoine familial<a id=8></a>
 
 ###### Article 32
 
@@ -1129,9 +1178,9 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-### Section 4 : Questions professionnelles et logement familial<a id=10></a>
+### Section 4 : Questions professionnelles et logement familial<a id=9></a>
 
-#### Paragraphe 1 : Questions professionnelles<a id=11></a>
+#### Paragraphe 1 : Questions professionnelles<a id=10></a>
 
 ###### Article 34
 
@@ -1249,7 +1298,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L215-3 (V)
 
 
-#### Paragraphe 2 : Logement familial<a id=12></a>
+#### Paragraphe 2 : Logement familial<a id=11></a>
 
 ###### Article 37
 
@@ -1279,9 +1328,9 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-## Chapitre III : Education familiale<a id=13></a>
+## Chapitre III : Education familiale<a id=12></a>
 
-### Section 1 : Enseignement des problèmes démographiques<a id=14></a>
+### Section 1 : Enseignement des problèmes démographiques<a id=13></a>
 
 ###### Article 38
 
@@ -1316,7 +1365,7 @@ _Nouveaux textes_:
   - Code de l'éducation - art. L312-14 (V)
 
 
-### Section 2 : Formation ménagère et familiale<a id=15></a>
+### Section 2 : Formation ménagère et familiale<a id=14></a>
 
 ###### Article 39
 
@@ -1346,11 +1395,11 @@ _Cité par_:
   - Rapport - art. 7 (V)
 
 
-# Titre II : Action sociale en faveur de l'enfance et de la famille<a id=16></a>
+# Titre II : Action sociale en faveur de l'enfance et de la famille<a id=15></a>
 
-## Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance<a id=17></a>
+## Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance<a id=16></a>
 
-### Section 1 : Missions du service de l'aide sociale à l'enfance<a id=18></a>
+### Section 1 : Missions du service de l'aide sociale à l'enfance<a id=17></a>
 
 ###### Article 40
 
@@ -1407,7 +1456,7 @@ _Cité par_:
   - Code de la santé publique - art. L2112-2 (M)
 
 
-### Section 2 : Prestations d'aide sociale à l'enfance<a id=19></a>
+### Section 2 : Prestations d'aide sociale à l'enfance<a id=18></a>
 
 ###### Article 41
 
@@ -1442,7 +1491,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L222-1 (V)
 
 
-#### Sous-section 1 : Aide à domicile<a id=20></a>
+#### Sous-section 1 : Aide à domicile<a id=19></a>
 
 ###### Article 42
 
@@ -1560,7 +1609,7 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 232 (Ab)
 
 
-#### Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse<a id=21></a>
+#### Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse<a id=20></a>
 
 ###### Article 45
 
@@ -1614,7 +1663,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L121-2 (M)
 
 
-#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants<a id=22></a>
+#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants<a id=21></a>
 
 ###### Article 46
 
@@ -1715,7 +1764,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L222-6 (M)
 
 
-### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance<a id=23></a>
+### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance<a id=22></a>
 
 ###### Article 55
 
@@ -1954,7 +2003,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 69 (Ab)
 
 
-### Section 4 : Statut des pupilles de l'Etat<a id=24></a>
+### Section 4 : Statut des pupilles de l'Etat<a id=23></a>
 
 ###### Article 60
 
@@ -2246,6 +2295,9 @@ Les pupilles de l'Etat peuvent être adoptés soit par les personnes à qui le s
 affectifs qui se sont établis entre eux justifient cette mesure, soit par des personnes agréées à cet effet, dans des
 conditions fixées par décret, par le responsable du service de l'aide sociale à l'enfance.
 
+Cet agrément est accordé par l'autorité compétente dans un délai qui ne peut excéder neuf mois à compter du jour de la
+demande [*point de départ*].
+
 La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
 ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
 
@@ -2322,8 +2374,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
 
 _Cite_:
 
@@ -2463,306 +2514,7 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
 
 
-### Section 5 : Modalités de placement des enfants confiés au service de l'aide sociale à l'enfance<a id=25></a>
-
-###### Article 66
-
-Dans chaque département, le préfet, sur proposition du directeur départemental de la population et de l'aide sociale,
-organise un ou plusieurs foyers destinés à accueillir les enfants confiés au service de l'aide sociale à l'enfance.
-
-Ces foyers sont gérés, soit par le conseil général, soit par la commission administrative de l'établissement hospitalier dont
-ils dépendent.
-
-Dans ce dernier cas, ils sont installés dans des locaux indépendants des quartiers d'hôpitaux et d'hospices.
-
-Le directeur ou le responsable du foyer est nommé par le préfet sur la proposition du directeur départemental de la
-population et de l'aide sociale.
-
-Le service médical est assuré par un médecin spécialement désigné à cet effet par le préfet, sur la proposition du directeur
-départemental de la population et de l'aide sociale.
-
-Les enfants ne sont maintenus au foyer que s'il est constaté que leur état de santé l'exige ou sur une décision motivée du
-directeur départemental de la population et de l'aide sociale [*condition*].
-
-Les foyers comprennent différentes sections groupant les enfants selon leur âge.
-
-Les nourrissons sont placés, en vue de leur adaptation à l'allaitement artificiel, dans une pouponnière spécialement
-organisée. Cette pouponnière est, dans toute la mesure du possible, installée dans un local annexe d'un maison maternelle
-afin de permettre, éventuellement, l'allaitement au lait de femme.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 22
-
-_Cité par_:
-
-  - Loi n°75-535 du 30 juin 1975 - art. 24 (Ab)
-  - Code de la santé publique - art. L149 (Ab)
-
-_Modifié par_:
-
-  - Loi n°84-422 du 6 juin 1984 - art. 3 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-_Abrogé par_:
-
-  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-1 (V)
-
-
-###### Article 67
-
-Le placement familial [*obligatoire*] est de règle pour les pupilles à moins que le placement en internat ou dans un centre
-de rééducation ne soit reconnu nécessaire dans les conditions prévues à l'article 74.
-
-/A/LOI  0505 17-05-1977 :
-
-Cependant, en vue de leur assurer une meilleure protection sanitaire, les nourrissons, au sortir de la pouponnière, peuvent
-être placés provisoirement chez des nourrices professionnelles groupées dans une ou plusieurs communes limitrophes et
-soumises à la surveillance permanente d'un médecin et d'une infirmière ou d'une assistante sociale//.
-
-Les frères et les soeurs sont placés dans la même famille et, en cas d'impossibilité, dans la même commune.
-
-/A/LOI  0505 :
-
-Le placement ne peut être effectué qu'après une enquête sur place préalable de la part d'un fonctionnaire du service de la
-population et de l'aide sociale ou d'une assistance sociale//.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 art. 73 al. 7
-  - Loi n°43-182 1943-04-15 art. 24
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-2 (V)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 74 (Ab)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L149 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-
-###### Article 68
-
-La rétribution de la nourrice ou de la gardienne à laquelle est confié un pupille comprend une rémunération fixe et des
-allocations éventuelles dites primes de survie ou de bons soins dont les taux sont fixés sur la proposition du directeur
-départemental de la population et de l'aide sociale.
-
-Le minimum de la rémunération fixe est déterminé par arrêté du ministre de la Santé publique et de la Population.
-
-La prime de survie est acquise lorsque le pupille a dix-huit mois, elle est proportionnelle au nombre de mois pendant
-lesquels la nourrice a gardé l'enfant.
-
-Lorsque le pupille a quatorze ans, une prime de bons soins peut être accordée à la gardienne si elle l'a élevé avec soin
-pendant cinq ans au moins et l'a envoyé régulièrement à l'école [*condition*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 73 AL. 8
-  - Loi n°43-182 1943-04-15 ART. 25
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-3 (V)
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 67 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 71 (Ab)
-  - Code de la santé publique - art. L149 (Ab)
-  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
-
-
-###### Article 69
-
-Le lieu de placement du pupille reste secret, sauf décision exceptionnelle du tuteur prise dans l'intérêt de l'enfant ; la
-mère ou la personne qui a présenté l'enfant peut en obtenir périodiquement des nouvelles.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-4 (V)
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
-  - Code de la santé publique - art. L149 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 26
-
-
-###### Article 70
-
-Le nourricier est tenu à l'égard du pupille aux obligations auxquelles sont assujettis les parents par la loi du 28 mars 1882
-sur l'enseignement primaire, modifiée par les lois des 9 et 11 août 1936, et par la loi du 22 mai 1946. Il peut être autorisé
-par le tuteur à envoyer le pupille à l'école que fréquentent ou auraient fréquentée ses propres enfants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-5 (V)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L149 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 27
-
-_Cite_:
-
-  - Loi n°1882-03-28
-  - Loi n°1936-08-09
-  - Loi n°1936-08-11
-  - Loi n°1946-05-22
-
-
-###### Article 71
-
-/A/LOI  0505 17-05-1977 :
-
-La pension est payée aux parents nourriciers jusqu'à ce que le pupille ait atteint la fin de la scolarité obligatoire, sauf
-prolongation motivée. Le pupille qui n'est plus astreint à l'obligation scolaire et dont le tuteur n'aura pas jugé nécessaire
-de prolonger la scolarité est soumis à un examen d'orientation professionnelle ; il est placé soit dans un établissement
-d'enseignement professionnel, soit en apprentissage dans un centre ou chez des particuliers//.
-
-Pour les filles l'enseignement ménager est obligatoire.
-
-A la fin de son apprentissage, le pupille est placé à gages et pourvu d'un trousseau. Un contrat écrit, dispensé de timbre
-conformément à l'article 1137 du Code général des impôts [*code des impôts art. 1067*] détermine les conditions de
-l'apprentissage ou du placement à gages ; à moins que l'intérêt de l'enfant ne s'y oppose, l'apprentissage et le placement à
-gages sont, si possible, effectués chez les nourriciers. Une partie du salaire est placée au compte d'épargne du pupille
-conformément à l'article 61.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - CGI 1137
-  - Décret n°53-1186 1953-11-29 ART. 73 AL. 9
-  - Loi n°43-182 1943-04-15 ART. 28
-
-_Cite_:
-
-  - CGI 1137, CGI 1067
-  - Code de la famille et de l'aide sociale. - art. 61 (M)
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°84-422 du 6 juin 1984 - art. 2 () JORF 7 juin 1984 en vigueur le 7 septembre 1984
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 2 juin 1994
-  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. Annexe (V)
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
-  - Code de la santé publique - art. L149 (Ab)
-  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
-
-
-###### Article 72
-
-Les pupilles sont l'objet d'une surveillance qu'exercent les directeurs départementaux de la population et de l'aide sociale,
-les assistantes sociales, ainsi que les agents des cadres actifs mis à la disposition de la direction départementale de la
-population et de l'aide sociale conformément à l'article 78.
-
-Les visites ont lieu à domicile ; en outre, une liaison est établie entre le service, les directeurs d'école et les
-institutions.
-
-Le pupille isolé placé dans un département autre que celui auquel il appartient, est surveillé par les fonctionnaires du
-service de la population et de l'aide sociale du département où il est placé.
-
-Les pupilles placés par groupe dans un département autre que celui auquel ils appartiennent peuvent être surveillés dans les
-mêmes conditions, à moins qu'en raison de l'importance de leur effectif le département d'origine ne désigne un agent spécial
-de surveillance ; la décision est concertée entre les deux préfets. En cas de désaccord elle est prise par le ministre de la
-Santé publique et de la Population [*autorité compétence*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L226-11 (V)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 78 (M)
-
-_Cité par_:
-
-  - Code de la santé publique - art. L149 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 29
-
-_Abrogé par_:
-
-  - Loi n°86-17 du 6 janvier 1986 - art. 33 () JORF 8 janvier 1986
-
-
-## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=26></a>
+## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=24></a>
 
 ###### Article 77
 
@@ -2883,7 +2635,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L221-9 (V)
 
 
-## Chapitre III : Dispositions financières<a id=27></a>
+## Chapitre III : Dispositions financières<a id=25></a>
 
 ###### Article 83
 
@@ -3150,9 +2902,9 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 84 (Ab)
 
 
-## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=28></a>
+## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=26></a>
 
-### Section 1 : Protection générale des mineurs<a id=29></a>
+### Section 1 : Protection générale des mineurs<a id=27></a>
 
 ###### Article 95
 
@@ -3432,7 +3184,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L321-4 (M)
 
 
-### Section 2 : Contrôle des oeuvres d'adoption<a id=30></a>
+### Section 2 : Contrôle des oeuvres d'adoption<a id=28></a>
 
 ###### Article 100-1
 
@@ -3541,7 +3293,59 @@ _Cite_:
   - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 
-### Section 4 : Assistantes maternelles<a id=31></a>
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=29></a>
+
+###### Article 100-3
+
+Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
+l'article 63 du présent code.
+
+**Nota:**
+
+[*Nota : Loi 86-76 du 17 janvier 1986 art. 12 II : L'agrément est réputé tacitement accordé par l'administration si celle-ci
+ne s'est pas prononcée dans un délai de six mois à compter du jour de la demande.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
+  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
+  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
+  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
+  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
+  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
+  - Code de la sécurité sociale. - art. L331-7 (M)
+  - Code de la sécurité sociale. - art. L535-1 (Ab)
+  - Code de la sécurité sociale. - art. L615-19 (T)
+  - Code de la sécurité sociale. - art. L615-19-1 (T)
+  - Code de la sécurité sociale. - art. L722-8 (M)
+  - Code de la sécurité sociale. - art. L722-8-1 (M)
+  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
+  - Code du travail - art. L122-26 (M)
+  - Code du travail - art. L122-28-10 (M)
+  - Code rural - art. L732-10 (V)
+  - Code rural ancien - art. 1106-3-1 (Ab)
+
+_Modifié par_:
+
+  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L225-15 (T)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 63 (M)
+
+
+### Section 4 : Assistantes maternelles<a id=30></a>
 
 ###### Article 123-1
 
@@ -3746,7 +3550,7 @@ _Cité par_:
   - Code du travail - art. L122-28-5 (M)
 
 
-### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=32></a>
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=31></a>
 
 ###### Article 123-5
 
@@ -3898,9 +3702,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L422-4 (M)
 
 
-## Chapitre IV : Protection des mineurs placés hors du domicile parental<a id=33></a>
+## Chapitre IV : Protection des mineurs placés hors du domicile parental<a id=32></a>
 
-### Section 1 : Protection générale des mineurs<a id=34></a>
+### Section 1 : Protection générale des mineurs<a id=33></a>
 
 ###### Article 93
 
@@ -3956,143 +3760,7 @@ _Modifié par_:
   - Loi n°86-17 du 6 janvier 1986 - art. 39 () JORF 8 janvier 1986
 
 
-### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=35></a>
-
-###### Article 100-3
-
-Les personnes qui souhaitent accueillir, en vue de son adoption, un enfant étranger doivent demander l'agrément prévu à
-l'article 63 du présent code. Cet agrément est réputé être accordé si l'administration ne s'est pas prononcée dans un délai
-de six mois à compter du jour de la demande [*point de départ, accord tacite*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Cité par_:
-
-  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-  - Décret n°86-68 du 13 janvier 1986 - art. 34-1 (V)
-  - Décret n°88-145 du 15 février 1988 - art. 14-1 (V)
-  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
-  - Décret n°91-155 du 6 février 1991 - art. 18-1 (M)
-  - Loi n°96-604 du 5 juillet 1996 - art. 59 (V)
-  - Décret n°98-771 du 1 septembre 1998 - art. 1 (Ab)
-  - Code de la sécurité sociale. - art. L331-7 (M)
-  - Code de la sécurité sociale. - art. L535-1 (Ab)
-  - Code de la sécurité sociale. - art. L615-19 (T)
-  - Code de la sécurité sociale. - art. L615-19-1 (T)
-  - Code de la sécurité sociale. - art. L722-8 (M)
-  - Code de la sécurité sociale. - art. L722-8-1 (M)
-  - Code de la sécurité sociale. - art. L722-8-2 (Ab)
-  - Code du travail - art. L122-26 (M)
-  - Code du travail - art. L122-28-10 (M)
-  - Code rural - art. L732-10 (V)
-  - Code rural ancien - art. 1106-3-1 (Ab)
-
-_Modifié par_:
-
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 38 () JORF 8 janvier 1986
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L225-15 (T)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale. - art. 63 (M)
-
-
-# Titre II : Protection sociale de l'enfance<a id=36></a>
-
-## Chapitre II : Aide sociale à l'enfance<a id=37></a>
-
-### Section 5 : Organisation administrative du service d'aide sociale à l'enfance<a id=38></a>
-
-###### Article 78
-
-Les fonctionnaires du service de l'aide sociale à l'enfance sont assistés d'un personnel d'exécution, tant actif que
-sédentaire, dont les effectifs sont prélevés soit sur le cadre des agents des services extérieurs du ministère de la Santé
-publique et de la Population et fixés par arrêté du ministre de la Santé publique et de la Population, soit sur le cadre des
-fonctionnaires et agents des préfectures.
-
-Le personnel actif comprend, en outre, les assistantes spécialisées qui assurent, notamment, la liaison avec les maisons
-maternelles, les maternités et autres services hospitaliers, ainsi que le fonctionnement des centres nourriciers.
-
-Il peut être fait appel aux assistantes de secteur pour participer à la surveillance régulière des enfants ; elles adressent
-au directeur départemental de la population et de l'aide sociale leurs rapports mensuels concernant les enfants du service.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 36
-
-_Abrogé par_:
-
-  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L221-3 (V)
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 72 (M)
-  - Code de la famille et de l'aide sociale. - art. 80 (Ab)
-
-
-###### Article 79
-
-Le directeur départemental de la population et de l'aide sociale [*mission*] choisit les parents nourriciers et patrons,
-assure la distribution des layettes et vêtures, passe les contrats de placement et d'apprentissage et, d'une manière
-générale, propose au tuteur les mesures qui commandent la protection et la tutelle instituées par le présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L221-4 (V)
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 37
-
-_Abrogé par_:
-
-  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article 80
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Décret n°61-1305 1961-12-05 art. 1 JORF 6 décembre 1961 en vigueur le 1er janvier 1962
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L221-6 (V)
-
-
-# Titre III : Aide sociale<a id=39></a>
+# Titre III : Aide sociale<a id=34></a>
 
 ###### Article 124
 
@@ -4252,7 +3920,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L252-4 (V)
 
 
-## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=40></a>
+## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=35></a>
 
 ###### Article 125
 
@@ -4879,7 +4547,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale<a id=41></a>
+## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale<a id=36></a>
 
 ###### Article 136
 
@@ -5069,7 +4737,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L123-8 (M)
 
 
-## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=42></a>
+## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=37></a>
 
 ###### Article 141
 
@@ -5505,9 +5173,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L132-10 (V)
 
 
-## Chapitre IV : Aide sociale aux familles<a id=43></a>
+## Chapitre IV : Aide sociale aux familles<a id=38></a>
 
-### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=44></a>
+### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=39></a>
 
 ###### Article 150
 
@@ -5701,7 +5369,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=45></a>
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=40></a>
 
 ###### Article 156
 
@@ -5741,7 +5409,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L212-2 (V)
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=46></a>
+## Chapitre V : Aide sociale aux personnes agées<a id=41></a>
 
 ###### Article 157
 
@@ -5782,7 +5450,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=47></a>
+### Section 1 : Aide à domicile<a id=42></a>
 
 ###### Article 158
 
@@ -5990,7 +5658,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-6 (V)
 
 
-### Section 2 : Placement familial ou hospitalier<a id=48></a>
+### Section 2 : Placement familial ou hospitalier<a id=43></a>
 
 ###### Article 164
 
@@ -6056,9 +5724,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-5 (M)
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=49></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=44></a>
 
-### Section 1 : Dispositions communes<a id=50></a>
+### Section 1 : Dispositions communes<a id=45></a>
 
 ###### Article 166
 
@@ -6288,9 +5956,9 @@ _Cité par_:
   - Code du travail - art. L323-30 (M)
 
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=51></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=46></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=52></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=47></a>
 
 ###### Article 169
 
@@ -6413,7 +6081,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=53></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=48></a>
 
 ###### Article 174
 
@@ -6509,7 +6177,7 @@ _Cité par_:
   - Code des marchés publics - art. 41 (Ab)
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=54></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=49></a>
 
 ###### Article 176
 
@@ -6572,7 +6240,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=55></a>
+## Chapitre VII : Aide médicale<a id=50></a>
 
 ###### Article 179
 
@@ -6783,7 +6451,7 @@ _Abrogé par_:
   - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 
-### Section 1 : Dispositions diverses<a id=56></a>
+### Section 1 : Dispositions diverses<a id=51></a>
 
 ###### Article 182
 
@@ -6856,7 +6524,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=57></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=52></a>
 
 ###### Article 184
 
@@ -7056,7 +6724,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L345-4 (M)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=58></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=53></a>
 
 ###### Article 186
 
@@ -7108,7 +6776,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=59></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=54></a>
 
 ###### Article 192
 
@@ -7572,7 +7240,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale 124 A 202
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=60></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=55></a>
 
 ###### Article 203
 
@@ -8152,9 +7820,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=61></a>
+# Titre VI : Le service social<a id=56></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=62></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=57></a>
 
 ###### Article 218
 
@@ -8488,9 +8156,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=63></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=58></a>
 
-### Section 1 : Dispositions finales<a id=64></a>
+### Section 1 : Dispositions finales<a id=59></a>
 
 ###### Article 241
 
