@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1959-01-09
+Version Consolidée au 1960-11-27
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -56,11 +56,12 @@ Version Consolidée au 1959-01-09
         - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
     - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
       - [Section 1 : Dispositions diverses (art. 182 à 183)](#55)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#56)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#57)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 216 à 217)](#58)
-  - [Titre VI : Le service social (art. 218 à 229)](#59)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#60)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-1)](#56)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#57)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#58)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 216 à 217)](#59)
+  - [Titre VI : Le service social (art. 218 à 229)](#60)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#61)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -5022,7 +5023,39 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=56></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=56></a>
+
+###### Article 185-1
+
+Dans chaque département doit être créé un service social qui a pour mission, en liaison avec le service départemental
+d'hygiène sociale :
+
+1. De rechercher et d'accueillir les personnes en danger de prostitution et de leur fournir l'assistance dont elles peuvent
+avoir besoin, notamment en leur procurant un placement dans un des établissements visés à l'article 185, alinéa 2 ;
+
+2. D'exercer toute action médico-sociale en faveur des personnes qui se livrent à la prostitution.
+
+Les dépenses de fonctionnement de ce service ont un caractère obligatoire. Elles sont inscrites en totalité au budget du
+département. L'Etat y participe dans les conditions prévues à l'article 190. Le service est placé sous l'autorité du
+directeur départemental de la population et de l'action sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L121-9 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 185 (M)
+  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+
+
+## Chapitre IX : Dispositions concernant les étrangers<a id=57></a>
 
 ###### Article 186
 
@@ -5074,7 +5107,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=57></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=58></a>
 
 ###### Article 187
 
@@ -5644,7 +5677,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale 124 A 202
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=58></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=59></a>
 
 ###### Article 216
 
@@ -5685,9 +5718,9 @@ _Anciens textes_:
   - Loi n°1933-01-14 ART. 31
 
 
-# Titre VI : Le service social<a id=59></a>
+# Titre VI : Le service social<a id=60></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=60></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=61></a>
 
 ###### Article 218
 
