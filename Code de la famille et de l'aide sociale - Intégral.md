@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-05-21
+Version Consolidée au 1975-07-01
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -49,22 +49,23 @@ Version Consolidée au 1975-05-21
     - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
       - [Section 1 : Aide à domicile (art. 158 à 163)](#47)
       - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#48)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 169 à 178)](#49)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#50)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#51)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#52)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#55)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#56)
-    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#57)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#58)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#59)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#60)
-  - [Titre VI : Le service social (art. 218 à 241)](#61)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#62)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#63)
-      - [Section 1 : Dispositions finales (art. 241)](#64)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 167 à 178)](#49)
+      - [Section 1 : Dispositions communes (art. 167 à 168)](#50)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#51)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#52)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#53)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#54)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#55)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#56)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#57)
+    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#58)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#59)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#60)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#61)
+  - [Titre VI : Le service social (art. 218 à 241)](#62)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#63)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#64)
+      - [Section 1 : Dispositions finales (art. 241)](#65)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -5610,9 +5611,186 @@ _Nouveaux textes_:
 
 ## Chapitre VI : Aide sociale aux personnes handicapées<a id=49></a>
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=50></a>
+### Section 1 : Dispositions communes<a id=50></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=51></a>
+###### Article 167
+
+Les centres d'aide par le travail, comportant ou non un foyer d'hébergement, offrent aux adolescents et adultes handicapés,
+qui ne peuvent, momentanément ou durablement, travailler ni dans les entreprises ordinaires ni dans un atelier protégé ou
+pour le compte d'un centre de distribution de travail à domicile ni exercer une activité professionnelle indépendante, des
+possibilités d'activités diverses à caractère professionnel, un soutien médico-social et éducatif et un milieu de vie
+favorisant leur épanouissement personnel et leur intégration sociale.
+
+Un même établissement peut comporter une section d'atelier protégé ou de distribution de travail à domicile et une section
+d'aide par le travail. Nonobstant les dispositions prévues au dernier alinéa de l'article L. 323-32 du Code du travail, des
+équipes de personnes handicapées bénéficiant d'une admission dans un centre ou une section d'aide par le travail peuvent être
+autorisées à exercer une activité à l'extérieur de l'établissement auquel elles demeurent rattachées suivant des modalités
+qui seront précisées par décret.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 art. 36
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+  - Décret n°64-454 du 23 mai 1964 - art. 2 (M)
+  - Décret n°77-1546 du 31 décembre 1977
+  - Décret n°77-1546 du 31 décembre 1977 - art. 1 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 10 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 11 (M)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 12 (M)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 13 (M)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 14 (M)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 15 (M)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 16 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 17 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 18 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 19 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 2 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 3 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 4 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 5 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 6 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 7 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 8 (Ab)
+  - Décret n°77-1546 du 31 décembre 1977 - art. 9 (Ab)
+  - Décret n°85-1458 du 30 décembre 1985 - art. 1 (Ab)
+  - Arrêté du 17 mars 1988 - art. 1 (M)
+  - Décret n°88-279 du 24 mars 1988 - art. 1 (Ab)
+  - Loi n°88-1264 du 30 décembre 1988 - art. 8 (M)
+  - Arrêté du 13 juillet 1990 - art. 3 (M)
+  - Décret n°2004-1136 du 21 octobre 2004 - art. 4 (V)
+  - Code du travail - art. L323-11 (M)
+  - Code du travail - art. L323-19 (Ab)
+  - Code du travail - art. L323-30 (M)
+  - Code du travail - art. L323-4 (M)
+  - Code du travail - art. R323-1 (M)
+  - Code du travail - art. R323-58-1 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Décret n°77-1546 1977-12-31
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 11 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 12 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 13 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 14 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 15 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 16 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 17 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 18 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 19 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°77-1546 du 31 décembre 1977 - art. 9 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°86-510 du 14 mars 1986 - art. 9 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L323-32 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L344-2 (M)
+
+
+###### Article 168
+
+Les prix de journée ou toutes autres modalités de financement de l'exploitation des établissements de rééducation
+professionnelle et d'aide par le travail agréés pour recevoir des bénéficiaires de l'aide sociale aux personnes handicapées
+sont fixés par voie réglementaire.
+
+Ils comprennent, d'une part, les frais concernant l'hébergement et l'entretien de la personne handicapée et, d'autre part,
+ceux qui sont directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier, et notamment les
+frais de transport collectif dans des conditions fixées par décret.
+
+Les frais d'hébergement et d'entretien des personnes handicapées dans les établissements de rééducation professionnelle et
+d'aide par le travail ainsi que dans les foyers et foyers-logement sont à la charge :
+
+1. A titre principal, de l'intéressé lui-même sans toutefois que la contribution qui lui est réclamée puisse faire descendre
+ses ressources au-dessous d'un minimum fixé par décret et par référence à l'allocation aux handicapés adultes, différent
+selon qu'il travaille ou non, majoré, le cas échéant, du montant des rentes viagères visées à l'article 8 de la loi n.
+69-1161 du 24 décembre 1969 portant loi de finances pour 1970 ;
+
+2. Et, pour le surplus éventuel, de l'aide sociale sans qu'il soit tenu compte de la participation pouvant être demandée aux
+personnes tenues à l'obligation alimentaire à l'égard de l'intéressé, et sans qu'il y ait lieu à l'application des
+dispositions relatives au recours en récupération des prestations d'aide sociale lorsque les héritiers du bénéficiaire décédé
+sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
+
+Les frais directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier sont pris en charge par
+l'aide sociale dans les conditions visées à l'alinéa ci-dessus, sans qu'il soit tenu compte des ressources de l'intéressé.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 37
+  - Décret n°55-190 1955-02-02 ART. 17
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Loi n°69-1161 1969-12-24 art. 8 Finances pour 1970
+
+_Créé par_:
+
+  - Loi n°75-534 du 30 juin 1975 - art. 48 () JORF 1er juillet 1975
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°76-1293 du 30 décembre 1976
+  - TXT_SOURCE: Décret n°76-1293 du 30 décembre 1976 - art. 1 (Ab)
+
+_Cité par_:
+
+  - Décret n°76-1293 du 30 décembre 1976 - art. 1 (Ab)
+  - Décret n°77-1548 du 31 décembre 1977 - art. 1 (Ab)
+  - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
+  - Arrêté du 13 juillet 1990 - art. 3 (M)
+  - Code du travail - art. L323-30 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L344-3 (M)
+  - Code de l'action sociale et des familles - art. L344-4 (M)
+  - Code de l'action sociale et des familles - art. L344-5 (M)
+  - Code de l'action sociale et des familles - art. L344-6 (M)
+
+
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=51></a>
+
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=52></a>
 
 ###### Article 169
 
@@ -5858,7 +6036,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=52></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=53></a>
 
 ###### Article 174
 
@@ -5958,7 +6136,7 @@ _Cité par_:
   - Code des marchés publics - art. 41 (Ab)
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=53></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=54></a>
 
 ###### Article 176
 
@@ -6021,7 +6199,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=54></a>
+## Chapitre VII : Aide médicale<a id=55></a>
 
 ###### Article 179
 
@@ -6202,7 +6380,7 @@ _Cite_:
   - Code de la santé publique L162-1 à L162-13
 
 
-### Section 1 : Dispositions diverses<a id=55></a>
+### Section 1 : Dispositions diverses<a id=56></a>
 
 ###### Article 182
 
@@ -6263,7 +6441,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=56></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=57></a>
 
 ###### Article 184
 
@@ -6415,7 +6593,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 185 (M)
 
 
-## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=57></a>
+## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=58></a>
 
 ###### Article 185-3
 
@@ -6447,7 +6625,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L345-4 (M)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=58></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=59></a>
 
 ###### Article 186
 
@@ -6499,7 +6677,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=59></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=60></a>
 
 ###### Article 187
 
@@ -7083,7 +7261,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=60></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=61></a>
 
 ###### Article 203
 
@@ -7659,9 +7837,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=61></a>
+# Titre VI : Le service social<a id=62></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=62></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=63></a>
 
 ###### Article 218
 
@@ -8016,9 +8194,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=63></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=64></a>
 
-### Section 1 : Dispositions finales<a id=64></a>
+### Section 1 : Dispositions finales<a id=65></a>
 
 ###### Article 241
 
