@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1963-03-02
+Version Consolidée au 1966-06-12
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -30,9 +30,9 @@ Version Consolidée au 1963-03-02
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 100 à 123)](#27)
       - [Section 1 : Protection générale des mineurs (art. 100)](#28)
       - [Section 3 : Protection spéciale des mineurs confiés à des oeuvres de bienfaisance privées (art. 101 à 123)](#29)
-  - [Titre II : Protection sociale de l'enfance (art. 56 à 100-2)](#30)
-    - [Chapitre II : Aide sociale à l'enfance (art. 56 à 82)](#31)
-      - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 56)](#32)
+  - [Titre II : Protection sociale de l'enfance (art. 55 à 100-2)](#30)
+    - [Chapitre II : Aide sociale à l'enfance (art. 55 à 82)](#31)
+      - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 55 à 56)](#32)
       - [Section 4 : Pupilles de l'Etat (art. 57 à 63)](#33)
         - [Paragraphe 1 : Tutelles (art. 57 à 63)](#34)
       - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 77 à 82)](#35)
@@ -2575,6 +2575,66 @@ _Anciens textes_:
 ## Chapitre II : Aide sociale à l'enfance<a id=31></a>
 
 ### Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance<a id=32></a>
+
+###### Article 55
+
+Toute présentation des enfants en vue de leur admission comme pupilles de l'Etat donne lieu à l'établissement d'un procès-
+verbal [*condition*].
+
+Avant d'établir le procès-verbal d'abandon et de recueillir éventuellement le consentement à l'adoption, la préposée aux
+admissions fait connaître à la personne qui présente l'enfant ;
+
+1. Les mesures instituées par l'Etat pour aider les parents à élever eux-mêmes leurs enfants ;
+
+2. Les conséquences de l'abandon : immatriculation comme pupille de l'Etat entraînant le secret du placement, perte des
+droits de l'autorité parentale, possibilité d'une adoption ;
+
+3. Les délais et conditions de la restitution de l'enfant, notamment le droit pour les parents d'obtenir pendant un délai de
+trois mois la remise immédiate de l'enfant sans aucune formalité ;
+
+4. Le fait que le placement en vue de l'adoption fera échec à toute déclaration de filiation, toute reconnaissance et toute
+demande de restitution ;
+
+5. La possibilité de demander le secret de l'état civil de l'enfant.
+
+En outre, la préposée aux admissions remet à la personne qui dépose l'enfant une notice précisant les conséquences de
+l'abandon et les délais et conditions de la restitution de l'enfant.
+
+Lorsque les parents ont consenti à l'adoption en abandonnant l'enfant, un modèle de lettre de rétractation portant l'adresse
+à laquelle elle doit être expédiée leur sera remis en même temps que la notice.
+
+Si l'enfant paraît âgé de moins d'un an et si la personne qui le présente refuse de faire connaître le nom, le lieu de
+naissance, la date de naissance de l'enfant, ou de fournir une de ces trois indications, acte est pris de ce refus et
+l'admission provisoire est prononcée. Dans ce cas, aucune enquête administrative n'est faite.
+
+Si l'enfant dont la demande d'abandon est maintenue après l'offre de secours, paraît âgé de plus d'un an, la personne
+préposée aux admissions recueille provisoirement l'enfant et transmet immédiatement au directeur départemental de la
+population et de l'aide sociale, avec son avis, les pièces et les renseignements produits à l'appui de la demande d'abandon.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°85-936 du 23 août 1985 - art. 1 (Ab)
+
+_Cité par_:
+
+  - Décret n°85-936 du 23 août 1985 - art. 1 (M)
+  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L223-1 (V)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 11
+
 
 ###### Article 56
 
