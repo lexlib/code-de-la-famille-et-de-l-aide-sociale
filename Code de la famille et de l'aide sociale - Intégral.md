@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1996-04-25
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -8559,11 +8559,11 @@ _Nouveaux textes_:
 
 ###### Article 201
 
-Les recours dirigés contre les décisions prises par le représentant de l'Etat dans le département et le président du conseil
-général, séparément ou conjointement, ainsi que, le cas échéant, par les ministres compétents, déterminant les dotations
-globales, les remboursements forfaitaires, les prix de journée et autres tarifs des établissements et services sanitaires,
-sociaux et médico-sociaux de statut public ou privé, sont portés, en premier ressort, devant la commission interrégionale de
-la tarification sanitaire et sociale [*compétence*].
+Les recours dirigés contre les décisions prises par le représentant de l'Etat dans le département, le directeur de l'agence
+régionale de l'hospitalisation et le président du conseil général, séparément ou conjointement, ainsi que, le cas échéant,
+par les ministres compétents, déterminant les dotations globales, les remboursements forfaitaires, les prix de journée et
+autres tarifs des établissements et services sanitaires, sociaux et médico-sociaux de statut public ou privé, sont portés, en
+premier ressort, devant la commission interrégionale de la tarification sanitaire et sociale.
 
 **Liens relatifs à cet article**
 
@@ -8583,7 +8583,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°90-86 du 23 janvier 1990 - art. 10 () JORF 25 janvier 1990
+  - Rapport - art. 12 () JORF 25 avril 1996
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -8592,12 +8596,13 @@ _Nouveaux textes_:
 
 ###### Article 201-1
 
-Les recours sont introduits devant la commission interrégionale de la tarification sanitaire et sociale [*compétente*] par
-toute personne physique ou morale intéressée, par les organismes de sécurité sociale et par le représentant de l'Etat dans le
-département où a son siège l'établissement ou le service dont la tarification est contestée.
+Les recours sont introduits devant la commission interrégionale de la tarification sanitaire et sociale par toute personne
+physique ou morale intéressée, par les organismes de sécurité sociale, par le directeur de l'agence régionale de
+l'hospitalisation et par le représentant de l'Etat dans le département où a son siège l'établissement ou le service dont la
+tarification est contestée.
 
 Le délai de recours est d'un mois. Il court à compter de la date de publication de la décision attaquée ou à l'égard des
-personnes et organismes auxquels elle est notifiée à compter de la date de notification [*point de départ*].
+personnes et organismes auxquels elle est notifiée à compter de la date de notification.
 
 L'appel est porté dans le délai d'un mois à compter de la notification du jugement devant la section permanente du Conseil
 supérieur de l'aide sociale.
@@ -8609,15 +8614,16 @@ fixée dans la décision donnant lieu au litige.
 Les règles de procédure applicables devant les juridictions de la tarification sanitaire et sociale sont fixées par décret en
 Conseil d'Etat.
 
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 10° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Modifié par_:
-
-  - Loi n°90-86 du 23 janvier 1990 - art. 10 () JORF 25 janvier 1990
 
 _Cité par_:
 
@@ -8625,6 +8631,23 @@ _Cité par_:
   - Décret n°90-359 du 11 avril 1990 - art. 19 (Ab)
   - Arrêté du 19 avril 1994 - art. Annexe (M)
   - Code de la famille et de l'aide sociale. - art. 201 (M)
+
+_Modifié par_:
+
+  - Rapport - art. 12 () JORF 25 avril 1996
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L351-3 (M)
+  - Code de l'action sociale et des familles - art. L351-4 (M)
+  - Code de l'action sociale et des familles - art. L351-6 (M)
+  - Code de l'action sociale et des familles - art. L351-7 (M)
+  - Code de l'action sociale et des familles - art. R351-15 (M)
+  - Code de l'action sociale et des familles - art. R351-16 (M)
 
 
 ###### Article 201-2
