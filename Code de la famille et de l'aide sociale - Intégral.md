@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1984-09-07
+Version Consolidée au 1984-12-24
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -8645,25 +8645,6 @@ _Anciens textes_:
 _Modifié par_:
 
   - Ordonnance 59-35 1959-01-05 art. 10 JORF 6 janvier 1959
-
-
-###### Article 226
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Ordonnance 58-1297 1958-12-23 art. 20 JORF 24 décembre 1958
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 227 (Ab)
 
 
 ###### Article 227
