@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1989-07-14
+Version Consolidée au 1989-12-19
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -48,7 +48,7 @@ Version Consolidée au 1989-07-14
       - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#45)
         - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#46)
         - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#47)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#48)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 178)](#48)
     - [Chapitre VII : Aide médicale (art. 179 à 183)](#49)
       - [Section 1 : Dispositions diverses (art. 182 à 183)](#50)
     - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#51)
@@ -1055,21 +1055,30 @@ _Abrogé par_:
 Une carte de priorité est délivrée par les organismes chargés du versement des prestations familiales aux personnes
 remplissant l'une des conditions suivantes [*bénéficiaires*] :
 
-a) Femmes enceintes ;
+a) Femmes enceintes;
 
 b) Ménages ou personnes ayant la charge effective et permanente, au sens de l'article L. 519 du code de la sécurité sociale,
-d'un enfant de moins de trois ans ;
+d'un enfant de moins de trois ans ; 
 
 c) Ménages ou personnes ayant la charge effective ou permanente, au sens du même article, d'au moins trois enfants de moins
 de seize ans ou de deux enfants de moins de quatre ans.
 
 Cette carte est délivrée par l'autorité administrative de l'Etat aux personnes qui, décorées de la médaille de la famille
-française, n'en sont pas moins titulaires par application de l'alinéa premier du présent article.
+française, n'en sont pas déjà titulaires par application de l'alinéa premier du présent article.
 
-La carte est valable pour toute la durée de la grossesse.
+La carte est valable :
 
-Dans les autres cas, la durée de validité de la carte est de trois ans, avec renouvellement pour la même période si les
-conditions fixées à l'alinéa premier ci-dessus continuent d'être remplies.
+- pour les femmes enceintes, pour toute la durée de la grossesse ;
+
+- pour les cas visés aux b et c ci-dessus, pour trois ans, avec renouvellement pour la même période si les conditions
+continuent d'être remplies ;
+
+- pour les personnes décorées de la médaille de la famille française, pour une durée illimitée.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 1° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
@@ -1079,7 +1088,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-76 du 17 janvier 1986 - art. 10 () JORF 18 janvier 1986
+  - Loi n°89-899 du 18 décembre 1989 - art. 12 () JORF 19 décembre 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cité par_:
 
@@ -1089,6 +1102,11 @@ _Cité par_:
 _Cite_:
 
   - Code de la sécurité sociale L519
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. R215-3 (V)
+  - Code de l'action sociale et des familles - art. R215-4 (V)
 
 
 ###### Article 24
@@ -7116,35 +7134,6 @@ _Abrogé par_:
 
 #### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=48></a>
 
-###### Article 176
-
-La déclaration [*obligatoire*] de toute infirmité entraînant 80 p. 100 d'incapacité permanente est obligatoire pour les
-mineurs ou pour les incapables ; y sont tenus, les parents, le tuteur, ou à défaut, la personne ayant la charge ou la garde
-du mineur ou de l'incapable. 
-
-L'absence de déclaration pour les mineurs ou les incapables dans un délai de trois mois à compter de la date à laquelle
-l'invalidité permanente est constatée, est punie par une amende de 30 F à 250 F [*montant*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 art. 45
-
-_Cité par_:
-
-  - Décret n°54-883 du 2 septembre 1954 - art. 33 (Ab)
-  - Décret n°56-1030 du 28 septembre 1956 - art. 49 (Ab)
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°89-899 du 18 décembre 1989 - art. 12 () JORF 19 décembre 1989
-
-
 ###### Article 178
 
 Les frais d'entretien des mineurs dans les établissements de soins et d'études spécialisés sont pris en charge par les
@@ -7386,6 +7375,32 @@ _Cite_:
 _Abrogé par_:
 
   - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+
+
+###### Article 181-4
+
+Les frais afférents aux examens institués par l'article L. 153, le deuxième alinéa de l'article L. 154, l'article L. 156 et
+le deuxième alinéa de l'article L. 164 du code de la santé publique peuvent être pris en charge au titre de l'aide sociale.
+L'article 144 n'est pas opposable aux personnes qui sollicitent cette prise en charge.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°89-899 du 18 décembre 1989 - art. 12 () JORF 19 décembre 1989
+
+_Abrogé par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale L144
+  - Code de la santé publique - art. L164 (M)
 
 
 ### Section 1 : Dispositions diverses<a id=50></a>
