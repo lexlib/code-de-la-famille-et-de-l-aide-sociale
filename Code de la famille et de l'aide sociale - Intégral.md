@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-12-30
+Version Consolidée au 1976-07-10
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -44,28 +44,29 @@ Version Consolidée au 1975-12-30
     - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 126 à 135)](#41)
     - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#42)
     - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#43)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 155)](#44)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#44)
       - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#45)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
-      - [Section 1 : Aide à domicile (art. 158 à 163)](#47)
-      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#48)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 167 à 178)](#49)
-      - [Section 1 : Dispositions communes (art. 167 à 168)](#50)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#51)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#52)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#53)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#54)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#55)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#56)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#57)
-    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#58)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#59)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#60)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#61)
-  - [Titre VI : Le service social (art. 218 à 241)](#62)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#63)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#64)
-      - [Section 1 : Dispositions finales (art. 241)](#65)
+      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#46)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#47)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#48)
+      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#49)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 167 à 178)](#50)
+      - [Section 1 : Dispositions communes (art. 167 à 168)](#51)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#52)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#53)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#54)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#55)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#56)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#57)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#58)
+    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#59)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#60)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#61)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#62)
+  - [Titre VI : Le service social (art. 218 à 241)](#63)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#64)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#65)
+      - [Section 1 : Dispositions finales (art. 241)](#66)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -5605,7 +5606,47 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=46></a>
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=46></a>
+
+###### Article 156
+
+Lorsque leurs ressources sont insuffisantes, les familles dont les soutiens accomplissent le service national actif, qu'elles
+résident ou non en France, ont droit à des allocations dont le mode de calcul est fixé par décret en Conseil d'Etat.
+
+Ces allocations sont à la charge du budget de l'Etat. Elles sont accordées par l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 art. 25
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°57-44 du 15 janvier 1957 - art. 2 (Ab)
+  - Décret n°76-303 du 2 avril 1976 - art. 1 (M)
+  - Décret n°76-304 du 2 avril 1976 - art. 1 (M)
+  - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 129 (Ab)
+  - Code du service national - art. L32 bis (M)
+  - Code du service national - art. L62 (V)
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L212-1 (V)
+  - Code de l'action sociale et des familles - art. L212-2 (V)
+
+
+## Chapitre V : Aide sociale aux personnes agées<a id=47></a>
 
 ###### Article 157
 
@@ -5646,7 +5687,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=47></a>
+### Section 1 : Aide à domicile<a id=48></a>
 
 ###### Article 158
 
@@ -5845,7 +5886,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Placement familial ou hospitalier<a id=48></a>
+### Section 2 : Placement familial ou hospitalier<a id=49></a>
 
 ###### Article 164
 
@@ -5911,9 +5952,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-5 (M)
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=49></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=50></a>
 
-### Section 1 : Dispositions communes<a id=50></a>
+### Section 1 : Dispositions communes<a id=51></a>
 
 ###### Article 167
 
@@ -6084,9 +6125,9 @@ _Cité par_:
   - Code du travail - art. L323-30 (M)
 
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=51></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=52></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=52></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=53></a>
 
 ###### Article 169
 
@@ -6325,7 +6366,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=53></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=54></a>
 
 ###### Article 174
 
@@ -6421,7 +6462,7 @@ _Cité par_:
   - Code des marchés publics - art. 41 (Ab)
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=54></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=55></a>
 
 ###### Article 176
 
@@ -6484,7 +6525,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=55></a>
+## Chapitre VII : Aide médicale<a id=56></a>
 
 ###### Article 179
 
@@ -6666,7 +6707,7 @@ _Cite_:
   - Code de la santé publique L162-1 à L162-13
 
 
-### Section 1 : Dispositions diverses<a id=56></a>
+### Section 1 : Dispositions diverses<a id=57></a>
 
 ###### Article 182
 
@@ -6727,7 +6768,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=57></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=58></a>
 
 ###### Article 184
 
@@ -6874,7 +6915,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 185 (M)
 
 
-## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=58></a>
+## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=59></a>
 
 ###### Article 185-3
 
@@ -6901,7 +6942,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 202 (P)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=59></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=60></a>
 
 ###### Article 186
 
@@ -6953,7 +6994,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=60></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=61></a>
 
 ###### Article 187
 
@@ -7523,7 +7564,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale 124 A 202
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=61></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=62></a>
 
 ###### Article 203
 
@@ -8103,9 +8144,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=62></a>
+# Titre VI : Le service social<a id=63></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=63></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=64></a>
 
 ###### Article 218
 
@@ -8458,9 +8499,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=64></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=65></a>
 
-### Section 1 : Dispositions finales<a id=65></a>
+### Section 1 : Dispositions finales<a id=66></a>
 
 ###### Article 241
 
