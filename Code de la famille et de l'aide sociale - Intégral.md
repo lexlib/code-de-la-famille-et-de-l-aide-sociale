@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1993-12-01
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -7778,8 +7778,10 @@ _Nouveaux textes_:
 Toute personne dont l'infirmité entraîne au moins 80 p. 100 d'incapacité permanente est qualifiée "grand infirme" et
 bénéficie des dispositions particulières prévues ci-dessous.
 
-Le pourcentage d'infirmité est apprécié suivant le barème d'invalidité prévu à l'avant-dernier alinéa de l'article L. 9-1 du
-Code des pensions militaires d'invalidité et des victimes de la guerre.
+Le taux d'incapacité est apprécié suivant le guide-barème annexé au décret n° 93-1216 du 4 novembre 1993 relatif au guide-
+barème applicable pour l'attribution de diverses prestations aux personnes handicapées et modifiant la code de la famille et
+de l'aide sociale, le code de la sécurité sociale (deuxième partie : Décrets en Conseil d'Etat) et le décret n° 77-1549 du 31
+décembre 1977.
 
 **Liens relatifs à cet article**
 
@@ -7808,17 +7810,22 @@ _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Cite_:
+
+  - Décret n°77-1549 1977-12-31
+  - Décret n°93-1216 1993-11-04 annexe
+
 _Modifié par_:
 
-  - Loi n°71-563 1971-07-13 art. 12 JORF 14 juillet 1971
+  - Décret n°93-1216 du 4 novembre 1993 - art. 2 () JORF 6 novembre 1993 en vigueur le 1er décembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L241-3 (M)
-
-_Cite_:
-
-  - Code des pensions militaires d'invalidité et des victimes de la guerre L9-1
 
 
 ###### Article 173
