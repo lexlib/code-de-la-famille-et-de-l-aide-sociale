@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1961-05-19
+Version Consolidée au 1961-12-06
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -33,8 +33,8 @@ Version Consolidée au 1961-05-19
   - [Titre II : Protection sociale de l'enfance (art. 56 à 100-2)](#30)
     - [Chapitre II : Aide sociale à l'enfance (art. 56 à 82)](#31)
       - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 56)](#32)
-      - [Section 4 : Pupilles de l'Etat (art. 58 à 63)](#33)
-        - [Paragraphe 1 : Tutelles (art. 58 à 63)](#34)
+      - [Section 4 : Pupilles de l'Etat (art. 57 à 63)](#33)
+        - [Paragraphe 1 : Tutelles (art. 57 à 63)](#34)
       - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 77 à 82)](#35)
     - [Chapitre III : Dispositions financières (art. 83 à 88)](#36)
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 100-2)](#37)
@@ -2634,6 +2634,38 @@ _Anciens textes_:
 ### Section 4 : Pupilles de l'Etat<a id=33></a>
 
 #### Paragraphe 1 : Tutelles<a id=34></a>
+
+###### Article 57
+
+La tutelle des pupilles de l'Etat instituée par le présent chapitre est exercée par le préfet qui peut en donner délégation
+au directeur départemental de la population et de l'aide sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Loi n°64-1230 du 14 décembre 1964 - art. 16 (V)
+  - Décret n°85-936 du 23 août 1985 - art. 7 (Ab)
+  - Décret n°85-936 du 23 août 1985 - art. 8 (M)
+  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L223-3 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale 45 A, 92
+  - Code de la famille et de l'aide sociale. - art. 92 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 13
+
 
 ###### Article 58
 
