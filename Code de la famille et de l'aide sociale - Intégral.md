@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1993-01-30
+Version Consolidée au 1993-03-28
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -5504,19 +5504,20 @@ _Nouveaux textes_:
 
 ###### Article 125
 
-Les demandes d'admission au bénéfice d'une forme quelconque d'aide sociale, à l'exception de celles concernant l'aide à
-l'enfance, de celles effectuées en application des articles 181-1 et 181-2 du code de la famille et de l'aide sociale et de
-celles formées en application des articles 214 et suivants du code de la santé publique, relatifs à la lutte
-antituberculeuse, sont déposées à la mairie de la résidence de l'intéressé.
+Sous réserve de l'article 189-1 du code de la famille et de l'aide sociale, les demandes d'admission au bénéfice de l'aide
+sociale, à l'exception de celles concernant l'aide sociale à l'enfance, sont déposées au centre communal ou intercommunal
+d'action sociale ou, à défaut, à la mairie de résidence de l'intéressé.
 
 Les demandes donnent lieu à l'établissement d'un dossier par les soins du bureau d'aide sociale. Celui-ci peut utiliser à cet
 effet des visiteurs-enquêteurs.
 
 Les demandes sont ensuite transmises, dans le mois de leur dépôt, au représentant de l'Etat ou au président du conseil
-général qui les instruit et les soumet à la commission d'admission prévue à l'article 1er du décret n. 59-143 du 7 janvier
+général qui les instruit et les soumet à la commission d'admission prévue à l'article 1er du décret n° 59-143 du 7 janvier
 janvier 1959 avec l'avis du bureau d'aide sociale et celui du conseil municipal lorsque le maire ou le bureau d'aide sociale
 a demandé la consultation de cette assemblée. Pour chaque demande le représentant de l'Etat ou le président du conseil
-général formule une proposition.
+général
+
+formule une proposition.
 
 Les dossier soumis à la commission doivent contenir les pièces et précisions qui seront énumérées par un arrêté.
 
@@ -5554,24 +5555,17 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°59-143 1959-01-07 ART. 1
-  - Code de la famille et de l'aide sociale. - art. 126 (M)
-  - Code de la famille et de l'aide sociale. - art. 181-1 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 181-2 (Ab)
-  - Code de la santé publique L214 ET S.
+  - Décret n°59-143 1959-01-07 art. 1
+  - Code de la famille et de l'aide sociale. - art. 189-1 (P)
 
 _Modifié par_:
 
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+  - Décret n°93-648 du 26 mars 1993 - art. 4 () JORF 28 mars 1993
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L131-1 (V)
   - Code de l'action sociale et des familles - art. L131-1 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: dispositions réglementaires
 
 
 ###### Article 126
