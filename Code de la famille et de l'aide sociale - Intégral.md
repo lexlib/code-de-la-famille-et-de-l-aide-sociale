@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1956-01-28
+Version Consolidée au 1959-01-06
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -30,37 +30,38 @@ Version Consolidée au 1956-01-28
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 100 à 123)](#27)
       - [Section 1 : Protection générale des mineurs (art. 100)](#28)
       - [Section 3 : Protection spéciale des mineurs confiés à des oeuvres de bienfaisance privées (art. 101 à 123)](#29)
-  - [Titre II : Protection sociale de l'enfance (art. 56 à 94)](#30)
+  - [Titre II : Protection sociale de l'enfance (art. 56 à 100-2)](#30)
     - [Chapitre II : Aide sociale à l'enfance (art. 56 à 82)](#31)
       - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 56)](#32)
       - [Section 4 : Pupilles de l'Etat (art. 58 à 63)](#33)
         - [Paragraphe 1 : Tutelles (art. 58 à 63)](#34)
       - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 77 à 82)](#35)
     - [Chapitre III : Dispositions financières (art. 83 à 88)](#36)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 94)](#37)
-      - [Section 1 : Protection générale des mineurs (art. 94)](#38)
-  - [Titre III : Aide sociale (art. 124 à 186)](#39)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 127 à 135)](#40)
-    - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#41)
-    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#42)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 155)](#43)
-      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#44)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#45)
-      - [Section 1 : Aide à domicile (art. 159 à 163)](#46)
-      - [Section 2 : Placement familial ou hospitalier (art. 165)](#47)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 173 à 178)](#48)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 173 à 178)](#49)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 173)](#50)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174)](#51)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#52)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#53)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#54)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#55)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#56)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 216 à 217)](#57)
-  - [Titre VI : Le service social (art. 218 à 240)](#58)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#59)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 230 à 240)](#60)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 100-2)](#37)
+      - [Section 1 : Protection générale des mineurs (art. 93 à 98)](#38)
+      - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-2)](#39)
+  - [Titre III : Aide sociale (art. 124 à 186)](#40)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 127 à 135)](#41)
+    - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#42)
+    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#43)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 155)](#44)
+      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#45)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
+      - [Section 1 : Aide à domicile (art. 159 à 163)](#47)
+      - [Section 2 : Placement familial ou hospitalier (art. 165)](#48)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 173 à 178)](#49)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 173 à 178)](#50)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 173)](#51)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174)](#52)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#55)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#56)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#57)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 216 à 217)](#58)
+  - [Titre VI : Le service social (art. 218 à 240)](#59)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#60)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 230 à 240)](#61)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -3059,6 +3060,32 @@ _Anciens textes_:
 
 ### Section 1 : Protection générale des mineurs<a id=38></a>
 
+###### Article 93
+
+Est placé sous la protection de l'autorité publique tout mineur hébergé collectivement ou isolément hors du domicile de ses
+parents jusqu'au quatrième degré ou de son tuteur lorsqu'il n'est pas protégé par les dispositions du Code de la santé
+publique ou par celles qui visent des établissements soumis à une réglementation particulière.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Code de la famille et de l'aide sociale. - art. 94 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L227-1 (M)
+
+_Anciens textes_:
+
+  - Décret  1938-06-17 ART. 1
+  - Décret n°1938-06-17 art. 1
+
+
 ###### Article 94
 
 La surveillance en est confiée au préfet. Elle s'exerce à la fois sur les conditions morales et matérielles du placement.
@@ -3085,7 +3112,111 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-# Titre III : Aide sociale<a id=39></a>
+###### Article 97
+
+Nul ne peut servir habituellement d'intermédiaire de placement soit à titre personnel soit au nom d'une collectivité publique
+ou privée s'il n'est autorisé à cet effet par le préfet du département de sa résidence, appelé à apprécier après avis d'un
+conseil dont la composition et le fonctionnement sont fixés par décret, s'il présente les garanties morales et matérielles
+indispensables.
+
+Nul ne peut héberger gratuitement ou moyennant salaire, de façon habituelle, un mineur protégé par la présente section, à lui
+confié par une personne ou groupement habilité à pratiquer le placement, s'il n'est spécialement autorisé par une décision du
+préfet.
+
+Un arrêté du ministre de la santé publique et de la population fixe les conditions dans lesquelles sont accordées les
+autorisations prévues aux alinéas précédents.
+
+L'autorisation, prévue au deuxième alinéa n'est pas requise, si le placement est effectué dans un centre de placement
+familial autorisé.
+
+Les dispositions du présent article sont applicables aux oeuvres de bienfaisance. Les organismes de placement autorisés dans
+les conditions prévues par l'ordonnance du 24 mai 1945 relative au placement des travailleurs et au contrôle de l'emploi ne
+sont pas soumis aux obligations du présent article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°67-161 du 24 février 1967 - art. 3 (Ab)
+  - Loi n°75-535 du 30 juin 1975 - art. 14 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 100-1 (M)
+  - Code de la famille et de l'aide sociale. - art. 115 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 98 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L331-7 (M)
+
+_Anciens textes_:
+
+  - Décret  1938-06-17 ART. 5
+
+_Cite_:
+
+  - Ordonnance 1945-05-24
+
+
+###### Article 98
+
+L'autorisation d'organiser un centre familial de placement est accordée par arrêté préfectoral pris sur la proposition du
+directeur départemental de la population et de l'aide sociale et du directeur de la santé après avis du conseil visé à
+l'article précédent, déterminant notamment le périmètre de l'organisation, les conditions de surveillance auxquelles sont
+soumis ces placements particulièrement au point de vue sanitaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L331-8 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 97 (M)
+
+_Anciens textes_:
+
+  - Décret  1938-06-17 ART. 6
+
+
+### Section 2 : Contrôle des oeuvres d'adoption<a id=39></a>
+
+###### Article 100-2
+
+Quiconque se livre aux activités définies à l'article ci-dessus sans y avoir été autorisé est puni des peines prévues à
+l'article 99 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°89-95 du 10 février 1989 - art. 8 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L225-17 (T)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 99 (M)
+
+
+# Titre III : Aide sociale<a id=40></a>
 
 ###### Article 124
 
@@ -3111,7 +3242,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L111-1 (V)
 
 
-## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=40></a>
+## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=41></a>
 
 ###### Article 127
 
@@ -3393,7 +3524,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale<a id=41></a>
+## Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale<a id=42></a>
 
 ###### Article 136
 
@@ -3577,7 +3708,7 @@ _Cite_:
   - Loi n°1901-02-04 ART. 4, ART. 7
 
 
-## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=42></a>
+## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=43></a>
 
 ###### Article 141
 
@@ -3777,9 +3908,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L132-10 (V)
 
 
-## Chapitre IV : Aide sociale aux familles<a id=43></a>
+## Chapitre IV : Aide sociale aux familles<a id=44></a>
 
-### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=44></a>
+### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=45></a>
 
 ###### Article 150
 
@@ -3897,7 +4028,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=45></a>
+## Chapitre V : Aide sociale aux personnes agées<a id=46></a>
 
 ###### Article 157
 
@@ -3938,7 +4069,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=46></a>
+### Section 1 : Aide à domicile<a id=47></a>
 
 ###### Article 159
 
@@ -4053,7 +4184,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-6 (V)
 
 
-### Section 2 : Placement familial ou hospitalier<a id=47></a>
+### Section 2 : Placement familial ou hospitalier<a id=48></a>
 
 ###### Article 165
 
@@ -4079,11 +4210,11 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-5 (V)
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=48></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=49></a>
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=49></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=50></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=50></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=51></a>
 
 ###### Article 173
 
@@ -4158,7 +4289,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=51></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=52></a>
 
 ###### Article 174
 
@@ -4201,7 +4332,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=52></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=53></a>
 
 ###### Article 176
 
@@ -4264,7 +4395,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=53></a>
+## Chapitre VII : Aide médicale<a id=54></a>
 
 ###### Article 179
 
@@ -4374,7 +4505,7 @@ _Abrogé par_:
   - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 
-### Section 1 : Dispositions diverses<a id=54></a>
+### Section 1 : Dispositions diverses<a id=55></a>
 
 ###### Article 182
 
@@ -4435,7 +4566,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=55></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=56></a>
 
 ###### Article 186
 
@@ -4487,7 +4618,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=56></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=57></a>
 
 ###### Article 187
 
@@ -4865,6 +4996,39 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 201 (M)
 
 
+###### Article 198
+
+Les conseils généraux peuvent créer des emplois d'agents départementaux de contrôle. Les délibérations prises à cet effet
+sont soumises à l'approbation du ministre de la santé publique et de la population lorsqu'elles ne sont pas conformes aux
+propositions du préfet.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 69
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
+  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (Ab)
+  - Loi n°97-60 du 24 janvier 1997 - art. 14 (Ab)
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Abrogé par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L133-2 (V)
+  - Code de l'action sociale et des familles - art. L133-2 (M)
+
+
 ###### Article 199
 
 Le conseil supérieur de l'aide sociale est chargé de l'étude et de l'examen de toutes les questions qui lui sont soumises par
@@ -4995,7 +5159,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=57></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=58></a>
 
 ###### Article 216
 
@@ -5036,9 +5200,9 @@ _Anciens textes_:
   - Loi n°1933-01-14 ART. 31
 
 
-# Titre VI : Le service social<a id=58></a>
+# Titre VI : Le service social<a id=59></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=59></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=60></a>
 
 ###### Article 218
 
@@ -5393,7 +5557,7 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=60></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=61></a>
 
 ###### Article 230
 
