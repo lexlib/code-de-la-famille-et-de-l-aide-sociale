@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1976-07-10
+Version Consolidée au 1977-05-18
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -30,43 +30,45 @@ Version Consolidée au 1976-07-10
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 100 à 123)](#27)
       - [Section 1 : Protection générale des mineurs (art. 100)](#28)
       - [Section 3 : Protection spéciale des mineurs confiés à des oeuvres de bienfaisance privées (art. 101 à 123)](#29)
-  - [Titre II : Protection sociale de l'enfance (art. 55 à 100-2)](#30)
+  - [Titre II : Protection sociale de l'enfance (art. 55 à 123-8)](#30)
     - [Chapitre II : Aide sociale à l'enfance (art. 55 à 82)](#31)
       - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 55 à 56)](#32)
       - [Section 4 : Pupilles de l'Etat (art. 57 à 65-1)](#33)
         - [Paragraphe 1 : Tutelles (art. 57 à 65-1)](#34)
       - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 77 à 82)](#35)
     - [Chapitre III : Dispositions financières (art. 83 à 88)](#36)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 100-2)](#37)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 123-8)](#37)
       - [Section 1 : Protection générale des mineurs (art. 93 à 99)](#38)
       - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-1 à 100-2)](#39)
-  - [Titre III : Aide sociale (art. 124 à 186)](#40)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 126 à 135)](#41)
-    - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#42)
-    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#43)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#44)
-      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#45)
-      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#46)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#47)
-      - [Section 1 : Aide à domicile (art. 158 à 163)](#48)
-      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#49)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 167 à 178)](#50)
-      - [Section 1 : Dispositions communes (art. 167 à 168)](#51)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#52)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#53)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#54)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#55)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#56)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#57)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#58)
-    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#59)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#60)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#61)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#62)
-  - [Titre VI : Le service social (art. 218 à 241)](#63)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#64)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#65)
-      - [Section 1 : Dispositions finales (art. 241)](#66)
+      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#40)
+      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#41)
+  - [Titre III : Aide sociale (art. 124 à 186)](#42)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 126 à 135)](#43)
+    - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#44)
+    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#45)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#46)
+      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#47)
+      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#48)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#49)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#50)
+      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#51)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 167 à 178)](#52)
+      - [Section 1 : Dispositions communes (art. 167 à 168)](#53)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#54)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#55)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#56)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#57)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#58)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#59)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#60)
+    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#61)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#62)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#63)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#64)
+  - [Titre VI : Le service social (art. 218 à 241)](#65)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#66)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#67)
+      - [Section 1 : Dispositions finales (art. 241)](#68)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -4636,7 +4638,283 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 99 (M)
 
 
-# Titre III : Aide sociale<a id=40></a>
+### Section 4 : Assistantes maternelles<a id=40></a>
+
+###### Article 123-1
+
+Peuvent seules accueillir habituellement des mineurs à leur domicile moyennant rémunération les personnes qui sont agréées à
+cet effet [*condition*].
+
+Des actions de formation destinées à les aider dans leur tâche éducative sont organisées pour ces personnes au titre de la
+protection maternelle et infantile.
+
+Un décret détermine les modalités d'application du présent article en fonction notamment de l'âge du mineur et des
+circonstances du placement. Il fixe les éléments d'appréciation d'ordre sanitaire et éducatif, compte tenu notamment de
+l'expérience acquise par l'assistante maternelle, au vu desquels l'agrément est accordé, refusé ou retiré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
+
+_Cité par_:
+
+  - Décret n°78-474 du 29 mars 1978 - art. 1 (Ab)
+  - Décret n°78-474 du 29 mars 1978 - art. 7 (Ab)
+  - Décret n°78-474 du 29 mars 1978 - art. 8 (Ab)
+  - Arrêté du 1 octobre 1990 - art. 8 (M)
+  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+  - Loi n°92-642 du 12 juillet 1992 - art. 18 (M)
+  - Loi n°92-642 du 12 juillet 1992 - art. 19 (M)
+  - Décret n°92-1051 du 29 septembre 1992 - art. 1 (Ab)
+  - Décret n°92-1051 du 29 septembre 1992 - art. 11 (Ab)
+  - Décret n°92-1051 du 29 septembre 1992 - art. 30 (Ab)
+  - Décret n°92-1051 du 29 septembre 1992 - art. 8 (Ab)
+  - Décret n°94-909 du 14 octobre 1994 - art. 2 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 123-1-5 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 123-2 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 123-3 (M)
+  - Code de la santé publique - art. L146 (Ab)
+  - Code de la santé publique - art. L2111-1 (M)
+  - Code de la sécurité sociale. - art. L841-1 (VD)
+  - Code du travail - art. D773-1 (P)
+  - Code du travail - art. L122-28-5 (M)
+  - Code du travail - art. L773-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L421-1 (VD)
+
+
+###### Article 123-2
+
+Les personnes mentionnées à l'article précédent et employées par des particuliers doivent obligatoirement s'assurer pour les
+dommages que les enfants gardés pourraient provoquer et pour ceux dont ils pourraient être victimes. Leurs employeurs sont
+tenus, avant de leur confier un enfant, de vérifier qu'elles ont bien satisfait à cette obligation    Les personnes
+mentionnées à l'article précédent et employées par des personnes morales sont obligatoirement couvertes contre les mêmes
+risques par les soins desdites personnes morales.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Loi n°91-1406 du 31 décembre 1991 - art. 17 (Ab)
+  - Code du travail - art. L122-28-5 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L421-9 (T)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-3
+
+Lorsque les personnes mentionnées à l'article 123-1 sont employées par des personnes morales de droit public ou de droit
+privé, il est passé entre elles et leur employeur, pour chaque mineur confié en garde permanente, un contrat de placement
+distinct du contrat de travail.
+
+Ce contrat précise notamment le rôle de la famille d'accueil et celui du service ou organisme employeur à l'égard du mineur
+et de sa famille.
+
+Si l'assistante maternelle est mariée et demeure avec son conjoint, le contrat de placement doit être également signé
+[*obligatoirement*] par celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°92-1051 du 29 septembre 1992 - art. 26 (Ab)
+  - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
+  - Code du travail - art. L122-28-5 (M)
+  - Code du travail - art. L773-3-1 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L421-10 (T)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
+
+###### Article 123-4
+
+Les dispositions de la présence section ne sont pas applicables lorsque les assistantes maternelles ont avec les mineurs
+accueillis un lien de parenté ou d'alliance jusqu'au sixième degré inclus, sauf dans le cas où l'enfant est placé par
+l'intermédiaire d'une personne morale de droit public ou de droit privé.
+
+Elles ne sont pas non plus applicables aux personnes dignes de confiance mentionnées à l'ordonnance du 2 février 1945
+relative à l'enfance délinquante et à l'article 375-3 du code civil.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Code civil - art. 375-3 (M)
+  - Ordonnance 1945-02-02
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L421-11 (T)
+
+_Cité par_:
+
+  - Code du travail - art. L122-28-5 (M)
+
+
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=41></a>
+
+###### Article 123-5
+
+S'appliquent aux assistantes maternelles employées par des personnes de droit public les articles suivants du livre VII,
+titre VII, chapitre III du code du travail : L. 773-3, L. 773-4, L. 773-5, L. 773-6, L. 773-7, L. 773-10, L. 773-11, L.
+773-12, L. 773-13, L. 773-14 et L. 773-15.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Code du travail - art. L773-10 (M)
+  - Code du travail - art. L773-11 (M)
+  - Code du travail - art. L773-12 (M)
+  - Code du travail - art. L773-13 (T)
+  - Code du travail - art. L773-14 (T)
+  - Code du travail - art. L773-15 (M)
+  - Code du travail - art. L773-3 (M)
+  - Code du travail - art. L773-4 (M)
+  - Code du travail - art. L773-5 (M)
+  - Code du travail - art. L773-6 (M)
+  - Code du travail - art. L773-7 (T)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L422-1 (VD)
+
+_Cité par_:
+
+  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-6
+
+Le droit syndical est reconnu aux assistantes maternelles relevant de la présente section. Les syndicats professionnels régis
+par le livre IV du code du travail peuvent ester en justice devant toute juridiction. Il peuvent notamment, devant les
+juridictions de l'ordre administratif, se pourvoir contre les actes réglementaires concernant le statut de ces assistantes
+maternelles et contre les décisions individuelles portant atteinte à leurs intérêts collectifs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Code du travail L611-1 A L631-3
+  - Code de la famille et de l'aide sociale 123-5 A 123-8
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L422-2 (VD)
+
+_Cité par_:
+
+  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-7
+
+Les assistantes maternelles relevant de la présente section qui se trouvent involontairement privées d'emploi et qui se sont
+inscrites comme demandeurs d'emploi auprès des services compétents ont droit à un revenu de remplacement dans les conditions
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L422-3 (VD)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale 123-5 A 123-8
+
+_Cité par_:
+
+  - Code du travail - art. L122-28-5 (M)
+
+
+###### Article 123-8
+
+Afin de pouvoir assurer sans délai des accueils urgents et de courte durée, les services concernés peuvent spécialiser dans
+cette forme d'accueil certaines des assistantes maternelles qu'ils emploient.
+
+Ces personnes s'engagent à recevoir immédiatement les enfants présentés par le service dans la limite d'un nombre maximum
+convenu avec lui.
+
+En contrepartie, elles perçoivent, durant les périodes où aucun enfant ne leur est confié, une indemnité de disponibilité
+dont le montant minimum, supérieur à celui de l'indemnité prévue par l'article L. 773-5 du code du travail, est fixé par
+décret en référence au salaire minimum interprofessionnel de croissance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°78-473 du 29 mars 1978 - art. 3 (Ab)
+  - Décret n°92-1245 du 27 novembre 1992 - art. 3 (M)
+  - Code du travail - art. L122-28-5 (M)
+
+_Cite_:
+
+  - Code du travail - art. L773-5 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L422-4 (VD)
+
+
+# Titre III : Aide sociale<a id=42></a>
 
 ###### Article 124
 
@@ -4662,7 +4940,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L111-1 (V)
 
 
-## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=41></a>
+## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=43></a>
 
 ###### Article 126
 
@@ -4996,7 +5274,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale<a id=42></a>
+## Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale<a id=44></a>
 
 ###### Article 136
 
@@ -5178,7 +5456,7 @@ _Cite_:
   - Loi n°1901-02-04 ART. 4, ART. 7
 
 
-## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=43></a>
+## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=45></a>
 
 ###### Article 141
 
@@ -5447,9 +5725,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L132-10 (V)
 
 
-## Chapitre IV : Aide sociale aux familles<a id=44></a>
+## Chapitre IV : Aide sociale aux familles<a id=46></a>
 
-### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=45></a>
+### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=47></a>
 
 ###### Article 150
 
@@ -5606,7 +5884,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=46></a>
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=48></a>
 
 ###### Article 156
 
@@ -5646,7 +5924,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L212-2 (V)
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=47></a>
+## Chapitre V : Aide sociale aux personnes agées<a id=49></a>
 
 ###### Article 157
 
@@ -5687,7 +5965,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=48></a>
+### Section 1 : Aide à domicile<a id=50></a>
 
 ###### Article 158
 
@@ -5886,7 +6164,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Placement familial ou hospitalier<a id=49></a>
+### Section 2 : Placement familial ou hospitalier<a id=51></a>
 
 ###### Article 164
 
@@ -5952,9 +6230,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-5 (M)
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=50></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=52></a>
 
-### Section 1 : Dispositions communes<a id=51></a>
+### Section 1 : Dispositions communes<a id=53></a>
 
 ###### Article 167
 
@@ -6125,9 +6403,9 @@ _Cité par_:
   - Code du travail - art. L323-30 (M)
 
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=52></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=54></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=53></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=55></a>
 
 ###### Article 169
 
@@ -6373,7 +6651,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=54></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=56></a>
 
 ###### Article 174
 
@@ -6469,7 +6747,7 @@ _Cité par_:
   - Code des marchés publics - art. 41 (Ab)
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=55></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=57></a>
 
 ###### Article 176
 
@@ -6532,7 +6810,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=56></a>
+## Chapitre VII : Aide médicale<a id=58></a>
 
 ###### Article 179
 
@@ -6714,7 +6992,7 @@ _Cite_:
   - Code de la santé publique L162-1 à L162-13
 
 
-### Section 1 : Dispositions diverses<a id=57></a>
+### Section 1 : Dispositions diverses<a id=59></a>
 
 ###### Article 182
 
@@ -6775,7 +7053,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=58></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=60></a>
 
 ###### Article 184
 
@@ -6922,7 +7200,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 185 (M)
 
 
-## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=59></a>
+## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=61></a>
 
 ###### Article 185-3
 
@@ -6949,7 +7227,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 202 (P)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=60></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=62></a>
 
 ###### Article 186
 
@@ -7001,7 +7279,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=61></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=63></a>
 
 ###### Article 187
 
@@ -7571,7 +7849,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale 124 A 202
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=62></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=64></a>
 
 ###### Article 203
 
@@ -8151,9 +8429,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=63></a>
+# Titre VI : Le service social<a id=65></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=64></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=66></a>
 
 ###### Article 218
 
@@ -8506,9 +8784,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=65></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=67></a>
 
-### Section 1 : Dispositions finales<a id=66></a>
+### Section 1 : Dispositions finales<a id=68></a>
 
 ###### Article 241
 
