@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1970-06-05
+Version Consolidée au 1971-07-14
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -49,9 +49,9 @@ Version Consolidée au 1970-06-05
     - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
       - [Section 1 : Aide à domicile (art. 158 à 163)](#47)
       - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#48)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 170 à 178)](#49)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 170 à 178)](#50)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 170 à 173)](#51)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 169 à 178)](#49)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#50)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#51)
         - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174)](#52)
         - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
     - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
@@ -5374,6 +5374,54 @@ _Nouveaux textes_:
 ### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=50></a>
 
 #### Paragraphe 1 : Dispositions communes aux deux catégories<a id=51></a>
+
+###### Article 169
+
+Toute personne dont l'infirmité entraîne au moins 80 p. 100 d'incapacité permanente est qualifiée "grand infirme" et
+bénéficie des dispositions particulières prévues ci-dessous.
+
+Le pourcentage d'infirmité est apprécié suivant le barème d'invalidité prévu à l'avant-dernier alinéa de l'article L. 9-1 du
+Code des pensions militaires d'invalidité et des victimes de la guerre.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°48-1360 du 1 septembre 1948 - art. 27 (V)
+  - Décret n°57-44 du 15 janvier 1957 - art. 5 (Ab)
+  - Décret n°72-526 du 29 juin 1972 - art. 2 (Ab)
+  - Décret n°72-533 du 29 juin 1972 - art. 4 (Ab)
+  - Décret n°76-555 du 25 juin 1976 - art. 3 (Ab)
+  - Décret n°79-479 du 19 juin 1979 - art. 8 (Ab)
+  - Décret n°93-1216 du 4 novembre 1993 - art. 1 (Ab)
+  - Décret n°93-1216 du 4 novembre 1993 - art. 5 (Ab)
+  - Code de la construction et de l'habitation. - art. R351-5 (V)
+  - Code de la sécurité sociale. - art. D542-11 (M)
+  - Code de la sécurité sociale. - art. D542-12 (M)
+  - Code de la sécurité sociale. - art. D755-15 (M)
+  - Code de la sécurité sociale. - art. R831-7 (M)
+  - Code du service national - art. R*112-6 (V)
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 38
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Modifié par_:
+
+  - Loi n°71-563 1971-07-13 art. 12 JORF 14 juillet 1971
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L241-3 (M)
+
+_Cite_:
+
+  - Code des pensions militaires d'invalidité et des victimes de la guerre L9-1
+
 
 ###### Article 170
 
