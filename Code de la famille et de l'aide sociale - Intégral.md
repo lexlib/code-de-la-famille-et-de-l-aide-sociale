@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1996-04-25
+Version Consolidée au 1996-05-01
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -11256,8 +11256,8 @@ _Cite_:
 ###### Article 248
 
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
-sociale est tenue au secret dans les conditions prévues par les articles 226-13 et 226-14 du code pénal et, en cas de
-manquement à cette obligation, passible des peines prévues à cet article.
+sociale est tenue au secret professionnel sous les peines et dans les conditions prévues aux articles 226-13 et 226-14 du
+code pénal.
 
 **Liens relatifs à cet article**
 
@@ -11267,7 +11267,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Ordonnance 96-267 1996-03-28 art. 12 JORF 31 mars 1996 en vigueur le 1er mai 1996
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cite_:
 
