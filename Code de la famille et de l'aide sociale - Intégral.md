@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-09-01
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -201,11 +201,12 @@ délégués des familles aux divers conseils, assemblées ou autres organismes i
 3. Gérer tout service d'intérêt familial dont les pouvoirs publics estimeront devoir leur confier la charge ;
 
 4. Exercer devant toutes les juridictions, sans avoir à justifier d'un agrément ou d'une autorisation préalable de l'autorité
-publique, notamment des agréments prévus à l'article 289, alinéa 3, du code pénal et à l'article premier de la loi n° 88-14
-du 5 janvier 1988 relative aux actions en justice des associations agréées de consommateurs et à l'information des
-consommateurs, l'action civile relativement aux faits de nature à nuire aux intérêts moraux et matériels des familles.
+publique, notamment de l'agrément prévu et à l'article premier de la loi n° 88-14 du 5 janvier 1988 relative aux actions en
+justice des associations agréées de consommateurs et à l'information des consommateurs, l'action civile relativement aux
+faits de nature à nuire aux intérêts moraux et matériels des familles, y compris pour les infractions prévues par l'article
+227-24 du code pénal.
 
-Chaque association familiale ou fédération d'associations familiales, dans la limite de ces statuts, conserve le droit de
+Chaque association familiale ou fédération d'associations familiales, dans la limite de ses statuts, conserve le droit de
 représenter auprès des pouvoirs publics les intérêts dont elle a assumé la charge.
 
 **Nota:**
@@ -222,11 +223,9 @@ territoriale de Mayotte, les mots :
 
 "représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 163 de la présente ordonnance est applicable à Mayotte.*]
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-323 1945-03-03 art. 6
 
 _Codifié par_:
 
@@ -234,17 +233,26 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°88-14 du 5 janvier 1988 - art. 1, v. init.
-  - Code pénal 289 al. 3
+  - Loi n°88-14 1988-01-05
+  - Code pénal - art. 227-24 (M)
 
 _Modifié par_:
 
-  - Loi n°88-14 du 5 janvier 1988 - art. 11 () JORF 6 janvier 1988
+  - Loi n°92-1336 du 16 décembre 1992 - art. 163 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L211-3 (M)
   - Code de l'action sociale et des familles - art. L221-8 (V)
+  - Code de la famille et de l'aide sociale L211-3
 
 _Cité par_:
 
@@ -2382,8 +2390,10 @@ représentant de l'Etat dans le département sur des listes de présentation ét
 
 - des personnalités qualifiées désignées par le représentant de l'Etat dans le département.
 
-La durée du mandat est de trois ans. Il est renouvelable une fois.    Les membres du conseil de famille sont tenus au secret
-professionnel selon les prescriptions de l'article 378 du code pénal.
+La durée du mandat est de trois ans. Il est renouvelable une fois.
+
+Les membres du conseil de famille sont tenus au secret professionnel selon les prescriptions des articles 226-13 et 223-14 du
+code pénal.
 
 Un décret en Conseil d'Etat précise la composition et fixe les règles de fonctionnement du ou des conseils de famille,
 institués dans le département.
@@ -2447,11 +2457,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
   - Code de la famille et de l'aide sociale. - art. 58 (M)
 
 
@@ -3193,13 +3204,13 @@ départements d'outre-mer.
 Ce service répond, à tout moment, aux demandes d'information ou de conseil concernant les situations de mineurs maltraités ou
 présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis en place en application
 de l'article 68, les informations qu'il recueille et les appréciations qu'il formule à propos de ces mineurs. A cette fin, le
-président du conseil général [*autorité compétente*] informe le groupement des modalités de fonctionnement permanent du
-dispositif départemental. Ce service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies et
-de celles qui lui ont été transmises dans les conditions prévues au quatrième alinéa du présent article.
+président du conseil général informe le groupement des modalités de fonctionnement permanent du dispositif départemental. Ce
+service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies et de celles qui lui ont été
+transmises dans les conditions prévues au quatrième alinéa du présent article.
 
-Le secret professionnel est applicable aux agents du service d'accueil téléphonique dans les conditions prévues à l'article
-378 du code pénal. Le troisième alinéa de l'article 68 ci-dessus est également applicable aux informations recueillies par le
-service d'accueil téléphonique.
+Le secret professionnel est applicable aux agents du service d'accueil téléphonique dans les conditions prévues aux articles
+226-13 et 226-14 du code pénal. Le troisième alinéa de l'article 68 ci-dessus est également applicable aux informations
+recueillies par le service d'accueil téléphonique.
 
 La convention constitutive du groupement précise les conditions dans lesquelles le dispositif mentionné à l'article 68
 transmet au service d'accueil téléphonique les informations qu'il recueille pour l'établissement de l'étude prévue au
@@ -3232,15 +3243,18 @@ territoriale de Mayotte, les mots :
 
 "représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 3° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 **Liens**:
 
@@ -3248,9 +3262,14 @@ _Créé par_:
   - TXT_SOURCE: Arrêté du 2 juin 1994 - art. 1 (V)
   - TXT_SOURCE: Arrêté du 2 juin 1994 - art. Annexe (V)
 
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
   - Code de la famille et de l'aide sociale. - art. 68 (M)
 
 _Cité par_:
@@ -3258,6 +3277,16 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
   - Code de la santé publique - art. L149 (Ab)
   - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-10 (M)
+  - Code de l'action sociale et des familles - art. L226-6 (M)
+  - Code de l'action sociale et des familles - art. L226-7 (M)
+  - Code de l'action sociale et des familles - art. L226-9 (M)
+  - Code de l'action sociale et des familles - art. L523-1 (V)
+  - Code de l'action sociale et des familles - art. L523-2 (V)
+  - Code de l'action sociale et des familles - art. R226-2 (V)
 
 
 ###### Article 72
@@ -3427,10 +3456,44 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L221-4 (M)
 
 
-###### Article 81
+###### Article 80
 
-L'article 378 du Code pénal relatif au secret professionnel est applicable à toute personne engagée dans le service de l'aide
-sociale à l'enfance.
+Toute personne participant aux missions du service de l'aide sociale à l'enfance est tenue au secret professionnel sous les
+peines et dans les conditions prévues par les articles 226-13 et 226-14 du code pénal.
+
+Elle est tenue de transmettre sans délai au président du conseil général ou au responsable désigné par lui toute information
+nécessaire pour déterminer les mesures dont les mineurs et leur famille peuvent bénéficier, et notamment toute information
+sur les situations de mineurs susceptibles de relever de la section 5 du chapitre Ier du présent titre.
+
+L'article 226-13 du code pénal n'est pas applicable aux personnes qui transmettent des informations dans les conditions
+prévues par l'alinéa précédent ou dans les conditions prévues par l'article 78 du présent code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 164 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
+  - Code de la famille et de l'aide sociale. - art. 78 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L221-6 (V)
+
+
+###### Article 81
 
 Le procureur de la République pourra, à l'occasion d'une procédure d'adoption ou de légitimation adoptive, prendre
 connaissance des dossiers concernant les enfants recueillis par le service. En toutes matières, le service de l'aide sociale
@@ -3447,7 +3510,7 @@ Toutefois, le lieu où est tenu l'état civil d'un pupille ou d'un ancien pupill
 l'ordre judiciaire qui en feront la demande à l'occasion d'une procédure pénale. Ce renseignement ne pourra être révélé au
 cours de cette procédure ou mentionné dans la décision à intervenir [*non*] ; toutes mesures devront, en outre, être prises
 pour qu'il ne puisse être porté directement ou indirectement à la connaissance de l'intéressé ou de toute autre personne non
-liée, de par ses fonctions, par le secret professionnel visé à l'article 378 du Code pénal.
+liée, de par ses fonctions, par le secret professionnel visé à l'article 226-13 et 226-14 du Code pénal.
 
 **Nota:**
 
@@ -3459,6 +3522,10 @@ territoriale de Mayotte, les mots :
 "président du conseil général" sont remplacés par "représentant du Gouvernement" ;
 
 "représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+[*Nota : Loi 91-738 du 31 juillet 1991 : les dispositions de l'article 15 de la présente loi, en ce qu'elles concernent
+l'action sociale mentionnée à l'article 13, entrent en vigueur à compter du 1er juillet 1991 (art. 16 I), sinon entrent en
+vigueur le 1er janvier 1993 (art. 16 II).*]
 
 [*Nota - Loi 92-1336 du 16 décembre 1992 art. 333 : toute référence aux dispositions de l'article 378 du code pénal est
 remplacée par la référence aux articles 226-13 et 226-14 du code pénal. Lorsqu'il est fait référence aux peines prévues par
@@ -3472,13 +3539,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 34 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 36 () JORF 8 janvier 1986
+  - Loi n°92-1336 du 16 décembre 1992 - art. 164 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
   - Code civil - art. 58 (V)
 
 
@@ -5852,7 +5919,7 @@ _Nouveaux textes_:
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions à l'aide sociale et
 notamment les membres des conseils d'administration des centres communaux d'action sociale, ainsi que toutes personnes dont
 ces établissements utilisent le concours et les membres des commissions d'admission, sont tenus au secret professionnel
-[*obligatoire*] dans les termes de l'article 378 du code pénal et passibles des peines prévues audit article.
+[*obligatoire*] dans les termes des articles 226-13 et 226-14 du code pénal et passibles des peines prévues audit article.
 
 **Liens relatifs à cet article**
 
@@ -5865,13 +5932,14 @@ _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
 
 _Nouveaux textes_:
 
@@ -6404,7 +6472,7 @@ _Cite_:
 ###### Article 147
 
 Sans préjudice des poursuites en restitution, quiconque aura frauduleusement perçu ont tenté de percevoir des prestations au
-titre de l'aide sociale, sera puni des peines prévues à l'article 405 du Code pénal.
+titre de l'aide sociale, sera puni des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal.
 
 **Nota:**
 
@@ -6415,20 +6483,34 @@ collectivité territoriale de Mayotte.*]
 
 _Anciens textes_:
 
-  - Décret n°53-1186 1953-11-29 ART. 22
+  - Décret n°53-1186 1953-11-29 art. 22
   - Décret n°55-190 1955-02-02
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 335 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cite_:
 
-  - Code pénal 405
+  - Code pénal - art. 313-1 (M)
+  - Code pénal - art. 313-7 (MMN)
+  - Code pénal - art. 313-8 (M)
 
 _Cité par_:
 
   - Code de la famille et de l'aide sociale. - art. 243 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L132-9 (M)
 
 
 ###### Article 148
@@ -9209,8 +9291,8 @@ dans l'établissement, la date de leur entrée et celle de leur sortie.
 
 Ce registre est tenu en permanence à la disposition des autorités judiciaires et administratives compétentes.
 
-Toute personne appelée par ses fonctions à prendre connaissance de ce registre est tenue au secret professionnel
-[*obligatoire*] dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+Toute personne appelée par ses fonctions à prendre connaissance de ce registre est tenue au secret professionnel dans les
+conditions et sous les peines fixées par l'article 226-13 du code pénal.
 
 **Nota:**
 
@@ -9236,9 +9318,17 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 96 (Ab)
   - Code de la famille et de l'aide sociale. - art. 98 (Ab)
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
   - Code de la famille et de l'aide sociale. - art. 203 (Ab)
   - Code de la famille et de l'aide sociale. - art. 215 (Ab)
 
@@ -9248,7 +9338,7 @@ _Nouveaux textes_:
 
 _Anciens textes_:
 
-  - Loi n°1933-01-14 ART. 18
+  - Loi n°1933-01-14 art. 18
 
 
 ###### Article 208
@@ -9290,8 +9380,8 @@ _Anciens textes_:
 ###### Article 209
 
 Les personnes responsables d'un établissement sont tenues de fournir aux autorités et agents chargés de la surveillance tous
-renseignements [*information*] qui leur sont demandés relatifs aux points mentionnés dans la déclaration d'ouverture et à
-l'identité des personnes hébergées.
+renseignements qui leur sont demandés relatifs aux points mentionnés dans la déclaration d'ouverture et à l'identité des
+personnes hébergées.
 
 Elles sont également tenues de laisser pénétrer dans l'établissement, à toute heure du jour et de la nuit, les autorités et
 agents chargés de la surveillance. Ceux-ci peuvent visiter tous les locaux, se faire présenter toute personne hébergée et
@@ -9300,15 +9390,15 @@ l'établissement. Ils peuvent se faire accompagner, le cas échéant, par l'homm
 le registre mentionné à l'article 207 et y consignent leurs constatations et observations.
 
 Toutefois, sans préjudice des dispositions du titre II du livre Ier du code de procédure pénale, et sauf exceptions prévues
-par la loi, il ne pourra être procédé aux visites de nuit [*interdiction*] prévues à l'alinéa précédent, si elles doivent
-commencer après vingt et une heures et avant six heures, qu'en cas d'appel provenant de l'intérieur de l'établissement, ou
-sur plainte ou réclamation, ou sur autorisation du procureur de la République. En cas de visite de nuit, les motifs de
-l'inspection doivent être portés par écrit à la connaissance du directeur de l'établissement.
+par la loi, il ne pourra être procédé aux visites de nuit prévues à l'alinéa précédent, si elles doivent commencer après
+vingt et une heures et avant six heures, qu'en cas d'appel provenant de l'intérieur de l'établissement, ou sur plainte ou
+réclamation, ou sur autorisation du procureur de la République. En cas de visite de nuit, les motifs de l'inspection doivent
+être portés par écrit à la connaissance du directeur de l'établissement.
 
 Les établissements à personnel féminin ne peuvent être inspectés de nuit que par des agents du sexe féminin.
 
-Les personnes chargées de la surveillance sont tenues au secret professionnel [*obligatoire*] dans les conditions et sous les
-peines prévues à l'article 378 du code pénal.
+Les personnes chargées de la surveillance sont tenues au secret professionnel dans les conditions et sous les peines fixées
+par l'article 226-13 du code pénal.
 
 **Nota:**
 
@@ -9320,15 +9410,23 @@ peines prévues à l'article 378 du code pénal.
 _Anciens textes_:
 
   - Décret n°53-915 du 26 septembre 1953 - art. 22, v. init.
-  - Loi n°1933-01-14 ART. 20
+  - Loi n°1933-01-14 art. 20
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
   - Code de la famille et de l'aide sociale. - art. 207 (M)
 
 _Nouveaux textes_:
@@ -9880,13 +9978,13 @@ _Abrogé par_:
 ###### Article 225
 
 Les assistantes, assistants ou auxiliaires du service social et les élèves des écoles se préparant à l'exercice de cette
-profession sont tenus au secret professionnel dans les conditions et sous les réserves énoncées à l'article 378 du code
-pénal.
+profession sont tenus au secret professionnel dans les conditions et sous les réserves énoncées aux articles 226-13 et 226-14
+du code pénal.
 
 La communication par les personnes visées à l'alinéa précédent, à l'autorité judiciaire ou aux services administratifs
 chargés de la protection de l'enfance, en vue de ladite protection, d'indications concernant des mineurs de vingt et un ans
 dont la santé, la sécurité, la moralité ou l'éducation sont compromises, n'expose pas, de ce fait, les intéressés aux peines
-prévues audit article 378 du code pénal.
+fixées par l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -9894,21 +9992,27 @@ _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
+_Anciens textes_:
+
+  - Loi n°46-630 1946-04-08 art. 9
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L411-3 (VD)
-
-_Anciens textes_:
-
-  - Loi n°46-630 1946-04-08 ART. 9
-
-_Modifié par_:
-
-  - Ordonnance 59-35 1959-01-05 art. 10 JORF 6 janvier 1959
+  - Code de l'action sociale et des familles - art. L411-3 (AbD)
 
 
 ###### Article 227
@@ -10554,8 +10658,8 @@ _Cite_:
 ###### Article 248
 
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions au bénéfice de l'aide
-sociale est tenue au secret dans les conditions prévues par l'article 378 du code pénal et, en cas de manquement à cette
-obligation, passible des peines prévues à cet article.
+sociale est tenue au secret dans les conditions prévues par les articles 226-13 et 226-14 du code pénal et, en cas de
+manquement à cette obligation, passible des peines prévues à cet article.
 
 **Liens relatifs à cet article**
 
@@ -10563,13 +10667,14 @@ _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance no 91-888 du 5 septembre 1991 portant e - art. 1 () JORF 10 septembre 1991
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
 
 _Nouveaux textes_:
 
