@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1975-01-18
+Version Consolidée au 1975-05-21
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -11,7 +11,7 @@ Version Consolidée au 1975-01-18
       - [Section 2 : Carte nationale de priorité des mères de famille (art. 21 à 31)](#8)
       - [Section 3 : Défense du patrimoine familial (art. 32 à 33)](#9)
       - [Section 4 : Questions professionnelles et logement familial (art. 34 à 37)](#10)
-        - [Paragraphe 1 : Questions professionnelles (art. 34 à 35)](#11)
+        - [Paragraphe 1 : Questions professionnelles (art. 34 à 36)](#11)
         - [Paragraphe 2 : Logement familial (art. 37)](#12)
     - [Chapitre III : Education familiale (art. 38 à 39)](#13)
       - [Section 1 : Enseignement des problèmes démographiques (art. 38)](#14)
@@ -851,6 +851,78 @@ _Nouveaux textes_:
 _Cite_:
 
   - Loi n°1946-05-18
+
+
+###### Article 36
+
+L'âge limite d'admission dans les corps des administrations de l'Etat ou dans les cadres des collectivités locales des
+établissements publics, des entreprises publiques et des services concédés est, à moins de dispositions contraires motivées
+par les nécessités spéciales de certains services, reculé d'un an par enfant à charge ou par personne à charge ouvrant droit
+aux allocations prévues pour les handicapés.
+
+Tout candidat à un emploi dans les corps ou cadres visés à l'alinéa précédent bénéficie, par enfant élevé dans les conditions
+prévues à l'article L. 327, deuxième alinéa, du code de la sécurité sociale (articles L. 342-4 et R. 342-2 du CSS), d'un
+recul de la limite d'âge d'admission égal à une année.
+
+Un même enfant ne peut ouvrir droit qu'au bénéfice de l'un ou de l'autre des alinéas ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°68-132 du 9 février 1968 - art. 2 (M)
+  - Décret n°77-962 du 11 août 1977 - art. 22 (V)
+  - Décret n°80-172 du 25 février 1980 - art. 11 (M)
+  - Arrêté du 1 août 1980 - art. 6 (M)
+  - Arrêté du 6 mars 1989 - art. 9 (Ab)
+  - CODE DES COMMUNES. - art. L412-7 (Ab)
+  - CODE DES COMMUNES. - art. R*444-34 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 1 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 10 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 11 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 12 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 13 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 14 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 15 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 16 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 17 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 18 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 19 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 2 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 20 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 21 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 22 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 23 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 24 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 3 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 4 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 5 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 6 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 7 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 8 (V)
+  - TXT_SOURCE: Décret n°80-172 du 25 février 1980 - art. 9 (V)
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cite_:
+
+  - Code de la sécurité sociale L327, L342-4, R342-2
+  - Code de la sécurité sociale. - art. L342-4 (V)
+  - Code de la sécurité sociale. - art. R342-2 (V)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L215-3 (V)
 
 
 #### Paragraphe 2 : Logement familial<a id=12></a>
