@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1983-01-20
+Version Consolidée au 1983-07-23
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -31,9 +31,9 @@ Version Consolidée au 1983-01-20
     - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 100 à 123)](#28)
       - [Section 1 : Protection générale des mineurs (art. 100)](#29)
       - [Section 3 : Protection spéciale des mineurs confiés à des oeuvres de bienfaisance privées (art. 101 à 123)](#30)
-  - [Titre II : Protection sociale de l'enfance (art. 55 à 123-8)](#31)
-    - [Chapitre II : Aide sociale à l'enfance (art. 55 à 82)](#32)
-      - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 55 à 56)](#33)
+  - [Titre II : Protection sociale de l'enfance (art. 54 à 123-8)](#31)
+    - [Chapitre II : Aide sociale à l'enfance (art. 54 à 82)](#32)
+      - [Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance (art. 54 à 56)](#33)
       - [Section 4 : Pupilles de l'Etat (art. 57 à 65-1)](#34)
         - [Paragraphe 1 : Tutelles (art. 57 à 65-1)](#35)
       - [Section 5 : Organisation administrative du service d'aide sociale à l'enfance (art. 77 à 82)](#36)
@@ -44,7 +44,7 @@ Version Consolidée au 1983-01-20
       - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#41)
       - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#42)
   - [Titre III : Aide sociale (art. 124 à 186)](#43)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 126 à 135)](#44)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#44)
     - [Chapitre II : Organisation attributions et fonctionnement des bureaux d'aide sociale (art. 136 à 140)](#45)
     - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#46)
     - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#47)
@@ -64,7 +64,7 @@ Version Consolidée au 1983-01-20
     - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#61)
     - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#62)
     - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#63)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#64)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#64)
   - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#65)
   - [Titre VI : Le service social (art. 218 à 241)](#66)
     - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#67)
@@ -3129,6 +3129,26 @@ _Anciens textes_:
 
 ### Section 3 : Mode d'admission des enfants dans les services de l'aide sociale à l'enfance<a id=33></a>
 
+###### Article 54
+
+Les enfants sont admis dans le service, quelle que soit la catégorie dans laquelle ils entrent, sur décision du président du
+conseil général [*antérieurement le préfet - compétence*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 10
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+
 ###### Article 55
 
 Toute présentation des enfants en vue de leur admission comme pupilles de l'Etat donne lieu à l'établissement d'un procès-
@@ -4920,6 +4940,79 @@ _Nouveaux textes_:
 
 ## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=44></a>
 
+###### Article 125
+
+Les demandes d'admission au bénéfice d'une forme quelconque d'aide sociale, à l'exception de celles concernant l'aide à
+l'enfance, de celles effectuées en application des articles 181-1 et 181-2 du code de la famille et de l'aide sociale [*aide
+médicale contraceptive, frais en cas d'interruption volontaire de grossesse*] et de celles formées en application des
+articles 214 et suivants du code de la santé publique, relatifs à la lutte antituberculeuse, sont déposées à la mairie de la
+résidence de l'intéressé.
+
+Les demandes donnent lieu à l'établissement d'un dossier par les soins du bureau d'aide sociale. Celui-ci peut utiliser à cet
+effet des visiteurs-enquêteurs.
+
+Les demandes sont ensuite transmises, dans le mois de leur dépôt, au représentant de l'Etat ou au président du conseil
+général [*antérieurement à 1983, le préfet*] qui les instruit et les soumet à la commission d'admission prévue à l'article
+1er du décret n. 59-143 du 7 janvier janvier 1959 [*C.FAM. 126*] avec l'avis du bureau d'aide sociale et celui du conseil
+municipal lorsque le maire ou le bureau d'aide sociale a demandé la consultation de cette assemblée. Pour chaque demande le
+représentant de l'Etat ou le président du conseil général [*antérieurement à 1983, le préfet*] formule une proposition
+[*compétence*].
+
+Les dossier soumis à la commission doivent contenir les pièces et précisions qui seront énumérées par un arrêté.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 11 (Ab)
+  - Décret n°54-883 du 2 septembre 1954 - art. 14 (Ab)
+  - Décret n°54-883 du 2 septembre 1954 - art. 27 (Ab)
+  - Décret n°56-1030 du 28 septembre 1956 - art. 43 (Ab)
+  - Décret n°70-816 du 9 septembre 1970 - art. 7 (Ab)
+  - Décret n°77-274 du 24 mars 1977 - art. 21 (Ab)
+  - CODE DES COMMUNES. - art. R*121-15 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 137 (M)
+
+_Anciens textes_:
+
+  - Décret n°55-190 1955-02-02 ART. 1
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Décret n°59-143 1959-01-07 ART. 1
+  - Code de la famille et de l'aide sociale. - art. 126 (M)
+  - Code de la famille et de l'aide sociale. - art. 181-1 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 181-2 (Ab)
+  - Code de la santé publique L214 ET S.
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L131-1 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: dispositions réglementaires
+
+
 ###### Article 126
 
 La commission d'admission comprend cinq membres [*nombre*] :
@@ -5138,6 +5231,44 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L134-7 (M)
 
 
+###### Article 131
+
+Les recours, tant devant la commission départementale que devant la commission centrale, peuvent être formulés par le
+demandeur, l'établissement où il est admis, le maire, le représentant de l'Etat ou le président du conseil général
+[*antérieurement à 1983, le préfet*] les organismes de sécurité sociale et de mutualité sociale agricole, intéressés ou par
+tout habitant ou contribuable de la commune ou du département [*requérant*].
+
+Le ministre de la Santé publique et de la Population peut attaquer directement devant la commission centrale toute décision
+prise soit par les commissions d'admission, soit par les commissions départementales.
+
+Le délai de recours est porté à deux mois en ce qui concerne le ministre de la Santé publique et de la Population, il a pour
+point de départ le prononcé de la décision.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-190 1955-02-02 ART. 7
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Modifié par_:
+
+  - Décret n°59-143 1959-01-07 art. 2 JORF 9 janvier 1959
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Cité par_:
+
+  - Décret n°70-322 du 13 avril 1970 - art. 8 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L134-4 (V)
+  - Code de l'action sociale et des familles - art. L134-5 (VT)
+
+
 ###### Article 132
 
 Le recours formé contre la décision de la commission d'admission et l'appel contre la décision de la commission
@@ -5218,6 +5349,72 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L133-3 (V)
   - Livre des procédures fiscales - art. L158 (V)
   - Code de l'action sociale et des familles - art. L133-3 (M)
+
+
+###### Article 134
+
+L'admission d'urgence à l'aide médicale et, lorsqu'elle comporte l'hospitalisation ou l'attribution de la prestation en
+nature d'aide ménagère à une personne âgée privée brusquement de l'assistance de la personne dont l'aide était nécessaire au
+maintien au domicile, l'admission à l'aide sociale aux infirmes et aux personnes âgées, sont éventuellement prononcées par le
+maire qui notifie sa décision au représentant de l'Etat ou au président du conseil général dans les trois jours avec demande
+d'avis de réception. L'admission d'urgence à l'aide médicale aux tuberculeux, en ce qui concerne le placement en
+établissement de cure, est prononcée par le représentant de l'Etat ou le président du conseil général de la résidence de
+l'intéressé.
+
+En cas d'hospitalisation, le directeur de l'établissement est tenu de notifier au représentant de l'Etat ou au président du
+conseil général,  dans les quarante-huit heures, l'entrée de toute personne ayant fait l'objet d'une décision d'admission
+d'urgence à l'aide sociale ou sollicitant une telle admission.
+
+L'inobservation des délais prévus ci-dessus entraîne la mise à la charge exclusive de la commune, en matière d'aide
+hospitalière, des frais de soins et de séjour exposés jusqu'à la date de la notification.
+
+La commission du domicile du postulant statue dans le délai de deux mois sur l'admission d'urgence. A cette fin, le maire
+transmet au représentant de l'Etat ou au président du conseil général dans le mois de sa décision, le dossier constitué dans
+les conditions prévues à l'article 1er du présent décret.
+
+En cas de non ratification, les frais exposés antérieurement à la décision de rejet sont dus par l'intéressé.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°55-190 1955-02-02 art. 9
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°56-1030 du 28 septembre 1956 - art. 13 (M)
+  - Décret n°95-562 du 6 mai 1995 - art. 24 (Ab)
+  - Décret n°95-563 du 6 mai 1995 - art. 23 (Ab)
+  - Arrêté - art. 6 (M)
+
+_Modifié par_:
+
+  - Loi n°83-663 1983-07-22 art. 54 II, III, VI JORF 23 juillet 1983
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L131-3 (V)
+  - Code de l'action sociale et des familles - art. L131-3 (M)
 
 
 ###### Article 135
@@ -5592,6 +5789,51 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L132-6 (M)
 
 
+###### Article 145
+
+En cas de carence de l'intéressé, le représentant de l'Etat ou le président du conseil général [*antérieurement à 1983, le
+préfet*] peut demander en son lieu et place à l'autorité judiciaire la fixation de la dette alimentaire et le versement de
+son montant au département, à charge pour celui-ci de le reverser au bénéficiaire, augmenté le cas échéant de la quote-part
+de l'aide sociale.
+
+Les mêmes droits appartiennent aux maires des villes ayant conservé un régime spécial d'aide médicale.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 20
+  - Décret n°55-190 1955-02-02
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Décret n°64-355 du 20 avril 1964 - art. 7 (M)
+  - Code de la famille et de l'aide sociale. - art. 196 (Ab)
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L132-7 (V)
+
+
 ###### Article 146
 
 Des recours sont exercés par le département, par l'Etat, si le bénéficiaire de l'aide sociale n'a pas de domicile de secours,
@@ -5685,6 +5927,69 @@ _Cite_:
 _Cité par_:
 
   - Code de la famille et de l'aide sociale. - art. 243 (Ab)
+
+
+###### Article 148
+
+Pour la garantie des recours prévus à l'article 146 ci-dessus, les immeubles appartenant aux bénéficiaires de l'aide sociale
+sont grevés d'une hypothèque légale, dont l'inscription est requise par le représentant de l'Etat ou le président du conseil
+général dans les conditions prévues à l'article 2148 du code civil.
+
+Les bordereaux d'inscription doivent mentionner le montant des prestations allouées au bénéficiaire de l'aide sociale.
+
+L'hypothèque prend rang, à l'égard de chaque somme inscrite, à compter de la date de l'inscription correspondante.
+
+Aucune inscription ne pourra être prise lorsque la valeur globale des biens de l'allocataire est inférieure à une somme fixée
+par décret en conseil d'Etat.
+
+Les formalités relatives à l'inscription de l'hypothèque visée ci-dessus, ainsi qu'à sa radiation, ne donnent lieu à aucune
+perception au profit du Trésor.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 art. 23
+  - Décret n°55-190 1955-02-02 art. 15
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cite_:
+
+  - Code civil - art. 2148 (M)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L132-9 (M)
+
+_Cité par_:
+
+  - Code de la famille et de l'aide sociale. - art. 146 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 146 (M)
 
 
 ###### Article 149
@@ -7231,211 +7536,6 @@ _Cite_:
 
 # Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=64></a>
 
-###### Article 187
-
-Les différents services d'aide sociale sont organisés dans chaque département par le conseil général, conformément aux
-dispositions de l'article 46 de la loi du 10 août 1871.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 57
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 91 (Ab)
-
-_Cite_:
-
-  - Loi   1871-08-10 ART. 46
-
-
-###### Article 188
-
-Les décrets fixant les taux des allocations et majorations ainsi que les plafonds des ressources sont contresignés par le
-ministre de la Santé publique et de la Population, le ministre de l'Intérieur, le ministre chargé du Budget et, le cas
-échéant, le ministre du Travail et de la Sécurité sociale ou le ministre de la Défense nationale et des Forces armées. Ils ne
-pourront en aucun cas réduire les taux et les plafonds en vigueur à la date de publication du décret du 29 novembre 1953.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret  1953-11-29
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 59
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L252-3 (V)
-
-_Cité par_:
-
-  - Code de la sécurité sociale. - art. L182-1 (M)
-
-
-###### Article 189
-
-Les dépenses résultant, dans chaque département, de l'application des différentes formes d'aide sociale prévues au chapitre
-Ier à VIII du titre III ont un caractère obligatoire. Elles sont inscrites en totalité au budget du département.
-
-L'Etat et les communes participent à ces dépenses ; leur contribution est portée en recettes au budget du département.
-
-**Liens relatifs à cet article**
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L253-1 (V)
-
-_Cite_:
-
-  - Code de la famille et de l'aide sociale 125 A 183
-
-_Cité par_:
-
-  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
-  - Code de la santé publique - art. L355-8 (M)
-  - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
-  - Loi n°83-663 du 22 juillet 1983 - art. 4 (V)
-
-_Anciens textes_:
-
-  - Décret n°1939-07-29 ART. 80
-  - Décret n°53-1186 1953-11-29 ART. 60
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
-
-###### Article 190
-
-Les dépenses résultant dans chaque département de l'application des articles 41 à 43 du chapitre II du titre II du présent
-code, des articles 1er à 7-1,, 14, 17, 18, 26 à 32, 36, 37, 40, 44, 45, 49 à 51, 768 à 772, 775 à 781 du titre Ier du livre
-II et des titres Ier et II du livre III du Code de la santé publique et du décret n. 55-571 du 20 mai 1955 ont un caractère
-obligatoire. Elles sont inscrites en totalité au budget du département. L'Etat y participe ; sa contribution est portée en
-recettes au budget du département.
-
-Les dépenses des services municipaux de désinfection et des bureaux municipaux d'hygiène restent inscrites au budget de la
-commune. L'Etat y contribue dans les conditions prévues à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 61
-
-_Cité par_:
-
-  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
-  - Décret n°59-101 du 7 janvier 1959 - art. 7 (Ab)
-  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
-  - Loi n°63-1241 du 19 décembre 1963 - art. 68 (M)
-  - Loi n°83-663 du 22 juillet 1983 - art. 4 (V)
-  - CODE DES COMMUNES. - art. L221-2 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 185-1 (M)
-  - Code de la famille et de l'aide sociale. - art. 191 (Ab)
-  - Code de la santé publique - art. L185 (M)
-  - Code de la santé publique - art. L247 (M)
-  - Code de la santé publique - art. L304 (M)
-  - Code de la santé publique - art. L353 (M)
-  - Code de la santé publique - art. L49 (M)
-
-_Cite_:
-
-  - Décret n°55-571 1955-05-20
-  - Code de la famille et de l'aide sociale 41 A 43
-  - Code de la santé publique - art. L14 (M)
-  - Code de la santé publique - art. L17 (Ab)
-  - Code de la santé publique - art. L18 (Ab)
-  - Code de la santé publique - art. L36 (Ab)
-  - Code de la santé publique - art. L37 (Ab)
-  - Code de la santé publique - art. L40 (Ab)
-  - Code de la santé publique - art. L44 (Ab)
-  - Code de la santé publique - art. L45 (Ab)
-  - Code de la santé publique L214 A L311
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
-_Nouveaux textes_:
-
-  - Code de l'action sociale et des familles - art. L253-2 (V)
-
-
-###### Article 191
-
-Un règlement d'administration publique détermine les conditions de répartition des dépenses visées aux articles 189 et 190 et
-notamment le pourcentage des dépenses incombant respectivement à l'Etat, aux départements et à l'ensemble des communes de
-chaque département.
-
-Le pourcentage des dépenses qui incombent aux départements et aux communes devra être calculé de façon à ce que ces
-collectivités ne supportent pas, dans leur ensemble, une charge supérieure à celle qui leur aurait incombé en vertu du décret
-du 30 octobre 1935 modifié pour les formes d'aide auxquelles elles participaient avant la promulgation du décret du 29
-novembre 1953.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°1935-10-30
-  - Décret n°1953-11-29
-  - Code de la famille et de l'aide sociale. - art. 189 (Ab)
-  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 62
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Cité par_:
-
-  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
-  - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
-  - Loi n°83-8 du 7 janvier 1983 - art. 93 (Ab)
-  - Code de la santé publique - art. L185 (M)
-  - Code de la santé publique - art. L50 (M)
-
-_Abrogé par_:
-
-  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
-
-_Nouveaux textes_:
-
-  - Code de la santé publique - art. L50 (M)
-
-
 ###### Article 192
 
 Les dépenses à la charge des trois collectivités [*état, département, commune*] comprennent :
@@ -7570,10 +7670,6 @@ _Nouveaux textes_:
 
 ###### Article 195
 
-Le conseil général arrête les conditions de répartition des dépenses d'aide sociale entre les communes.
-
-Les principes suivant lesquels il sera procédé à cette répartition sont fixés par règlement d'administration publique.
-
 Sous réserve de l'application de l'article 201, les contestations relatives aux rapports financiers entre les collectivités
 débitrices de l'aide sociale, ainsi qu'aux rapports entre les collectivités et les établissements d'hospitalisation ou de
 traitement relèvent, en premier ressort, de la compétence des tribunaux administratifs.
@@ -7591,6 +7687,10 @@ _Codifié par_:
 _Cité par_:
 
   - Loi n°75-534 du 30 juin 1975 - art. 39 (Ab)
+
+_Modifié par_:
+
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
 
 _Nouveaux textes_:
 
@@ -7644,36 +7744,38 @@ _Cite_:
   - Code de la sécurité sociale L695, L696
 
 
-###### Article 198
+###### Article 197
 
-Les conseils généraux peuvent créer des emplois d'agents départementaux de contrôle. Les délibérations prises à cet effet
-sont soumises à l'approbation [*condition préalable*] du ministre de la santé publique et de la population lorsqu'elles ne
-sont pas conformes aux propositions du préfet.
+Les contrôles administratif et médical de l'application des lois d'aide sociale sont assurés, sous l'autorité du représentant
+de l'Etat [*antérieurement à 1983, le préfet - compétence*] suivant les instructions du ministre de la Santé publique et de
+la Population, dans les conditions déterminées par règlement d'administration publique.
+
+Ces contrôles s'appliquent notamment aux oeuvres, institutions et établissements privés, bénéficiant de l'intervention
+financière des collectivités publiques des organismes de sécurité sociale.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°53-1186 1953-11-29 ART. 69
-
-_Cité par_:
-
-  - Décret n°54-883 du 2 septembre 1954 - art. 44-1 (M)
-  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
-  - Décret n°77-1549 du 31 décembre 1977 - art. 5 (Ab)
-  - Loi n°97-60 du 24 janvier 1997 - art. 14 (Ab)
+  - Décret n°53-1186 1953-11-29 ART. 68
+  - Décret n°55-190 1955-02-02 ART. 18
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
-_Abrogé par_:
+_Cité par_:
+
+  - Décret n°59-1095 du 21 septembre 1959 - art. 9 (Ab)
+  - Décret n°64-355 du 20 avril 1964 - art. 7 (M)
+
+_Modifié par_:
 
   - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
 
 _Nouveaux textes_:
 
-  - Code de l'action sociale et des familles - art. L133-2 (V)
+  - Code de l'action sociale et des familles - art. L133-1 (M)
 
 
 ###### Article 199
@@ -7732,18 +7834,16 @@ _Nouveaux textes_:
 ###### Article 201
 
 La section permanente du conseil supérieur de l'aide sociale est compétente pour statuer en matière contentieuse sur les
-recours contre les arrêtés du préfet fixant les prix de journée des établissements publics ou privés. Ces recours peuvent
-être portés devant elle dans le délai d'un mois à partir de la publication desdits arrêtés par toute personne physique ou
-morale intéressée, par les ministres compétents ou les organismes de sécurité sociale.
+recours contre les arrêtés fixant la dotation globale due conformément aux dispositions de l'article 8 de la loi n° 83-25 du
+19 janvier 1983 portant diverses mesures relatives à la sécurité sociale par les organismes d'assurance maladie ainsi que sur
+les recours contre les arrêtés déterminant les prix de journée des établissements publics ou privés. Ces recours peuvent être
+portés devant elle dans le délai d'un mois à partir de la publication desdits arrêtés par toute personne physique ou morale
+intéressée, par les ministres compétents ou les organismes de sécurité sociale.
 
-La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée ont effet à compter de
-la date prévue dans l'arrêté préfectoral donnant lieu au litige.
+La section permanente statue en dernier ressort. Les décisions fixant le montant des prix de journée et des versements
+globaux ont effet à compter de la date prévue dans l'arrêté donnant lieu à un litige.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 72
 
 _Codifié par_:
 
@@ -7758,6 +7858,15 @@ _Cité par_:
   - Décret n°90-359 du 11 avril 1990 - art. 42 (Ab)
   - Code de la famille et de l'aide sociale. - art. 195 (Ab)
   - Code de la famille et de l'aide sociale. - art. 201-1 (M)
+
+_Modifié par_:
+
+  - Loi n°83-25 du 19 janvier 1983 - art. 12 () JORF 20 janvier 1983
+  - Loi n°83-663 du 22 juillet 1983 - art. 54 (V) JORF 23 juillet 1983
+
+_Cite_:
+
+  - Loi n°83-25 du 19 janvier 1983 - art. 8, v. init.
 
 _Nouveaux textes_:
 
