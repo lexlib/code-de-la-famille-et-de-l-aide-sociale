@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1972-07-09
+Version Consolidée au 1974-11-20
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -56,14 +56,15 @@ Version Consolidée au 1972-07-09
         - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
     - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
       - [Section 1 : Dispositions diverses (art. 182 à 183)](#55)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-1)](#56)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#57)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#58)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#59)
-  - [Titre VI : Le service social (art. 218 à 241)](#60)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#61)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#62)
-      - [Section 1 : Dispositions finales (art. 241)](#63)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-2)](#56)
+    - [Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 185-3)](#57)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#58)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 187 à 202)](#59)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#60)
+  - [Titre VI : Le service social (art. 218 à 241)](#61)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#62)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#63)
+      - [Section 1 : Dispositions finales (art. 241)](#64)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -6151,6 +6152,64 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 161 (V)
 
 
+###### Article 185
+
+Bénéficient, sur leur demande, de l'aide sociale pour être accueillies dans des centres d'hébergement et de réadaptation
+sociale publics ou privés les personnes et les familles dont les ressources sont insuffisantes, qui éprouvent des difficultés
+pour reprendre ou mener une vie normale notamment en raison du manque ou de conditions défectueuses de logement et qui ont
+besoin d'un soutien matériel et psychologique et, le cas échéant, d'une action éducative temporaire.
+
+Le décret prévu à l'article 202 du présent code précise les catégories de personnes et de familles pouvant bénéficier de
+l'alinéa précédent. Le même décret fixe pour tout ou partie des catégories de personnes et de familles intéressées une limite
+à la durée de l'aide sociale accordée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 55
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 46 (Ab)
+  - Décret n°54-883 du 2 septembre 1954 - art. 46-1 (Ab)
+  - Décret n°54-1139 du 17 novembre 1954 - art. 1 (Ab)
+  - Décret n°56-1030 du 28 septembre 1956 - art. 67 (Ab)
+  - Décret n°85-1458 du 30 décembre 1985 - art. 1 (Ab)
+  - Décret n°85-1458 du 30 décembre 1985 - art. 12 (An)
+  - Loi n°86-33 du 9 janvier 1986 - art. 2 (M)
+  - Décret n°88-279 du 24 mars 1988 - art. 1 (Ab)
+  - Arrêté du 18 août 1988 - art. 1 (Ab)
+  - Loi n°89-18 du 13 janvier 1989 - art. 40 (Ab)
+  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
+  - Arrêté du 3 décembre 1993 - art. Unique (V)
+  - Arrêté du 16 mars 1978 - art. 1 (Ab)
+  - Arrêté du 21 juin 1968 - art. 1 (M)
+  - Arrêté du 21 juin 1968 - art. 2 (M)
+  - Arrêté du 21 juin 1968 - art. 3 (M)
+  - Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+  - Arrêté du 4 mai 1977 - art. 1 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 185-1 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 185-2 (Ab)
+  - Code de la sécurité sociale. - art. L241-12 (M)
+  - Code de la sécurité sociale. - art. L851-1 (M)
+  - Code du travail - art. L322-4-16-7 (M)
+  - Code du travail - art. L323-35 bis (Ab)
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 202 (P)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L345-1 (M)
+
+
 ###### Article 185-1
 
 Dans chaque département doit être créé un service social qui a pour mission, en liaison avec le service départemental
@@ -6182,7 +6241,70 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 190 (Ab)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=57></a>
+###### Article 185-2
+
+Les personnes bénéficiant de l'aide sociale, par application de l'article 185, en vue d'être accueillies dans un centre
+d'hébergement et de réadaptation, et qui sont reçues dans un tel centre ou en sortent, peuvent également être admises à
+bénéficier de l'aide sociale en vue d'un réentraînement au travail dans des centres d'aide par le travail, publics ou privés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cité par_:
+
+  - Arrêté du 18 août 1988 - art. 1 (Ab)
+  - Arrêté du 30 juillet 1993 - art. 1 (Ab)
+  - Code de la sécurité sociale. - art. L241-12 (M)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Circulaire 44 1979-09-10
+
+_Abrogé par_:
+
+  - Loi n°98-657 du 29 juillet 1998 - art. 157 (Ab) JORF 31 juillet 1998
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 185 (M)
+
+
+## Chapitre VIII : Mesure d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=57></a>
+
+###### Article 185-3
+
+Le bénéfice de l'aide sociale ne peut être accordé ou maintenu aux personnes ou familles accueillies dans un centre privé
+d'hébergement et de réadaptation ou dans un centre privé d'aide par le travail que si une convention a été conclue à cette
+fin entre le centre et le département.
+
+Le décret prévu à l'article 202 du présent code détermine les règles générales auxquelles doivent obéir les conventions
+visées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°54-883 du 2 septembre 1954 - art. 46-1 (Ab)
+  - Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 202 (P)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L345-3 (M)
+  - Code de l'action sociale et des familles - art. L345-4 (M)
+
+
+## Chapitre IX : Dispositions concernant les étrangers<a id=58></a>
 
 ###### Article 186
 
@@ -6234,7 +6356,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=58></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=59></a>
 
 ###### Article 187
 
@@ -6818,7 +6940,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=59></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=60></a>
 
 ###### Article 203
 
@@ -7394,9 +7516,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=60></a>
+# Titre VI : Le service social<a id=61></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=61></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=62></a>
 
 ###### Article 218
 
@@ -7751,9 +7873,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=62></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=63></a>
 
-### Section 1 : Dispositions finales<a id=63></a>
+### Section 1 : Dispositions finales<a id=64></a>
 
 ###### Article 241
 
