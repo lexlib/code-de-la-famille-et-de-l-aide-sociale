@@ -1,7 +1,7 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 2000-01-01
+Version Consolidée au 2000-06-22
 ## Contenu: 
-  - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
+  - [Titre Ier : Protection sociale de la famille (art. 1 à 37)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
       - [Section 1 : Les associations familiales et les unions d'associations familiales (art. 1 à 16)](#3)
       - [Section 2 : Fête des mères (art. 17 à 19)](#4)
@@ -12,62 +12,59 @@ Version Consolidée au 2000-01-01
       - [Section 4 : Questions professionnelles et logement familial (art. 34 à 37)](#9)
         - [Paragraphe 1 : Questions professionnelles (art. 34 à 36)](#10)
         - [Paragraphe 2 : Logement familial (art. 37)](#11)
-    - [Chapitre III : Education familiale (art. 38 à 39)](#12)
-      - [Section 1 : Enseignement des problèmes démographiques (art. 38)](#13)
-      - [Section 2 : Formation ménagère et familiale (art. 39)](#14)
-  - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 40 à 123-13)](#15)
-    - [Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance (art. 40 à 72)](#16)
-      - [Section 1 : Missions du service de l'aide sociale à l'enfance (art. 40)](#17)
-      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 41 à 47)](#18)
-        - [Sous-section 1 : Aide à domicile (art. 42 à 44)](#19)
-        - [Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse (art. 45)](#20)
-        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 46 à 47)](#21)
-      - [Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance (art. 55 à 59-1)](#22)
-      - [Section 4 : Statut des pupilles de l'Etat (art. 60 à 65)](#23)
-      - [Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités (art. 66 à 72)](#24)
-    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#25)
-    - [Chapitre III : Dispositions financières (art. 83 à 88)](#26)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 123-11)](#27)
-      - [Section 1 : Protection générale des mineurs (art. 93 à 99)](#28)
-      - [Section 2 : Organismes autorisés et habilités pour l'adoption (art. 100-1 à 100-2-1)](#29)
-      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3 à 100-4)](#30)
-      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4-1)](#31)
-      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-11)](#32)
-    - [Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants (art. 123-12 à 123-13)](#33)
-  - [Titre III : Aide sociale (art. 124 à 186)](#34)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#35)
-    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale (art. 136 à 140)](#36)
-    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149-1)](#37)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#38)
-      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#39)
-      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#40)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#41)
-      - [Section 1 : Aide à domicile (art. 158 à 163)](#42)
-      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#43)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#44)
-      - [Section 1 : Dispositions communes (art. 166 à 168)](#45)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#46)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 174)](#47)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 175)](#48)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 178)](#49)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#50)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#51)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#52)
-  - [Titre III bis : Aide médicale de l'Etat (art. 187-1 à 190)](#53)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#54)
-  - [Titre VI : Le service social (art. 218 à 229)](#55)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#56)
-  - [Titre VII : Dispositions particulières à la collectivité territoriale de Mayotte (art. 230 à 255)](#57)
-    - [Chapitre Ier : Protection sociale de la famille (art. 230)](#58)
-    - [Chapitre II : Action sociale en faveur de l'enfance et de la famille (art. 231 à 241)](#59)
-      - [Section 1 : Missions et prestations du service de l'aide sociale à l'enfance (art. 232 à 238)](#60)
-      - [Section 2 : Organisation du service chargé de l'aide sociale à l'enfance (art. 239)](#61)
-      - [Section 3 : Dispositions financières (art. 240 à 241)](#62)
-    - [Chapitre III : Aide sociale (art. 242 à 255)](#63)
-      - [Section 1 : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 243 à 248)](#64)
-      - [Section 2 : Participation des intéressés et des familles à une obligation pécuniaire envers les bénéficiaires de l'aide sociale (art. 249 à 250)](#65)
-      - [Section 3 : Dispositions communes (art. 251 à 255)](#66)
-  - [Titre VIII : Dispositions finales (art. 256)](#67)
+  - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 40 à 123-13)](#12)
+    - [Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance (art. 40 à 72)](#13)
+      - [Section 1 : Missions du service de l'aide sociale à l'enfance (art. 40)](#14)
+      - [Section 2 : Prestations d'aide sociale à l'enfance (art. 41 à 47)](#15)
+        - [Sous-section 1 : Aide à domicile (art. 42 à 44)](#16)
+        - [Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse (art. 45)](#17)
+        - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 46 à 47)](#18)
+      - [Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance (art. 55 à 59-1)](#19)
+      - [Section 4 : Statut des pupilles de l'Etat (art. 60 à 65)](#20)
+      - [Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités (art. 66 à 72)](#21)
+    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#22)
+    - [Chapitre III : Dispositions financières (art. 83 à 88)](#23)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 123-11)](#24)
+      - [Section 1 : Protection générale des mineurs (art. 93 à 99)](#25)
+      - [Section 2 : Organismes autorisés et habilités pour l'adoption (art. 100-1 à 100-2-1)](#26)
+      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3 à 100-4)](#27)
+      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4-1)](#28)
+      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-11)](#29)
+    - [Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants (art. 123-12 à 123-13)](#30)
+  - [Titre III : Aide sociale (art. 124 à 186)](#31)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#32)
+    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale (art. 136 à 140)](#33)
+    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149-1)](#34)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#35)
+      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#36)
+      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#37)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#38)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#39)
+      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#40)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#41)
+      - [Section 1 : Dispositions communes (art. 166 à 168)](#42)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#43)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 174)](#44)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 175)](#45)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 178)](#46)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#47)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#48)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#49)
+  - [Titre III bis : Aide médicale de l'Etat (art. 187-1 à 190)](#50)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#51)
+  - [Titre VI : Le service social (art. 218 à 229)](#52)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#53)
+  - [Titre VII : Dispositions particulières à la collectivité territoriale de Mayotte (art. 230 à 255)](#54)
+    - [Chapitre Ier : Protection sociale de la famille (art. 230)](#55)
+    - [Chapitre II : Action sociale en faveur de l'enfance et de la famille (art. 231 à 241)](#56)
+      - [Section 1 : Missions et prestations du service de l'aide sociale à l'enfance (art. 232 à 238)](#57)
+      - [Section 2 : Organisation du service chargé de l'aide sociale à l'enfance (art. 239)](#58)
+      - [Section 3 : Dispositions financières (art. 240 à 241)](#59)
+    - [Chapitre III : Aide sociale (art. 242 à 255)](#60)
+      - [Section 1 : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 243 à 248)](#61)
+      - [Section 2 : Participation des intéressés et des familles à une obligation pécuniaire envers les bénéficiaires de l'aide sociale (art. 249 à 250)](#62)
+      - [Section 3 : Dispositions communes (art. 251 à 255)](#63)
+  - [Titre VIII : Dispositions finales (art. 256)](#64)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -1494,78 +1491,11 @@ _Abrogé par_:
   - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 
-## Chapitre III : Education familiale<a id=12></a>
+# Titre II : Action sociale en faveur de l'enfance et de la famille<a id=12></a>
 
-### Section 1 : Enseignement des problèmes démographiques<a id=13></a>
+## Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance<a id=13></a>
 
-###### Article 38
-
-L'enseignement des problèmes démographiques, sous leur aspect statistique et dans leurs rapports avec les questions morales
-et familiales, est obligatoire pour tous les maîtres et pour tous les élèves à tous les degrés de l'enseignement et dans tous
-les établissements scolaires publics ou privés.
-
-Cet enseignement comportera un horaire annuel minimum de six heures et sera donné selon les indications figurant dans un
-arrêté du ministre de l'Education nationale pris après avis du conseil supérieur de l'Education nationale et du haut comité
-consultatif de la population et de la famille.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1939-07-29 ART. 142
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Ordonnance 2000-549 2000-06-15 art. 7 2° JORF 22 juin 2000
-
-_Cité par_:
-
-  - Rapport - art. 7 (V)
-
-_Nouveaux textes_:
-
-  - Code de l'éducation - art. L312-14 (V)
-
-
-### Section 2 : Formation ménagère et familiale<a id=14></a>
-
-###### Article 39
-
-La formation ménagère et familiale est assurée dans les établissements publics et privés d'enseignement et dans les centres
-spéciaux dans les conditions fixées par les lois du 18 mars et du 20 août 1942, par l'ordonnance du 2 novembre 1945 et par
-les articles 1288 et suivants du Code rural (articles 110 à 134 du code de l'enseignement technique).
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'enseignement technique 110 à 134
-  - Code rural 1288
-  - Loi n°1942-08-20
-  - Ordonnance 1945-11-02
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Abrogé par_:
-
-  - Ordonnance 2000-549 2000-06-15 art. 7 2° JORF 22 juin 2000
-
-_Cité par_:
-
-  - Rapport - art. 7 (V)
-
-
-# Titre II : Action sociale en faveur de l'enfance et de la famille<a id=15></a>
-
-## Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance<a id=16></a>
-
-### Section 1 : Missions du service de l'aide sociale à l'enfance<a id=17></a>
+### Section 1 : Missions du service de l'aide sociale à l'enfance<a id=14></a>
 
 ###### Article 40
 
@@ -1645,7 +1575,7 @@ _Cité par_:
   - Code de la santé publique - art. L2112-2 (M)
 
 
-### Section 2 : Prestations d'aide sociale à l'enfance<a id=18></a>
+### Section 2 : Prestations d'aide sociale à l'enfance<a id=15></a>
 
 ###### Article 41
 
@@ -1691,7 +1621,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L222-1 (V)
 
 
-#### Sous-section 1 : Aide à domicile<a id=19></a>
+#### Sous-section 1 : Aide à domicile<a id=16></a>
 
 ###### Article 42
 
@@ -1850,7 +1780,7 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 232 (Ab)
 
 
-#### Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse<a id=20></a>
+#### Sous-section 2 : Prévention de l'inadaptation sociale de l'enfance et de la jeunesse<a id=17></a>
 
 ###### Article 45
 
@@ -1916,7 +1846,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L121-2 (M)
 
 
-#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants<a id=21></a>
+#### Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants<a id=18></a>
 
 ###### Article 46
 
@@ -2044,7 +1974,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L222-6 (M)
 
 
-### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance<a id=22></a>
+### Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance<a id=19></a>
 
 ###### Article 55
 
@@ -2403,7 +2333,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 69 (Ab)
 
 
-### Section 4 : Statut des pupilles de l'Etat<a id=23></a>
+### Section 4 : Statut des pupilles de l'Etat<a id=20></a>
 
 ###### Article 60
 
@@ -3217,7 +3147,7 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 63-2 (Ab)
 
 
-### Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités<a id=24></a>
+### Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités<a id=21></a>
 
 ###### Article 66
 
@@ -3598,7 +3528,7 @@ _Cité par_:
   - Code de la santé publique - art. L149 (Ab)
 
 
-## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=25></a>
+## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=22></a>
 
 ###### Article 77
 
@@ -3848,7 +3778,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L221-9 (V)
 
 
-## Chapitre III : Dispositions financières<a id=26></a>
+## Chapitre III : Dispositions financières<a id=23></a>
 
 ###### Article 83
 
@@ -4146,9 +4076,9 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 84 (Ab)
 
 
-## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=27></a>
+## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=24></a>
 
-### Section 1 : Protection générale des mineurs<a id=28></a>
+### Section 1 : Protection générale des mineurs<a id=25></a>
 
 ###### Article 93
 
@@ -4527,7 +4457,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L321-4 (M)
 
 
-### Section 2 : Organismes autorisés et habilités pour l'adoption<a id=29></a>
+### Section 2 : Organismes autorisés et habilités pour l'adoption<a id=26></a>
 
 ###### Article 100-1
 
@@ -4692,7 +4622,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R225-46 (V)
 
 
-### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=30></a>
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=27></a>
 
 ###### Article 100-3
 
@@ -4773,7 +4703,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 
-### Section 4 : Assistantes maternelles<a id=31></a>
+### Section 4 : Assistantes maternelles<a id=28></a>
 
 ###### Article 123-1
 
@@ -5269,7 +5199,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L421-12 (T)
 
 
-### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=32></a>
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=29></a>
 
 ###### Article 123-5
 
@@ -5511,7 +5441,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L422-7 (M)
 
 
-## Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants<a id=33></a>
+## Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants<a id=30></a>
 
 ###### Article 123-12
 
@@ -5585,7 +5515,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L214-3 (V)
 
 
-# Titre III : Aide sociale<a id=34></a>
+# Titre III : Aide sociale<a id=31></a>
 
 ###### Article 124
 
@@ -5752,7 +5682,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L252-4 (V)
 
 
-## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=35></a>
+## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=32></a>
 
 ###### Article 125
 
@@ -6407,7 +6337,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale<a id=36></a>
+## Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale<a id=33></a>
 
 ###### Article 136
 
@@ -6656,7 +6586,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L123-8 (M)
 
 
-## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=37></a>
+## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=34></a>
 
 ###### Article 141
 
@@ -7130,9 +7060,9 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 141 (Ab)
 
 
-## Chapitre IV : Aide sociale aux familles<a id=38></a>
+## Chapitre IV : Aide sociale aux familles<a id=35></a>
 
-### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=39></a>
+### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=36></a>
 
 ###### Article 150
 
@@ -7326,7 +7256,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=40></a>
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=37></a>
 
 ###### Article 156
 
@@ -7366,7 +7296,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L212-2 (V)
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=41></a>
+## Chapitre V : Aide sociale aux personnes agées<a id=38></a>
 
 ###### Article 157
 
@@ -7407,7 +7337,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=42></a>
+### Section 1 : Aide à domicile<a id=39></a>
 
 ###### Article 158
 
@@ -7615,7 +7545,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-6 (V)
 
 
-### Section 2 : Placement familial ou hospitalier<a id=43></a>
+### Section 2 : Placement familial ou hospitalier<a id=40></a>
 
 ###### Article 164
 
@@ -7703,9 +7633,9 @@ _Modifié par_:
   - Décret n°90-600 1990-07-06 art. 7 JORF 12 juillet 1990
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=44></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=41></a>
 
-### Section 1 : Dispositions communes<a id=45></a>
+### Section 1 : Dispositions communes<a id=42></a>
 
 ###### Article 166
 
@@ -7952,9 +7882,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L344-6 (M)
 
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=46></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=43></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=47></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=44></a>
 
 ###### Article 169
 
@@ -8154,7 +8084,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=48></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=45></a>
 
 ###### Article 175
 
@@ -8231,7 +8161,7 @@ _Abrogé par_:
   - Loi n°2002-73 du 17 janvier 2002 - art. 132 () JORF 18 janvier 2002
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=49></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=46></a>
 
 ###### Article 178
 
@@ -8265,7 +8195,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=50></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=47></a>
 
 ###### Article 184
 
@@ -8450,7 +8380,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L345-4 (M)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=51></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=48></a>
 
 ###### Article 186
 
@@ -8518,7 +8448,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=52></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=49></a>
 
 ###### Article 192
 
@@ -9066,7 +8996,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre III bis : Aide médicale de l'Etat<a id=53></a>
+# Titre III bis : Aide médicale de l'Etat<a id=50></a>
 
 ###### Article 187-1
 
@@ -9387,7 +9317,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L253-2 (M)
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=54></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=51></a>
 
 ###### Article 203
 
@@ -9992,9 +9922,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=55></a>
+# Titre VI : Le service social<a id=52></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=56></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=53></a>
 
 ###### Article 218
 
@@ -10376,9 +10306,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-# Titre VII : Dispositions particulières à la collectivité territoriale de Mayotte<a id=57></a>
+# Titre VII : Dispositions particulières à la collectivité territoriale de Mayotte<a id=54></a>
 
-## Chapitre Ier : Protection sociale de la famille<a id=58></a>
+## Chapitre Ier : Protection sociale de la famille<a id=55></a>
 
 ###### Article 230
 
@@ -10410,7 +10340,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 15 (T)
 
 
-## Chapitre II : Action sociale en faveur de l'enfance et de la famille<a id=59></a>
+## Chapitre II : Action sociale en faveur de l'enfance et de la famille<a id=56></a>
 
 ###### Article 231
 
@@ -10436,7 +10366,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L542-2 (T)
 
 
-### Section 1 : Missions et prestations du service de l'aide sociale à l'enfance<a id=60></a>
+### Section 1 : Missions et prestations du service de l'aide sociale à l'enfance<a id=57></a>
 
 ###### Article 232
 
@@ -10633,7 +10563,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L542-10 (T)
 
 
-### Section 2 : Organisation du service chargé de l'aide sociale à l'enfance<a id=61></a>
+### Section 2 : Organisation du service chargé de l'aide sociale à l'enfance<a id=58></a>
 
 ###### Article 239
 
@@ -10662,7 +10592,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L542-11 (T)
 
 
-### Section 3 : Dispositions financières<a id=62></a>
+### Section 3 : Dispositions financières<a id=59></a>
 
 ###### Article 240
 
@@ -10716,7 +10646,7 @@ _Nouveaux textes_:
   - Code de la famille et de l'aide sociale. - art. 256 (Ab)
 
 
-## Chapitre III : Aide sociale<a id=63></a>
+## Chapitre III : Aide sociale<a id=60></a>
 
 ###### Article 242
 
@@ -10747,7 +10677,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L541-1 (T)
 
 
-### Section 1 : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=64></a>
+### Section 1 : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=61></a>
 
 ###### Article 243
 
@@ -10961,7 +10891,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L541-7 (T)
 
 
-### Section 2 : Participation des intéressés et des familles à une obligation pécuniaire envers les bénéficiaires de l'aide sociale<a id=65></a>
+### Section 2 : Participation des intéressés et des familles à une obligation pécuniaire envers les bénéficiaires de l'aide sociale<a id=62></a>
 
 ###### Article 249
 
@@ -11019,7 +10949,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L541-9 (T)
 
 
-### Section 3 : Dispositions communes<a id=66></a>
+### Section 3 : Dispositions communes<a id=63></a>
 
 ###### Article 251
 
@@ -11161,7 +11091,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L544-5 (T)
 
 
-# Titre VIII : Dispositions finales<a id=67></a>
+# Titre VIII : Dispositions finales<a id=64></a>
 
 ###### Article 256
 
