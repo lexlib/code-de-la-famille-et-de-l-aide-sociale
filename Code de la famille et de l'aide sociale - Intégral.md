@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1995-02-05
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -36,7 +36,7 @@ Version Consolidée au 1994-07-26
     - [Chapitre V : Schémas locaux de développement de l'accueil des jeunes enfants (art. 123-12 à 123-13)](#33)
   - [Titre III : Aide sociale (art. 124 à 186)](#34)
     - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#35)
-    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale (art. 136 à 140)](#36)
+    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale (art. 136 à 140)](#36)
     - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149-1)](#37)
     - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#38)
       - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#39)
@@ -47,8 +47,8 @@ Version Consolidée au 1994-07-26
     - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#44)
       - [Section 1 : Dispositions communes (art. 166 à 168)](#45)
       - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#46)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#47)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#48)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 174)](#47)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 175)](#48)
         - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 178)](#49)
     - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#50)
     - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#51)
@@ -5421,18 +5421,19 @@ Sous réserve de l'article 189-1 du code de la famille et de l'aide sociale, les
 sociale, à l'exception de celles concernant l'aide sociale à l'enfance, sont déposées au centre communal ou intercommunal
 d'action sociale ou, à défaut, à la mairie de résidence de l'intéressé.
 
-Les demandes donnent lieu à l'établissement d'un dossier par les soins du bureau d'aide sociale. Celui-ci peut utiliser à cet
-effet des visiteurs-enquêteurs.
+Les demandes donnent lieu à l'établissement d'un dossier par les soins du centre communal d'action sociale. Celui-ci peut
+utiliser à cet effet des visiteurs-enquêteurs.
 
 Les demandes sont ensuite transmises, dans le mois de leur dépôt, au représentant de l'Etat ou au président du conseil
-général [*antérieurement à 1983, le préfet*] qui les instruit et les soumet à la commission d'admission prévue à l'article
-1er du décret n° 59-143 du 7 janvier janvier 1959 [*C.FAM. 126*] avec l'avis du bureau d'aide sociale et celui du conseil
-municipal lorsque le maire ou le bureau d'aide sociale a demandé la consultation de cette assemblée. Pour chaque demande le
-représentant de l'Etat ou le président du conseil général [*antérieurement à 1983, le préfet*]
-
-formule une proposition [*compétence*].
+général qui les instruit et les soumet à la commission d'admission prévue à l'article 1er du décret n° 59-143 du 7 janvier
+1959 avec l'avis du centre communal d'action sociale et celui du conseil municipal lorsque le maire ou le centre communal
+d'action sociale a demandé la consultation de cette assemblée. Pour chaque demande le représentant de l'Etat ou le président
+du conseil général formule une proposition.
 
 Les dossier soumis à la commission doivent contenir les pièces et précisions qui seront énumérées par un arrêté.
+
+Les dispositions des deuxième et troisième alinéas du présent article sont applicables aux centres intercommunaux d'action
+sociale.
 
 **Nota:**
 
@@ -5469,17 +5470,22 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°93-648 du 26 mars 1993 - art. 4 () JORF 28 mars 1993
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L131-1 (V)
+  - Code de l'action sociale et des familles - art. L131-1 (M)
 
 
 ###### Article 126
 
-La commission d'admission à l'aide sociale [*composition*] est présidée par un magistrat du siège en activité ou honoraire ou
-par une personnalité compétente, désigné par le premier président de la cour d'appel.
+La commission d'admission à l'aide sociale est présidée par un magistrat du siège en activité ou honoraire ou par une
+personnalité compétente, désigné par le premier président de la cour d'appel.
 
 Elle comprend, outre le président :
 
@@ -5501,8 +5507,8 @@ Lorsqu'elle statue en application du cinquième alinéa de l'article 194, la com
 En cas d'égal partage des voix, le président a voix prépondérante.
 
 Peuvent siéger avec voix consultative un représentant des organismes de sécurité sociale ou de la mutualité sociale agricole
-et un représentant d'un centre communal d'action sociale désignés conjointement par le président du conseil général et le
-représentant de l'Etat dans le département.
+et un représentant d'un centre communal ou intercommunal d'action sociale désignés conjointement par le président du conseil
+général et le représentant de l'Etat dans le département.
 
 Le demandeur, accompagné de la personne ou de l'organisme de son choix, est entendu lorsqu'il le souhaite sur décision du
 président de la commission.
@@ -5539,7 +5545,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 53 () JORF 8 janvier 1986
+  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -6021,9 +6031,9 @@ _Nouveaux textes_:
 ###### Article 135
 
 Toute personne appelée à intervenir dans l'instruction, l'attribution ou la révision des admissions à l'aide sociale et
-notamment les membres des conseils d'administration des centres communaux d'action sociale, ainsi que toutes personnes dont
-ces établissements utilisent le concours et les membres des commissions d'admission, sont tenus au secret professionnel
-[*obligatoire*] dans les termes des articles 226-13 et 226-14 du code pénal et passibles des peines prévues audit article.
+notamment les membres des conseils d'administration des centres communaux ou intercommunaux d'action sociale, ainsi que
+toutes personnes dont ces établissements utilisent le concours et les membres des commissions d'admission, sont tenus au
+secret professionnel dans les termes des articles 226-13 du code pénal et passibles des peines prévues audit article.
 
 **Liens relatifs à cet article**
 
@@ -6038,12 +6048,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°97-60 1997-01-24 art. 14 II : les dispositions de l'article 135 sont applicables pour la prestation spécifique dépendance
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cite_:
 
   - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
 
 _Nouveaux textes_:
 
@@ -6051,16 +6068,18 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale<a id=36></a>
+## Chapitre II : Organisation, attributions et fonctionnement des centres communaux et intercommunaux d'action sociale<a id=36></a>
 
 ###### Article 136
 
-Un centre d'action sociale exerce, dans chaque commune ou chaque groupement de communes constitué en application des
-dispositions de la loi municipale relative aux syndicats de communes, les attributions définies par le présent titre. Il
-dispose des biens, exerce les droits et assume les engagements des anciens bureaux de bienfaisance et des anciens bureaux
-d'assistance [*attributions*] , sans qu'il puisse être porté atteinte aux affectations régulièrement établies. Le statut des
-centres communaux d'action sociale de Paris, de Lyon et de Marseille est fixé dans le cadre des dispositions du présent titre
-par un décret en conseil d'Etat.
+Un centre d'action sociale exerce, dans chaque commune ou chaque groupement de communes constitué en établissement public de
+coopération intercommunale, les attributions définies par le présent titre.
+
+Il dispose des biens, exerce les droits et assume les engagements des anciens bureaux de bienfaisance et des anciens bureaux
+d'assistance, sans qu'il puisse être porté atteinte aux affectations régulièrement établies.
+
+Le statut des centres communaux d'action sociale de Paris, de Lyon et de Marseille est fixé dans le cadre des dispositions du
+présent titre par un décret en conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -6070,7 +6089,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+  - Loi n°95-116 1995-02-04 art. 65 III, VIII JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -6091,8 +6115,8 @@ obligation, indépendamment de l'appréciation du bien-fondé de la demande.
 Le centre communal d'action sociale peut, le cas échéant, exercer les compétences que le département a confiées à la commune
 dans les conditions prévues par l'article 33 de la loi n° 83-663 du 22 juillet 1983 précitée.
 
-Plusieurs communes groupées en syndicat de communes peuvent créer un centre intercommunal d'action sociale qui exerce pour
-les communes concernées les compétences mentionnées aux alinéas qui précédent.
+Plusieurs communes constituées en établissement public de coopération intercommunale peuvent créer un centre intercommunal
+d'action sociale qui exerce pour les communes concernées les compétences mentionnées aux alinéas qui précèdent.
 
 **Nota:**
 
@@ -6117,14 +6141,18 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 55 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+  - Loi n°95-116 1995-02-04 art. 65 IV, VIII JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
 
 _Cité par_:
 
   - Décret n°95-562 du 6 mai 1995 - art. 2 (Ab)
   - Décret n°95-562 du 6 mai 1995 - art. 25 (Ab)
   - Décret n°95-562 du 6 mai 1995 - art. 32 (Ab)
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -6133,21 +6161,28 @@ _Nouveaux textes_:
 
 ###### Article 138
 
-Le centre d'action sociale constitue un établissement public communal ou intercommunal. Il est administré par un conseil
-d'administration, présidé par le maire ou, le cas échéant, par le président du syndicat intercommunal. Le conseil
-d'administration, lorsqu'il est constitué, élit en son sein un vice-président qui le préside en l'absence du maire ou du
-président du syndicat intercommunal, nonobstant les dispositions de l'article L. 122-13 du code des communes.
+Le centre d'action sociale est un établissement public administratif communal ou intercommunal. Il est administré par un
+conseil d'administration présidé, selon le cas, par le maire ou le président de l'établissement public de coopération
+intercommunale.
 
-Le conseil d'administration comprend, outre son président, en nombre égal, des membres élus en son sein à la représentation
-proportionnelle, dans des conditions fixées par décret en Conseil d'Etat, par le conseil municipal ou par l'organe délibérant
-de l'établissement public de coopération intercommunale et des membres nommés par le maire ou le président de l'établissement
-public de coopération intercommunale parmi les personnes participant à des actions de prévention, d'animation ou de
-développement social menées dans la commune ou les communes considérées.
+Dès qu'il est constitué, le conseil d'administration élit en son sein un vice-président qui le préside en l'absence du maire,
+nonobstant les dispositions de l'article L. 122-13 du code des communes, ou en l'absence du président de l'établissement de
+coopération intercommunale.
 
-Les membres désignés par le conseil municipal ou par l'organe délibérant de l'établissement public de coopération
-intercommunale et les membres nommés par le maire ou le président de l'établissement public de coopération intercommunale le
-sont à la suite de chaque renouvellement du conseil municipal et pour la durée du mandat de ce conseil. Leur mandat est
-renouvelable.
+Outre son président, le conseil d'administration comprend, pour le centre communal d'action sociale, des membres élus en son
+sein à la représentation proportionnelle par le conseil municipal et, pour le centre intercommunal d'action sociale, des
+membres élus en son sein au scrutin majoritaire par l'organe délibérant de l'établissement public de coopération
+intercommunale.
+
+Le conseil d'administration comprend également des membres nommés, suivant le cas, par le maire ou par le président de
+l'établissement public de coopération intercommunale, parmi les personnes participant à des actions de prévention,
+d'animation ou de développement social menées dans la commune ou les communes considérées.
+
+Les membres élus et les membres nommés le sont en nombre égal au sein du conseil d'administration du centre d'action sociale.
+
+Les membres élus par le conseil municipal ou par l'organe délibérant de l'établissement public de coopération intercommunale
+et les membres nommés par le maire ou le président de l'établissement public de coopération intercommunale le sont à la suite
+de chaque renouvellement du conseil municipal et pour la durée du mandat de ce conseil. Leur mandat est renouvelable.
 
 Au nombre des membres nommés doivent figurer un représentant des associations familiales désigné sur proposition de l'union
 départementale des associations familiales, un représentant des associations de retraités et de personnes âgées du
@@ -6155,9 +6190,6 @@ département et un représentant des associations de personnes handicapées du d
 
 Sauf disposition contraire, les modalités et conditions d'application des articles 136 à 140 du présent code sont fixées par
 décret en Conseil d'Etat.
-
-Le renouvellement de l'ensemble des administrateurs des centres d'action sociale intervient à la date de publication du
-décret précité.
 
 **Nota:**
 
@@ -6168,10 +6200,7 @@ territoriale de Mayotte, les mots :
 
 "président du conseil général" sont remplacés par "représentant du Gouvernement" ;
 
-"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".
-
-Décret 92-125 du 6 février 1992 art. 41 IV : le décret en Conseil d'Etat prévu au deuxième alinéa de l'article 138 du code de
-la famille et de l'aide sociale sera publié dans les six mois à compter de la publication de la présente loi.*]
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -6191,7 +6220,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°92-125 du 6 février 1992 - art. 41 (V) JORF 8 février 1992
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
 
 _Cite_:
 
@@ -6206,8 +6235,8 @@ _Nouveaux textes_:
 
 ###### Article 139
 
-Les centres communaux d'aide sociale disposent des ressources dont bénéficiaient les établissements d'assistance et de
-bienfaisance auxquels ils se substituent.
+Les centres communaux ou intercommunaux d'action sociale disposent des ressources dont bénéficiaient les établissements
+d'assistance et de bienfaisance auxquels ils se substituent.
 
 **Liens relatifs à cet article**
 
@@ -6221,20 +6250,31 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
+  - Loi n°95-116 1995-02-04 art. 65 VI, VIII JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L123-7 (V)
 
 
 ###### Article 140
 
-Le président du bureau d'aide sociale a le droit d'accepter, à titre conservatoire, des dons et legs et de former, avant
-l'autorisation, des demandes en délivrance.
+Le président du centre communal ou intercommunal d'action sociale a le droit d'accepter, à titre conservatoire, des dons et
+legs et de former, avant l'autorisation, des demandes en délivrance.
 
 La délibération du conseil d'administration qui rend l'acceptation définitive, conformément à l'article L. 312-3 du code des
 communes, a effet du jour de cette acceptation.
 
-Le centre communal d'action sociale est représenté en justice et dans les actes de la vie civile par son président.
+Le centre communal ou intercommunal d'action sociale est représenté en justice et dans les actes de la vie civile par son
+président.
 
-Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux d'action sociale.
+Les règles qui régissent la comptabilité des communes sont applicables aux centres communaux ou intercommunaux d'action
+sociale.
 
 Les délibérations du conseil d'administration ne sont soumises à l'avis ou à l'avis conforme du conseil municipal que dans
 les cas prévus aux articles L. 236-9 et L. 311-7 du code des communes.
@@ -6254,8 +6294,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 57 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 58 () JORF 8 janvier 1986
+  - Loi n°95-116 1995-02-04 art. 65 VI, VII, VIII JORF 5 février 1995
+  - Loi n°95-116 du 4 février 1995 - art. 65 () JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cite_:
 
@@ -7503,16 +7547,30 @@ Les prix de journée ou toutes autres modalités de financement de l'exploitatio
 professionnelle et d'aide par le travail agréés pour recevoir des bénéficiaires de l'aide sociale aux personnes handicapées
 sont fixés par voie réglementaire.
 
-Ils comprennent, d'une part, les frais concernant l'hébergement et l'entretien de la personne handicapée et, d'autre part,
-ceux qui sont directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier, et notamment les
-frais de transport collectif dans des conditions fixées par décret.
+Dans les établissements de rééducation professionnelle, ils comprennent, d'une part, les frais concernant l'hébergement et
+l'entretien de la personne handicapée, d'autre part, ceux qui sont directement entraînés par la formation professionnelle ou
+le fonctionnement de l'atelier, et notamment les frais de transport collectif dans des conditions fixées par décret.
+
+Dans les établissements d'aide par le travail, ils comprennent, à l'exclusion des charges directement entraînées par
+l'activité de production et de commercialisation de l'établissement, d'une part, les frais concernant l'hébergement et
+l'entretien de la personne handicapée, d'autre part, les charges de fonctionnement de l'activité sociale de l'établissement,
+et notamment les charges entraînées par le soutien éducatif et médico-social de la personne handicapée dans son activité de
+caractère professionnel ainsi que les frais de transport collectif. Toutefois, à titre exceptionnel et pour une durée
+limitée, dans des conditions fixées par décret, peuvent être inclus dans les charges de fonctionnement certains frais
+directement entraînés par l'activité de production et de commercialisation de l'établissement.
+
+Les frais directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier des établissements de
+rééducation professionnelle et les charges de fonctionnement de l'activité sociale des centres d'aide par le travail sont
+pris en charge sans qu'il soit tenu compte des ressources de l'intéressé, pour les établissements de rééducation
+professionnelle, par l'assurance maladie et, pour les centres d'aide par le travail, par l'aide sociale à la charge de
+l'Etat.
 
 Les frais d'hébergement et d'entretien des personnes handicapées dans les établissements de rééducation professionnelle et
 d'aide par le travail ainsi que dans les foyers et foyers-logement sont à la charge :
 
 1. A titre principal, de l'intéressé lui-même sans toutefois que la contribution qui lui est réclamée puisse faire descendre
 ses ressources au-dessous d'un minimum fixé par décret et par référence à l'allocation aux handicapés adultes, différent
-selon qu'il travaille ou non, majoré, le cas échéant, du montant des rentes viagères visées à l'article 8 de la loi n.
+selon qu'il travaille ou non, majoré, le cas échéant, du montant des rentes viagères visées à l'article 8 de la loi n°
 69-1161 du 24 décembre 1969 portant loi de finances pour 1970 ;
 
 2. Et, pour le surplus éventuel, de l'aide sociale sans qu'il soit tenu compte de la participation pouvant être demandée aux
@@ -7520,20 +7578,12 @@ personnes tenues à l'obligation alimentaire à l'égard de l'intéressé, et sa
 dispositions relatives au recours en récupération des prestations d'aide sociale lorsque les héritiers du bénéficiaire décédé
 sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
 
-Les frais directement entraînés par la formation professionnelle ou le fonctionnement de l'atelier sont pris en charge par
-l'aide sociale dans les conditions visées à l'alinéa ci-dessus, sans qu'il soit tenu compte des ressources de l'intéressé.
-
-**Nota:**
-
-[*Nota : Décret 76-1293 du 30 décembre 1976 : fixe au 1er janvier 1977 la date d'entrée en vigueur d'une partie de l'article
-168.*]
+Dans les établissements d'aide par le travail, les personnes handicapées acquittent une participation forfaitaire au prix du
+repas lorsque celui-ci leur est fourni. Cette participation, identique pour tous les établissements, est fixée par arrêté du
+ministre chargé de la santé et vient en atténuation des charges de fonctionnement de l'activité sociale desdits
+établissements.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 37
-  - Décret n°55-190 1955-02-02 ART. 17
 
 _Codifié par_:
 
@@ -7541,11 +7591,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°69-1161 1969-12-24 art. 8 Finances pour 1970
-
-_Créé par_:
-
-  - Loi n°75-534 du 30 juin 1975 - art. 48 () JORF 1er juillet 1975
+  - Loi n°69-1161 du 24 décembre 1969 - art. 8, v. init.
 
 **Liens**:
 
@@ -7559,6 +7605,21 @@ _Cité par_:
   - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
   - Arrêté du 13 juillet 1990 - art. 3 (M)
   - Code du travail - art. L323-30 (M)
+
+_Modifié par_:
+
+  - Loi n°95-116 1995-02-04 art. 68 I, II JORF 5 février 1995
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L344-3 (M)
+  - Code de l'action sociale et des familles - art. L344-4 (M)
+  - Code de l'action sociale et des familles - art. L344-5 (M)
+  - Code de l'action sociale et des familles - art. L344-6 (M)
 
 
 ### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=46></a>
@@ -7711,8 +7772,6 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=48></a>
-
 ###### Article 174
 
 La carte d'invalidité sera surchargée d'une mention "cécité" pour les personnes dont la vision centrale est nulle ou
@@ -7726,15 +7785,26 @@ blanche.
 
 Toute personne faisant indûment usage de la canne blanche sera punie des peines prévues à l'article 173.
 
+La carte d'invalidité "grand infirme" est surchargée d'une mention "tierce personne" pour les personnes attributaires des
+deuxième et troisième compléments de l'allocation d'éducation spéciale ou de l'allocation compensatrice prévue au I de
+l'article 39 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées ou qui bénéficient d'un
+avantage analogue au titre d'un régime de sécurité sociale.
+
+**Nota:**
+
+Nota : Ordonnance 2000-1249 2000-12-21 art. 5 I 9° : l'abrogation du présent article ne prend effet qu'à compter de la
+publication des dispositions réglementaires correspondantes du code de l'action sociale et des familles.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°53-1186 1953-11-29 ART. 43
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Loi n°75-534 du 30 juin 1975 - art. 39 (M)
+  - Code de la famille et de l'aide sociale. - art. 173 (M)
 
 _Cité par_:
 
@@ -7744,10 +7814,21 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 1009 B (P)
   - CODE GENERAL DES IMPOTS, CGI. - art. 1599 F (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la famille et de l'aide sociale. - art. 173 (M)
+  - Loi n°95-116 du 4 février 1995 - art. 69 () JORF 5 février 1995
 
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. R241-14 (M)
+  - Code de l'action sociale et des familles - art. R241-21 (M)
+
+
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=48></a>
 
 ###### Article 175
 
