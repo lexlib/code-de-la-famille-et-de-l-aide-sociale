@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1961-12-06
+Version Consolidée au 1962-04-15
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -47,7 +47,7 @@ Version Consolidée au 1961-12-06
     - [Chapitre IV : Aide sociale aux familles (art. 150 à 155)](#44)
       - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#45)
     - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#46)
-      - [Section 1 : Aide à domicile (art. 159 à 163)](#47)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#47)
       - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#48)
     - [Chapitre VI : Aide sociale aux personnes handicapées (art. 170 à 178)](#49)
       - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 170 à 178)](#50)
@@ -4639,6 +4639,60 @@ _Cite_:
 
 
 ### Section 1 : Aide à domicile<a id=47></a>
+
+###### Article 158
+
+L'aide à domicile peut être accordée soit en espèces, soit en nature.
+
+L'aide en espèces comprend une allocation simple, l'allocation de loyer prévue à l'article 161 du code de la famille et de
+l'aide sociale et, le cas échéant, une allocation représentative de services ménagers. L'allocation simple peut être accordée
+à taux plein ou à taux réduit, compte tenu des ressources des postulants, telles qu'elles sont définies à l'article 159 du
+code de la famille et de l'aide sociale.
+
+L'aide en nature est accordée, sans préjudice de l'application des dispositions relatives à l'aide médicale à domicile, sous
+forme de services ménagers.
+
+Des décrets détermineront le taux de l'allocation simple, les modalités d'attribution de l'aide en nature et de l'allocation
+représentative des services ménagers ainsi que les conditions dans lesquelles sera assurée la coordination entre le présent
+texte et les dispositions relevant des régimes de sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 art. 27
+
+_Cité par_:
+
+  - Décret n°54-1128 du 15 novembre 1954 - art. 4 (Ab)
+  - Décret n°54-1128 du 15 novembre 1954 - art. 6 (Ab)
+  - Décret n°57-44 du 15 janvier 1957 - art. 3 (Ab)
+  - Loi n°83-663 du 22 juillet 1983 - art. 35 (Ab)
+  - Loi n°83-663 du 22 juillet 1983 - art. 45 (M)
+  - Décret n°88-88 du 27 janvier 1988 - art. 3 (M)
+  - Loi n°97-60 du 24 janvier 1997 - art. 8 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 162 (M)
+  - Code de la famille et de l'aide sociale. - art. 170 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 186 (Ab)
+  - Code de la sécurité sociale. - art. L757-2 (Ab)
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L231-1 (V)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 159 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 161 (V)
+
 
 ###### Article 159
 
