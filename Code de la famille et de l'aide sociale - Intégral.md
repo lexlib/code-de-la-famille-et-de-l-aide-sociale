@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1989-01-14
+Version Consolidée au 1989-07-14
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 1 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 1 à 19)](#2)
@@ -16,7 +16,7 @@ Version Consolidée au 1989-01-14
       - [Section 1 : Enseignement des problèmes démographiques (art. 38)](#13)
       - [Section 2 : Formation ménagère et familiale (art. 39)](#14)
   - [Titre II : Action sociale en faveur de l'enfance et de la famille (art. 40 à 123-8)](#15)
-    - [Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance (art. 40 à 65)](#16)
+    - [Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance (art. 40 à 72)](#16)
       - [Section 1 : Missions du service de l'aide sociale à l'enfance (art. 40)](#17)
       - [Section 2 : Prestations d'aide sociale à l'enfance (art. 41 à 47)](#18)
         - [Sous-section 1 : Aide à domicile (art. 42 à 44)](#19)
@@ -24,40 +24,41 @@ Version Consolidée au 1989-01-14
         - [Sous-section 3 : Entretien et hébergement des mineurs et des mères isolées avec leurs enfants (art. 46 à 47)](#21)
       - [Section 3 : Droits des familles dans leurs rapports avec les services chargés de la protection de la famille et de l'enfance (art. 55 à 59-1)](#22)
       - [Section 4 : Statut des pupilles de l'Etat (art. 60 à 65)](#23)
-    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#24)
-    - [Chapitre III : Dispositions financières (art. 83 à 88)](#25)
-    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 123-8)](#26)
-      - [Section 1 : Protection générale des mineurs (art. 93 à 99)](#27)
-      - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-1 à 100-2)](#28)
-      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3)](#29)
-      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#30)
-      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#31)
-  - [Titre III : Aide sociale (art. 124 à 186)](#32)
-    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#33)
-    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale (art. 136 à 140)](#34)
-    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#35)
-    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#36)
-      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#37)
-      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#38)
-    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#39)
-      - [Section 1 : Aide à domicile (art. 158 à 163)](#40)
-      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#41)
-    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#42)
-      - [Section 1 : Dispositions communes (art. 166 à 168)](#43)
-      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#44)
-        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#45)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#46)
-        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#47)
-    - [Chapitre VII : Aide médicale (art. 179 à 183)](#48)
-      - [Section 1 : Dispositions diverses (art. 182 à 183)](#49)
-    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#50)
-    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#51)
-  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#52)
-  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#53)
-  - [Titre VI : Le service social (art. 218 à 241)](#54)
-    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#55)
-    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#56)
-      - [Section 1 : Dispositions finales (art. 241)](#57)
+      - [Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités (art. 66 à 72)](#24)
+    - [Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance (art. 77 à 82)](#25)
+    - [Chapitre III : Dispositions financières (art. 83 à 88)](#26)
+    - [Chapitre IV : Protection des mineurs placés hors du domicile paternel (art. 93 à 123-8)](#27)
+      - [Section 1 : Protection générale des mineurs (art. 93 à 99)](#28)
+      - [Section 2 : Contrôle des oeuvres d'adoption (art. 100-1 à 100-2)](#29)
+      - [Section 2 bis : Accueil de l'enfant étranger en vue de son adoption (art. 100-3)](#30)
+      - [Section 4 : Assistantes maternelles (art. 123-1 à 123-4)](#31)
+      - [Section 5 : Assistantes maternelles employées par des personnes morales de droit public (art. 123-5 à 123-8)](#32)
+  - [Titre III : Aide sociale (art. 124 à 186)](#33)
+    - [Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale (art. 125 à 135)](#34)
+    - [Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale (art. 136 à 140)](#35)
+    - [Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations (art. 141 à 149)](#36)
+    - [Chapitre IV : Aide sociale aux familles (art. 150 à 156)](#37)
+      - [Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes (art. 150 à 155)](#38)
+      - [Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif (art. 156)](#39)
+    - [Chapitre V : Aide sociale aux personnes agées (art. 157 à 165)](#40)
+      - [Section 1 : Aide à domicile (art. 158 à 163)](#41)
+      - [Section 2 : Placement familial ou hospitalier (art. 164 à 165)](#42)
+    - [Chapitre VI : Aide sociale aux personnes handicapées (art. 166 à 178)](#43)
+      - [Section 1 : Dispositions communes (art. 166 à 168)](#44)
+      - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#45)
+        - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#46)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#47)
+        - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#48)
+    - [Chapitre VII : Aide médicale (art. 179 à 183)](#49)
+      - [Section 1 : Dispositions diverses (art. 182 à 183)](#50)
+    - [Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale (art. 184 à 185-3)](#51)
+    - [Chapitre IX : Dispositions concernant les étrangers (art. 186)](#52)
+  - [Titre IV : Dispositions communes aux différentes formes d'aide sociale (art. 192 à 202)](#53)
+  - [Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale (art. 203 à 215)](#54)
+  - [Titre VI : Le service social (art. 218 à 241)](#55)
+    - [Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social (art. 218 à 229)](#56)
+    - [Chapitre II : Liaison et coordination des services sociaux (art. 241)](#57)
+      - [Section 1 : Dispositions finales (art. 241)](#58)
 # Titre Ier : Protection sociale de la famille<a id=1></a>
 
 ## Chapitre Ier : Les institutions familiales<a id=2></a>
@@ -1530,7 +1531,7 @@ _Cité par_:
 
 # Titre II : Action sociale en faveur de l'enfance et de la famille<a id=15></a>
 
-## Chapitre Ier : Missions et prestations du service de l'aide sociale à l'enfance<a id=16></a>
+## Chapitre Ier : Missions et prestations du département en matière d'aide sociale à l'enfance<a id=16></a>
 
 ### Section 1 : Missions du service de l'aide sociale à l'enfance<a id=17></a>
 
@@ -1545,8 +1546,14 @@ Le service de l'aide sociale à l'enfance est un service non personnalisé du d�
 2° Organiser, dans les lieux où se manifestent des risques d'inadaptation sociale, des actions collectives visant à prévenir
 la marginalisation et à faciliter l'insertion ou la promotion sociale des jeunes et des familles ;
 
-3° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à leur orientation, en collaboration avec leur
-famille ou leur représentant légal.
+3° Mener en urgence des actions de protection en faveur des mineurs visés au deuxième alinéa (1°) du présent article ;
+
+4° Pourvoir à l'ensemble des besoins des mineurs confiés au service et veiller à leur orientation, en collaboration avec leur
+famille ou leur représentant légal ;
+
+5° Mener, notamment à l'occasion de l'ensemble de ces interventions, des actions de prévention des mauvais traitements à
+l'égard des mineurs et, sans préjudice des compétences de l'autorité judiciaire, organiser le recueil des informations
+relatives aux mineurs maltraités et participer à la protection de ceux-ci.
 
 Pour l'accomplissement de ses missions, et sans préjudice de ses responsabilités vis-à-vis des enfants qui lui sont confiés,
 le service d'aide sociale à l'enfance peut faire appel à des organismes publics ou privés habilités dans les conditions
@@ -1555,6 +1562,20 @@ sociales ou à des personnes physiques.
 
 Le service contrôle les personnes physiques ou morales à qui il a confié des mineurs, en vue de s'assurer des conditions
 matérielles et morales de leur placement.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 232 : les dispositions du présent article du code, à l'exception du 2ème
+alinéa, sont applicables à la collectivité territoriale de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1570,8 +1591,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1, art. 2 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1597,7 +1621,17 @@ présente section sont accordées par décision du président du conseil génér
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1619,8 +1653,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1645,7 +1682,17 @@ sociales.
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1666,8 +1713,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1687,7 +1737,17 @@ définitif ou sous condition de remboursement, éventuellement délivrés en esp
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1711,8 +1771,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1729,7 +1792,20 @@ Lorsqu'un tuteur aux prestations sociales a été nommé, il reçoit de plein dr
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 232 : les dispositions du présent article du code, à l'exception du 2ème alinéa, sont
+applicables à la collectivité territoriale de Mayotte.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1739,8 +1815,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1771,7 +1850,17 @@ publics ou privés dans les conditions prévues aux articles 11-1, 11-2 et 11-3 
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1785,11 +1874,6 @@ _Cite_:
   - Loi n°75-535 du 30 juin 1975 - art. 11-2 (Ab)
   - Loi n°75-535 du 30 juin 1975 - art. 11-3 (M)
 
-_Modifié par_:
-
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
-
 _Cité par_:
 
   - Arrêté du 18 août 1988 - art. 1 (Ab)
@@ -1799,6 +1883,14 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 236 (Ab)
   - Code de la sécurité sociale. - art. L241-12 (M)
   - Code du travail - art. L322-4-16-7 (M)
+
+_Modifié par_:
+
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1832,13 +1924,22 @@ ressources ou d'un soutien familial suffisants.
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Ordonnance n°45-174 du 2 février 1945 - art. 10 (M)
   - Ordonnance n°45-174 du 2 février 1945 - art. 15 (M)
   - Code civil - art. 375-3 (M)
   - Code civil - art. 375-5 (M)
@@ -1846,17 +1947,13 @@ _Cite_:
   - Code civil - art. 377-1 (M)
   - Code civil - art. 380 (M)
   - Code civil - art. 433 (M)
+  - Code de la famille et de l'aide sociale. - art. 10 (Ab)
   - Code de la famille et de l'aide sociale. - art. 61 (M)
   - Code de la famille et de l'aide sociale. - art. 62 (M)
 
 _Codifié par_:
 
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Modifié par_:
-
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
 
 _Cité par_:
 
@@ -1866,6 +1963,14 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 86 (M)
   - Code de la sécurité sociale. - art. L241-12 (M)
   - Code du travail - art. L322-4-16-7 (M)
+
+_Modifié par_:
+
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -1890,7 +1995,17 @@ Lorsque le nom du père ou de la mère de l'enfant figure dans l'acte de naissan
 
 **Nota:**
 
+[*Nota : sous réserve des dispositions du 2ème alinéa de l'article 86, les prestations d'aide sociale à l'enfance sont à la
+charge du département qui a prononcé l'admission dans le service de l'aide sociale à l'enfance.
 
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1905,8 +2020,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 31 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
 
 _Cite_:
 
@@ -1925,6 +2039,17 @@ Toute personne qui demande une prestation prévue aux chapitres Ier et II du pr�
 par les services chargés de la protection de la famille et de l'enfance des conditions d'attribution et des conséquences de
 cette prestation sur les droits et obligations de l'enfant et de son représentant légal.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la
+collectivité territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -1941,25 +2066,39 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 100-1 (M)
   - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
 
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 11
+
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L223-1 (V)
   - Code de l'action sociale et des familles - art. L223-1 (M)
 
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 11
-
 
 ###### Article 55-1
 
 Elle peut être accompagnée de la personne de son choix, représentant ou non une association , dans ses démarches auprès du
 service. Néanmoins, celui-ci a la possibilité de proposer également un entretien individuel dans l'intérêt du demandeur.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la
+collectivité territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -1978,8 +2117,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -2007,6 +2149,21 @@ Sous réserve des pouvoirs reconnus à l'autorité judiciaire, les mesures prise
 peuvent en aucun cas porter atteinte à l'autorité parentale que détiennent le ou les représentants légaux de l'enfant, et
 notamment au droit de visite et au droit d'hébergement.
 
+**Nota:**
+
+[*Nota - Code de la famille et de l'aide sociale 59-1 :
+
+dispositions non applicables aux enfants, pupilles de l'Etat, admis dans le service.
+
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2020,27 +2177,45 @@ _Cité par_:
   - Décret n°85-936 du 23 août 1985 - art. 8 (M)
   - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
 
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 12
-
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L223-2 (V)
   - Code de l'action sociale et des familles - art. L223-2 (M)
 
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 12
+
 
 ###### Article 57
 
 Pour l'application des décisions judiciaires prises en vertu des articles 10, 4°, 15, 4°, et 17, 2ème alinéa, de l'ordonnance
-n° 174 du 2 février 1945, de l'article 375-3, 4°, et des articles 377 à 380 du code civil, le représentant légal du mineur
+n° 45-174 du 2 février 1945, de l'article 375-3, 4°, et des articles 377 à 380 du code civil, le représentant légal du mineur
 donne son avis par écrit préalablement au choix du mode et du lieu de placement et à toute modification apportée à cette
 décision.
+
+**Nota:**
+
+[*Nota - Code de la famille et de l'aide sociale 59-1 :
+
+dispositions non applicables aux enfants, pupilles de l'Etat, admis dans le service.
+
+Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2068,8 +2243,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -2083,6 +2261,17 @@ _Anciens textes_:
 ###### Article 58
 
 Le service examine avec le mineur toute décision le concernant et recueille son avis.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la
+collectivité territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2108,8 +2297,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -2124,6 +2316,21 @@ supérieure à un an. Elle est renouvelable dans les mêmes conditions.
 Le service présente chaque année à l'autorité judiciaire un rapport sur la situation de l'enfant qui lui a été confié par
 décision judiciaire.
 
+**Nota:**
+
+[*Nota - Code de la famille et de l'aide sociale 59-1 :
+
+dispositions non applicables aux enfants, pupilles de l'Etat, admis dans le service.
+
+Code de la famille et de l'aide sociale 232, 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -2137,8 +2344,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cité par_:
 
@@ -2155,6 +2365,19 @@ _Nouveaux textes_:
 Les articles 56, 57 et 59 ci-dessus ne sont pas applicables aux enfants admis dans le service en vertu des dispositions de la
 section 4 du présent chapitre.
 
+Les articles 55, 55-1, 56, 58 et le premier alinéa de l'article 59 sont applicables dans les cas visés aux articles 68 et 69.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2163,8 +2386,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1, art. 5 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -2172,9 +2398,14 @@ _Nouveaux textes_:
 
 _Cite_:
 
+  - Code de la famille et de l'aide sociale. - art. 55 (M)
+  - Code de la famille et de l'aide sociale. - art. 55-1 (M)
   - Code de la famille et de l'aide sociale. - art. 56 (M)
   - Code de la famille et de l'aide sociale. - art. 57 (M)
+  - Code de la famille et de l'aide sociale. - art. 58 (M)
   - Code de la famille et de l'aide sociale. - art. 59 (M)
+  - Code de la famille et de l'aide sociale. - art. 68 (M)
+  - Code de la famille et de l'aide sociale. - art. 69 (M)
 
 **Liens**:
 
@@ -2213,6 +2444,17 @@ professionnel selon les prescriptions de l'article 378 du code pénal.
 
 Un décret en Conseil d'Etat précise la composition et fixe les règles de fonctionnement du ou des conseils de famille,
 institués dans le département.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2262,8 +2504,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
 
 _Cite_:
 
@@ -2318,6 +2559,17 @@ l'arrêté d'admission.
 
 Dans le cas où il rejette le recours, le tribunal peut autoriser le demandeur, dans l'intérêt de l'enfant, à exercer un droit
 de visite dans les conditions qu'il détermine.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2376,8 +2628,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
 
 _Cite_:
 
@@ -2425,6 +2676,17 @@ l'enfant au service.
 Au-delà de ces délais, la décision d'accepter ou de refuser la restitution d'un pupille de l'Etat est, sous réserve des
 dispositions de l'article 352 du code civil, prise par le tuteur, avec l'accord du conseil de famille. En cas de refus, les
 demandeurs peuvent saisir le tribunal de grande instance.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2476,8 +2738,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
 
 _Cite_:
 
@@ -2508,6 +2769,17 @@ demande.
 
 La définition du projet d'adoption, simple ou plénière suivant les circonstances particulières à la situation de l'enfant,
 ainsi que le choix des adoptants éventuels sont assurés par le tuteur avec l'accord du conseil de famille.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2587,7 +2859,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°86-76 du 17 janvier 1986 - art. 12 () JORF 18 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
 
 _Cite_:
 
@@ -2624,6 +2896,17 @@ utilisés pour l'attribution de dons ou de prêts aux pupilles et anciens pupill
 
 Les biens du tuteur ne sont pas soumis à l'hypothèque légale instituée à l'article 2121 du code civil.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2661,10 +2944,17 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 8 (Ab)
   - TXT_SOURCE: Décret n°85-937 du 23 août 1985 - art. 9 (Ab)
 
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 20
+
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cite_:
 
@@ -2674,10 +2964,6 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L224-9 (V)
   - Code de l'action sociale et des familles - art. L224-9 (M)
-
-_Anciens textes_:
-
-  - Loi n°43-182 1943-04-15 ART. 20
 
 
 ###### Article 65
@@ -2691,6 +2977,17 @@ les dons et legs.
 
 Le conseil d'administration comporte deux membres des conseils de famille des pupilles de l'Etat.
 
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -2730,8 +3027,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 32 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 1 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -2746,7 +3046,412 @@ _Anciens textes_:
   - Loi n°43-182 1943-04-15 ART. 21
 
 
-## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=24></a>
+### Section 5 : Prévention des mauvais traitements à l'égard des mineurs et protection des mineurs maltraités<a id=24></a>
+
+###### Article 66
+
+Les missions définies au sixième alinéa (5°) de l'article 40 sont menées par le service de l'aide sociale à l'enfance, en
+liaison avec le service départemental de protection maternelle et infantile mentionné à l'article L. 148 du code de la santé
+publique et le service départemental d'action sociale mentionné à l'article 28 de la loi n° 75-535 du 30 juin 1975 relative
+aux institutions sociales et médico-sociales ainsi qu'avec les autres services publics compétents.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Loi n°75-535 du 30 juin 1975 - art. 28 (M)
+  - Code de la famille et de l'aide sociale. - art. 40 (M)
+  - Code de la santé publique - art. L148 (M)
+
+_Cité par_:
+
+  - Loi n°75-535 du 30 juin 1975 - art. 24 (Ab)
+  - Code de la santé publique - art. L149 (Ab)
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-1 (V)
+  - Code de l'action sociale et des familles - art. L226-1 (M)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 22
+
+
+###### Article 67
+
+Ces missions comportent notamment l'information et la sensibilisation de la population et des personnes concernées par les
+situations de mineurs maltraités ainsi que la publicité du dispositif de recueil d'informations prévu à l'article 68.
+
+Le président du conseil général peut faire appel aux associations concourant à la protection de l'enfance et de la famille
+pour participer aux actions d'information et de sensibilisation prévues à l'alinéa précédent.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 art. 73 al. 7
+  - Loi n°43-182 1943-04-15 art. 24
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-2 (V)
+  - Code de l'action sociale et des familles - art. L226-2 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 68 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L149 (Ab)
+
+
+###### Article 68
+
+Le président du conseil général met en place, après concertation avec le représentant de l'Etat dans le département, un
+dispositif permettant de recueillir en permanence les informations relatives aux mineurs maltraités et de répondre aux
+situations d'urgence, selon des modalités définies en liaison avec l'autorité judiciaire et les services de l'Etat dans le
+département.
+
+L'ensemble des services et établissements publics et privés susceptibles de connaître des situations de mineurs maltraités
+participent à cette coordination. Le président du conseil général peut, dans les mêmes conditions, requérir la collaboration
+des professionnels et des associations concourant à la protection de l'enfance et de la famille.
+
+La collecte, la conservation et l'utilisation de ces informations ne peuvent être effectuées que pour assurer les missions
+prévues au sixième alinéa (5°) de l'article 40.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 73 AL. 8
+  - Loi n°43-182 1943-04-15 ART. 25
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-3 (V)
+  - Code de l'action sociale et des familles - art. L226-3 (M)
+
+_Cite_:
+
+  - Code de la famille et de l'aide sociale. - art. 40 (M)
+
+_Cité par_:
+
+  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 67 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 71 (Ab)
+  - Code de la santé publique - art. L149 (Ab)
+  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
+
+
+###### Article 69
+
+Lorsqu'un mineur est victime de mauvais traitements ou lorsqu'il est présumé l'être, et qu'il est impossible d'évaluer la
+situation ou que la famille refuse manifestement d'accepter l'intervention du service de l'aide sociale à l'enfance, le
+président du conseil général avise sans délai l'autorité judiciaire et, le cas échéant, lui fait connaître les actions déjà
+menées auprès du mineur et de la famille concernés.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-4 (V)
+  - Code de l'action sociale et des familles - art. L226-4 (M)
+
+_Cité par_:
+
+  - Code de la famille et de l'aide sociale. - art. 59-1 (Ab)
+  - Code de la santé publique - art. L149 (Ab)
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 59-1 (M)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 26
+
+
+###### Article 70
+
+Le président du conseil général informe les personnes qui lui ont communiqué des informations dont elles ont eu connaissance
+à l'occasion de l'exercice de leur activité professionnelle des suites qui leur ont été données.
+
+Sur leur demande, il fait savoir aux autres personnes l'ayant informé si une suite a été donnée.
+
+En cas de saisine de l'autorité judiciaire, il en informe par écrit les parents de l'enfant ou son représentant légal.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-5 (V)
+  - Code de l'action sociale et des familles - art. L226-5 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L149 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 27
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+
+###### Article 71
+
+Un service d'accueil téléphonique gratuit est créé à l'échelon national par l'Etat, les départements et des personnes morales
+de droit public ou privé, qui constituent à cette fin un groupement d'intérêt public. Ce service concourt à la mission de
+prévention des mauvais traitements et de protection des mineurs maltraités prévue à la présente section. La convention
+constitutive du groupement prévoit des dispositions particulières pour adapter les conditions d'activité du service dans les
+départements d'outre-mer.
+
+Ce service répond, à tout moment, aux demandes d'information ou de conseil concernant les situations de mineurs maltraités ou
+présumés l'être. Il transmet immédiatement au président du conseil général, selon le dispositif mis en place en application
+de l'article 68, les informations qu'il recueille et les appréciations qu'il formule à propos de ces mineurs. A cette fin, le
+président du conseil général informe le groupement des modalités de fonctionnement permanent du dispositif départemental. Ce
+service établit une étude épidémiologique annuelle au vu des informations qu'il a recueillies et de celles qui lui ont été
+transmises dans les conditions prévues au quatrième alinéa du présent article.
+
+Le secret professionnel est applicable aux agents du service d'accueil téléphonique dans les conditions prévues à l'article
+378 du code pénal. Le troisième alinéa de l'article 68 ci-dessus est également applicable aux informations recueillies par le
+service d'accueil téléphonique.
+
+La convention constitutive du groupement précise les conditions dans lesquelles le dispositif mentionné à l'article 68
+transmet au service d'accueil téléphonique les informations qu'il recueille pour l'établissement de l'étude prévue au
+deuxième alinéa du présent article.
+
+Le service est assisté d'un comité technique composé des représentants du conseil d'administration du groupement d'intérêt
+public et des associations concourant à la protection de l'enfance et de la famille ainsi que d'experts et de personnes
+qualifiées.
+
+Le comité technique est consulté sur l'organisation et l'activité du service, ainsi que sur les conditions de collaboration
+entre celui-ci et les départements. Il donne son avis préalablement à la publication de l'étude épidémiologique visée au
+deuxième alinéa du présent article.
+
+Outre les moyens mis à la disposition du service par les autres membres constituant le groupement, sa prise en charge
+financière est assurée à parts égales par l'Etat et les départements. La participation financière de chaque département est
+fixée par voie réglementaire en fonction de l'importance de la population, sous réserve des adaptations particulières aux
+départements d'outre-mer.
+
+L'affichage des coordonnées du service d'accueil téléphonique est obligatoire dans tous les établissements et services
+recevant de façon habituelle des mineurs.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 73 AL. 9
+  - CGI 1137
+  - Loi n°43-182 1943-04-15 ART. 28
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 2 juin 1994
+  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 2 juin 1994 - art. Annexe (V)
+
+_Cite_:
+
+  - Code pénal 378
+  - Code de la famille et de l'aide sociale. - art. 68 (M)
+
+_Cité par_:
+
+  - CODE GENERAL DES IMPOTS, CGI. - art. 1067 (M)
+  - Code de la santé publique - art. L149 (Ab)
+  - Loi n°89-487 du 10 juillet 1989 - art. 17 (Ab)
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-10 (M)
+  - Code de l'action sociale et des familles - art. L226-6 (M)
+  - Code de l'action sociale et des familles - art. L226-7 (M)
+  - Code de l'action sociale et des familles - art. L226-9 (M)
+  - Code de l'action sociale et des familles - art. L523-1 (V)
+  - Code de l'action sociale et des familles - art. L523-2 (V)
+  - Code de l'action sociale et des familles - art. R226-2 (V)
+
+
+###### Article 72
+
+Les dépenses résultant de l'application de la présente section constituent, pour le département, des dépenses obligatoires.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L226-11 (V)
+  - Code de l'action sociale et des familles - art. L226-11 (M)
+
+_Cité par_:
+
+  - Code de la santé publique - art. L149 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 29
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 3 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+
+## Chapitre II : Organisation du service chargé de l'aide sociale à l'enfance<a id=25></a>
 
 ###### Article 77
 
@@ -2794,6 +3499,96 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. L221-2 (V)
   - Code de l'action sociale et des familles - art. L221-2 (M)
+
+
+###### Article 78
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles le service de l'aide sociale à l'enfance d'un
+département accède aux demandes de renseignements relatives à une famille ou à un mineur formulées par le service de l'aide
+sociale à l'enfance d'un autre département pour l'accomplissement de ses missions.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 36
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 6 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L221-3 (V)
+
+_Cité par_:
+
+  - Code de la famille et de l'aide sociale. - art. 72 (M)
+  - Code de la famille et de l'aide sociale. - art. 80 (Ab)
+
+
+###### Article 79
+
+Lorsqu'il est avisé par le juge des enfants d'une mesure d'assistance éducative prise en application des articles 375 à 375-8
+du code civil, le président du conseil général lui communique les informations dont il dispose sur le mineur et sa situation
+familiale.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Anciens textes_:
+
+  - Loi n°43-182 1943-04-15 ART. 37
+
+_Créé par_:
+
+  - Loi n°89-487 1989-07-10 art. 7 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cite_:
+
+  - Code civil 375 à 375-8
+
+_Nouveaux textes_:
+
+  - Code de l'action sociale et des familles - art. L221-4 (V)
+  - Code de l'action sociale et des familles - art. L221-4 (M)
 
 
 ###### Article 81
@@ -2880,7 +3675,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L221-9 (V)
 
 
-## Chapitre III : Dispositions financières<a id=25></a>
+## Chapitre III : Dispositions financières<a id=26></a>
 
 ###### Article 83
 
@@ -2890,7 +3685,18 @@ envers lui des obligations prévues aux articles 203 à 211 du code civil.
 Sous réserve d'une décision judiciaire contraire, sont dispensés des obligations énoncées aux articles 205, 206 et 207 du
 code civil les pupilles de l'Etat qui auront été élevés par le service de l'aide sociale à l'enfance jusqu'à la fin de la
 scolarité obligatoire, à moins que les frais d'entretien occasionnés par le pupille remis ultérieurement à ses parents
-n'aient pas été remboursés au département.
+n'aient été remboursés au département.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
 
 **Liens relatifs à cet article**
 
@@ -2900,8 +3706,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 8 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Cite_:
 
@@ -3059,6 +3868,20 @@ Lorsque, pendant l'exécution de la mesure, la juridiction décide de se dessais
 juridiction, elle porte cette décision à la connaissance des présidents des conseils généraux concernés. Le département siège
 de la juridiction désormais saisie prend en charge les frais afférents à l'exécution de la mesure.
 
+Le département chargé de la prise en charge financière d'une mesure, en application des deuxième et troisième alinéas ci-
+dessus, assure celle-ci selon le tarif en vigueur dans le département où se trouve le lieu de placement de l'enfant.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -3072,13 +3895,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°86-17 du 6 janvier 1986 - art. 30 () JORF 8 janvier 1986
-  - Loi n°86-17 du 6 janvier 1986 - art. 37 () JORF 8 janvier 1986
+  - Loi n°89-487 1989-07-10 art. 9 JORF 14 juillet 1989
 
 _Cité par_:
 
   - Décret n°94-909 du 14 octobre 1994 - art. 19 (Ab)
   - Code de la famille et de l'aide sociale. - art. 193 (M)
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
 
 _Nouveaux textes_:
 
@@ -3173,9 +3999,9 @@ _Cité par_:
   - Code de la famille et de l'aide sociale. - art. 84 (Ab)
 
 
-## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=26></a>
+## Chapitre IV : Protection des mineurs placés hors du domicile paternel<a id=27></a>
 
-### Section 1 : Protection générale des mineurs<a id=27></a>
+### Section 1 : Protection générale des mineurs<a id=28></a>
 
 ###### Article 93
 
@@ -3227,12 +4053,44 @@ département où ils se trouvent.
 Elle s'exerce sur les conditions morales et matérielles de leur hébergement en vue de protéger leur sécurité, leur santé et
 leur moralité.
 
+Dans le cas où les mineurs visés à l'article 93 du code de la famille et de l'aide sociale ont été confiés à des particuliers
+ou à des établissements en application des articles 375-3 et 375-5 du code civil, ils sont placés sous la protection
+conjointe du président du conseil général, dans les conditions prévues au présent article, et du juge des enfants.
+
+**Nota:**
+
+[*Nota : Code de la famille et de l'aide sociale 255 : dans le cadre de l'application du présent article à la collectivité
+territoriale de Mayotte, les mots :
+
+"département" sont remplacés par "collectivité territoriale" ;
+
+"président du conseil général" sont remplacés par "représentant du Gouvernement" ;
+
+"représentant de l'Etat dans le département" sont remplacés par "représentant du Gouvernement".*]
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 _Cité par_:
 
-  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
   - Décret n°67-45 du 10 janvier 1967 - art. 4 (Ab)
+  - Code de la famille et de l'aide sociale. - art. 93 (Ab)
+
+_Modifié par_:
+
+  - Loi n°89-487 1989-07-10 art. 10 JORF 14 juillet 1989
+
+_Abrogé par_:
+
+  - Rapport au Président de la République relatif à l' - art. 4 (V) JORF 23 décembre 2000
+
+_Cite_:
+
+  - Code civil - art. 375-3 (M)
+  - Code civil - art. 375-5 (M)
 
 _Nouveaux textes_:
 
@@ -3243,14 +4101,6 @@ _Anciens textes_:
 
   - Décret  1938-06-17 ART. 2
   - Décret n°1938-06-17 art. 2
-
-_Codifié par_:
-
-  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
-
-_Modifié par_:
-
-  - Loi n°87-39 du 27 janvier 1987 - art. 36 () JORF 28 janvier 1987
 
 
 ###### Article 95
@@ -3556,7 +4406,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L321-4 (M)
 
 
-### Section 2 : Contrôle des oeuvres d'adoption<a id=28></a>
+### Section 2 : Contrôle des oeuvres d'adoption<a id=29></a>
 
 ###### Article 100-1
 
@@ -3672,7 +4522,7 @@ _Cite_:
   - TXT_ASSOCIE: Code de la famille et de l'aide sociale. - art. 100-1 (M)
 
 
-### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=29></a>
+### Section 2 bis : Accueil de l'enfant étranger en vue de son adoption<a id=30></a>
 
 ###### Article 100-3
 
@@ -3723,7 +4573,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 63 (M)
 
 
-### Section 4 : Assistantes maternelles<a id=30></a>
+### Section 4 : Assistantes maternelles<a id=31></a>
 
 ###### Article 123-1
 
@@ -3930,7 +4780,7 @@ _Cité par_:
   - Code du travail - art. L122-28-5 (M)
 
 
-### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=31></a>
+### Section 5 : Assistantes maternelles employées par des personnes morales de droit public<a id=32></a>
 
 ###### Article 123-5
 
@@ -4083,7 +4933,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L422-4 (M)
 
 
-# Titre III : Aide sociale<a id=32></a>
+# Titre III : Aide sociale<a id=33></a>
 
 ###### Article 124
 
@@ -4245,7 +5095,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L252-4 (V)
 
 
-## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=33></a>
+## Chapitre Ier : Dispositions générales, procédure et conditions d'admission à l'aide sociale<a id=34></a>
 
 ###### Article 125
 
@@ -4894,7 +5744,7 @@ _Nouveaux textes_:
   - Livre des procédures fiscales - art. L113 (MMN)
 
 
-## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale<a id=34></a>
+## Chapitre II : Organisation, attributions et fonctionnement des centres communaux d'action sociale<a id=35></a>
 
 ###### Article 136
 
@@ -5119,7 +5969,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L123-8 (M)
 
 
-## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=35></a>
+## Chapitre III : Participation des intéréssés, des familles et des tiers tenus à une obligation pécuniaire envers les bénéficiaires de l'aide sociale - révision des admissions - modalités de récupération des allocations<a id=36></a>
 
 ###### Article 141
 
@@ -5562,9 +6412,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L132-10 (V)
 
 
-## Chapitre IV : Aide sociale aux familles<a id=36></a>
+## Chapitre IV : Aide sociale aux familles<a id=37></a>
 
-### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=37></a>
+### Section 1 : Aide sociale aux familles dont les ressources sont insuffisantes<a id=38></a>
 
 ###### Article 150
 
@@ -5758,7 +6608,7 @@ _Codifié par_:
   - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
 
 
-### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=38></a>
+### Section 2 : Aide sociale aux familles dont les soutiens effectuent leur service national actif<a id=39></a>
 
 ###### Article 156
 
@@ -5798,7 +6648,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L212-2 (V)
 
 
-## Chapitre V : Aide sociale aux personnes agées<a id=39></a>
+## Chapitre V : Aide sociale aux personnes agées<a id=40></a>
 
 ###### Article 157
 
@@ -5839,7 +6689,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 130 (Ab)
 
 
-### Section 1 : Aide à domicile<a id=40></a>
+### Section 1 : Aide à domicile<a id=41></a>
 
 ###### Article 158
 
@@ -6051,7 +6901,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-6 (V)
 
 
-### Section 2 : Placement familial ou hospitalier<a id=41></a>
+### Section 2 : Placement familial ou hospitalier<a id=42></a>
 
 ###### Article 164
 
@@ -6118,9 +6968,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L231-5 (V)
 
 
-## Chapitre VI : Aide sociale aux personnes handicapées<a id=42></a>
+## Chapitre VI : Aide sociale aux personnes handicapées<a id=43></a>
 
-### Section 1 : Dispositions communes<a id=43></a>
+### Section 1 : Dispositions communes<a id=44></a>
 
 ###### Article 166
 
@@ -6359,9 +7209,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L344-6 (M)
 
 
-### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=44></a>
+### Section 2 : Dispositions concernant les aveugles et grands infirmes<a id=45></a>
 
-#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=45></a>
+#### Paragraphe 1 : Dispositions communes aux deux catégories<a id=46></a>
 
 ###### Article 169
 
@@ -6484,7 +7334,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. R241-21 (M)
 
 
-#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=46></a>
+#### Paragraphe 2 : Dispositions spéciales aux aveugles<a id=47></a>
 
 ###### Article 174
 
@@ -6602,7 +7452,7 @@ _Abrogé par_:
   - Loi n°2002-73 du 17 janvier 2002 - art. 132 () JORF 18 janvier 2002
 
 
-#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=47></a>
+#### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=48></a>
 
 ###### Article 176
 
@@ -6665,7 +7515,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L242-13 (M)
 
 
-## Chapitre VII : Aide médicale<a id=48></a>
+## Chapitre VII : Aide médicale<a id=49></a>
 
 ###### Article 179
 
@@ -6875,7 +7725,7 @@ _Abrogé par_:
   - Loi n°92-722 du 29 juillet 1992 - art. 9 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 
-### Section 1 : Dispositions diverses<a id=49></a>
+### Section 1 : Dispositions diverses<a id=50></a>
 
 ###### Article 182
 
@@ -6952,7 +7802,7 @@ _Cite_:
   - Code de la santé publique 214, L326
 
 
-## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=50></a>
+## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=51></a>
 
 ###### Article 184
 
@@ -7156,7 +8006,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L345-4 (M)
 
 
-## Chapitre IX : Dispositions concernant les étrangers<a id=51></a>
+## Chapitre IX : Dispositions concernant les étrangers<a id=52></a>
 
 ###### Article 186
 
@@ -7208,7 +8058,7 @@ _Cite_:
   - Code de la famille et de l'aide sociale. - art. 158 (Ab)
 
 
-# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=52></a>
+# Titre IV : Dispositions communes aux différentes formes d'aide sociale<a id=53></a>
 
 ###### Article 192
 
@@ -7718,7 +8568,7 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L521-1 (V)
 
 
-# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=53></a>
+# Titre V : Des établissements hébergeant des personnes agées, des adultes infirmes, des indigents valides et des personnes accueillies en vue de leur réadaptation sociale<a id=54></a>
 
 ###### Article 203
 
@@ -8294,9 +9144,9 @@ _Nouveaux textes_:
   - Code de l'action sociale et des familles - art. L331-9 (M)
 
 
-# Titre VI : Le service social<a id=54></a>
+# Titre VI : Le service social<a id=55></a>
 
-## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=55></a>
+## Chapitre Ier : Exercice des professions d'assistants, d'assistantes et d'auxiliaires de service social<a id=56></a>
 
 ###### Article 218
 
@@ -8632,9 +9482,9 @@ _Anciens textes_:
   - Loi n°46-630 1946-04-08 ART. 14
 
 
-## Chapitre II : Liaison et coordination des services sociaux<a id=56></a>
+## Chapitre II : Liaison et coordination des services sociaux<a id=57></a>
 
-### Section 1 : Dispositions finales<a id=57></a>
+### Section 1 : Dispositions finales<a id=58></a>
 
 ###### Article 241
 
