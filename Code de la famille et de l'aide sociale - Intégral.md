@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 1971-12-28
+Version Consolidée au 1972-07-09
 ## Contenu: 
   - [Titre Ier : Protection sociale de la famille (art. 3 à 39)](#1)
     - [Chapitre Ier : Les institutions familiales (art. 3 à 19)](#2)
@@ -52,7 +52,7 @@ Version Consolidée au 1971-12-28
     - [Chapitre VI : Aide sociale aux personnes handicapées (art. 169 à 178)](#49)
       - [Section 2 : Dispositions concernant les aveugles et grands infirmes (art. 169 à 178)](#50)
         - [Paragraphe 1 : Dispositions communes aux deux catégories (art. 169 à 173)](#51)
-        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174)](#52)
+        - [Paragraphe 2 : Dispositions spéciales aux aveugles (art. 174 à 175)](#52)
         - [Paragraphe 3 : Dispositions spéciales aux mineurs et incapables (art. 176 à 178)](#53)
     - [Chapitre VII : Aide médicale (art. 179 à 183)](#54)
       - [Section 1 : Dispositions diverses (art. 182 à 183)](#55)
@@ -5826,6 +5826,63 @@ _Nouveaux textes_:
 
   - Code de l'action sociale et des familles - art. R241-14 (M)
   - Code de l'action sociale et des familles - art. R241-21 (M)
+
+
+###### Article 175
+
+Par dérogation à la réglementation en vigueur en matière de marchés de fournitures, les services et établissements publics de
+l'Etat, des départements et des communes, ainsi que les entreprises nationalisées doivent, au profit de tous les travailleurs
+aveugles, de même qu'au profit des travailleurs handicapés, tels que définis par la loi n° 57-1223 du 23 novembre 1957,
+traiter par priorité, pour leurs commandes d'articles dits de "grosse brosserie", de savons et de savonnettes, de cirages et
+encaustiques, soit avec les organismes, associations ou institutions de handicapés, d'aveugles et pour aveugles, reconnus
+d'utilité publique ou déclarés, soit avec les coopératives d'aveugles, et pour aveugles ou de travailleurs handicapés.
+
+Les collectivités publiques et entreprises nationalisées ci-dessus désignées ne peuvent faire appel à d'autres fournisseurs
+qu'en cas de refus de ces organismes. Ces derniers doivent être agréés conjointement par les ministres chargés de la santé
+publique et de la sécurité sociale, du travail, de l'emploi et de la population.
+
+Les mesures nécessaires pour assurer l'application des deux alinéas ci-dessus, notamment les conditions de vente et de
+protection du travail des aveugles et des travailleurs handicapés, ainsi que les conditions d'agrément des organismes,
+coopératives, associations ou institutions d'aveugles ou de handicapés sont déterminées par décret. Ce décret précise le
+degré d'infirmité des aveugles et travailleurs handicapés et leur proportion minimale, nécessaires pour que les organismes,
+coopératives, associations ou institutions puissent bénéficier des dispositions ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°53-1186 1953-11-29 ART. 44
+
+_Codifié par_:
+
+  - Décret n°56-149 1956-01-24 JORF 28 janvier 1956
+
+_Cite_:
+
+  - Loi n°57-1223 1957-11-23
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 10 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 11 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 7 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°73-1120 du 17 décembre 1973 - art. 9 (Ab)
+
+_Cité par_:
+
+  - Décret n°73-1120 du 17 décembre 1973 - art. 1 (Ab)
+  - Arrêté du 4 avril 1984 - art. 4 (V)
+  - Décret n°2004-1136 du 21 octobre 2004 - art. 5 (V)
+  - Code des marchés publics - art. 251 (Ab)
+  - Code des marchés publics - art. 41 (Ab)
 
 
 #### Paragraphe 3 : Dispositions spéciales aux mineurs et incapables<a id=53></a>
