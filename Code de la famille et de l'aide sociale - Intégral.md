@@ -1,5 +1,5 @@
 # Code de la famille et de l'aide sociale  
-Version Consolidée au 2019-12-03
+Version Consolidée au 2019-12-30
 ## Contenu: 
   - [Titre III : Aide sociale (art. 150 à 184)](#1)
     - [Chapitre IV : Aide sociale aux familles (art. 150 à 155)](#2)
@@ -260,7 +260,8 @@ toute autre obligation ;
 2. A l'inscription aux foyers prévus aux articles L. 231-3 et L. 231-6, sous réserve d'une participation des intéressés
 déterminée par la commission d'admission ;
 
-3. (Abrogé)
+3. A un voyage aller et retour chaque année à bord de services de transport ferroviaire domestique de voyageurs au tarif et
+pour la durée de validité des congés payés, quelle que soit la distance parcourue.
 
 Les possesseurs de cette carte bénéficieront ipso facto des mesures spéciales instituées par voie législative ou
 réglementaire en faveur des économiquement faibles.
@@ -286,7 +287,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2018-1135 du 12 décembre 2018 - art. 6 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 222 (V)
 
 
 ## Chapitre VIII : Mesures d'aide sociale en matière de logement, d'hébergement et de réadaptation sociale<a id=6></a>
